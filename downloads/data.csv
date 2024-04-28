@@ -1,0 +1,1801 @@
+,text,is_question,label,first_word,indexed_start,question_start,last_four_chars,ends_with_ks,contains_ks,lower_start,upper_start,contains_prompt_word,starts_with_prompt_word,single_word
+1600,She enjoys reading books in her free time. The painting was a masterpiece of color and emotion.,0,No,she,0,0,ion.,0,0,0,1,0,0,0
+950,Music has a way of bringing people together. They went for a long hike in the mountains.,0,No,music,0,0,ins.,0,0,0,1,0,0,0
+876,58. Define the key concepts of Science. (7 Marks),1,Yes,58.,1,0,rks),1,1,0,0,1,1,0
+164,58) Describe an important concept in Economics and its significance. (4 marks),1,yes,58),0,0,rks),1,1,0,0,1,1,0
+1279,Music has a way of bringing people together. They went for a long hike in the mountains.,0,No,music,0,0,ins.,0,0,0,1,0,0,0
+72,Calculus allows ks) the calculation of change and motion,0,no,calculus,0,0,tion,0,1,0,1,0,0,0
+250,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+325,Cells are the basic building blocks of all organisms ks,0,no,cells,0,0,s ks,0,0,0,1,0,0,0
+1668,159. Outline the key concepts of Geography. (10 Marks),1,Yes,159.,1,0,rks),1,1,0,0,0,0,0
+1011,The Roman Empire influenced modern governmental structures mks,0,no,the,0,0, mks,0,0,0,1,0,0,0
+1671,(a) State and explain any TEN factors that affect malaria transmission [10Mks],1,tbd,(a),1,0,Mks],1,1,0,0,1,0,0
+916,XXXI) Compare the key concepts of Economics. (10 Marks),1,Yes,xxxi),0,0,rks),1,1,0,1,1,1,0
+1233,Faith practices can vary significantly across denominations mks),0,no,faith,0,0,mks),1,1,0,1,0,0,0
+908,Strathmore,0,tbd,strathmore,0,0,more,0,0,0,1,0,0,1
+596,Cells are the basic building blocks of all organisms mks,0,no,cells,0,0, mks,0,0,0,1,0,0,0
+1281,ks) Energy conservation is a fundamental concept in physics,0,no,ks),0,0,sics,0,1,1,0,0,0,0
+558,Technology is evolving at a rapid pace. It was a sunny day in Paris.,0,No,technology,0,0,ris.,0,0,0,1,0,0,0
+1068,"""Risk identification forms the foundation of comprehensive risk management. Given the evolution of risks in the modern global context, including technological, environmental, and geopolitical risks, traditional risk identification methods may need to be supplemented or rethought.”",1,tbd,"""risk",0,0,ht.”,0,0,0,0,1,0,0
+533,They went for a long hike in the mountains. The painting was a masterpiece of color and emotion.,0,No,they,0,0,ion.,0,0,0,1,0,0,0
+1728,This examination consists of FIVE questions.,0,tbd,this,0,0,ons.,0,0,0,1,0,0,0
+728,Gravity affects the motion of objects on Earth mks,0,no,gravity,0,0, mks,0,0,0,1,0,0,0
+566,d) Explain the key concepts of Literature. (2 Marks),1,Yes,d),1,0,rks),1,1,1,0,1,1,0
+542,The cat sat on the mat. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+1261,(ii) State and explain any FIVE methods of Prevention and Control of HIV/AIDs [10Mks],1,tbd,(ii),1,0,Mks],1,1,0,0,1,0,0
+499,In what ways is the church in Kenya promoting justice in society? (6 mks),1,tbd,in,0,0,mks),1,1,0,1,1,1,0
+655,b) Why did Jesus use parables in his teachings: (6 mks),1,tbd,b),1,0,mks),1,1,1,0,1,1,0
+722,"; name, idumber, and course and then (8 Marks)",1,tbd,;,0,0,rks),1,1,0,0,0,0,0
+534,Photosynthesis converts solar energy into chemical energy rks,0,no,photosynthesis,0,0, rks,0,0,0,1,0,0,0
+1582,It was a sunny day in Paris. The painting was a masterpiece of color and emotion.,0,No,it,0,0,ion.,0,0,0,1,0,0,0
+1591,"Geometry involves studying shapes, sizes, and their properties mks)",0,no,geometry,0,0,mks),1,1,0,1,0,0,0
+1732,Technology is evolving at a rapid pace. He cooked a delicious meal for dinner.,0,No,technology,0,0,ner.,0,0,0,1,0,0,0
+1306,70. Describe the key concepts of Geography. (5 Marks),1,Yes,70.,1,0,rks),1,1,0,0,1,1,0
+475,He cooked a delicious meal for dinner. They went for a long hike in the mountains.,0,No,he,0,0,ins.,0,0,0,1,0,0,0
+1352,196. Compare the key concepts of Literature. (8 Marks),1,Yes,196.,1,0,rks),1,1,0,0,1,1,0
+292,The cat sat on the mat. The painting was a masterpiece of color and emotion.,0,No,the,0,0,ion.,0,0,0,1,0,0,0
+1570,DATE: 6% September 2021,0,tbd,date:,0,0,2021,0,0,0,1,0,0,0
+1642,XV) Explain the key concepts of Economics. (9 Marks),1,Yes,xv),0,0,rks),1,1,0,1,1,1,0
+624,Technology is evolving at a rapid pace. She enjoys reading books in her free time.,0,No,technology,0,0,ime.,0,0,0,1,0,0,0
+1435,MASTER OF SCIENCE IN DATA SCIENCE AND ANALYTICS,0,tbd,master,0,0,TICS,0,0,0,1,0,0,0
+665,Instructions &,0,tbd,instructions,0,0,ns &,0,0,0,1,0,0,0
+1495,sed in structured programming. (9 Marks),0,tbd,sed,0,0,rks),1,1,1,0,0,0,0
+1363,OLOOLTEPES SECON . KIBERIAD -,0,tbd,olooltepes,0,0,AD -,0,0,0,1,0,0,0
+1749,The speed of light is constant in vacuum ks,0,no,the,0,0,m ks,0,0,0,1,0,0,0
+355,II) Explain the key concepts of Science. (8 Marks),1,Yes,ii),0,0,rks),1,1,0,1,1,1,0
+555,Black holes are regions of space with mks strong gravity,0,no,black,0,0,vity,0,0,0,1,0,0,0
+67,END OF SEMESTER EXAMINATION,0,tbd,end,0,0,TION,0,0,0,1,0,0,0
+1356,for crude oil in country H has been estimated to be -0.06,0,tbd,for,0,0,0.06,0,0,1,0,0,0,0
+327,179. Explain the key concepts of Mathematics. (1 Marks),1,Yes,179.,1,0,rks),1,1,0,0,1,1,0
+1141,172. Explain the key concepts of Biology. (2 Marks),1,Yes,172.,1,0,rks),1,1,0,0,1,1,0
+1652,Quantum mechanics explores particles at the smallest scales ks),0,no,quantum,0,0, ks),1,1,0,1,0,0,0
+254,Gravity affects the motion of objects on Earth rks),0,no,gravity,0,0,rks),1,1,0,1,0,0,0
+1361,j) Compare the key concepts of Biology. (2 Marks),1,Yes,j),1,0,rks),1,1,1,0,1,1,0
+615,They went for a long hike in the mountains. The painting was a masterpiece of color and emotion.,0,No,they,0,0,ion.,0,0,0,1,0,0,0
+1378,XXI) Explain the key concepts of Economics. (9 Marks),1,Yes,xxi),0,0,rks),1,1,0,1,1,1,0
+683,Technology is evolving at a rapid pace. They went for a long hike in the mountains.,0,No,technology,0,0,ins.,0,0,0,1,0,0,0
+1344,SECTION A: Attempt ALL questions in this section,0,tbd,section,0,0,tion,0,0,0,1,0,0,0
+1347,c) What activities of the church in Kenya show that the Holy Spirit is working among them? (5 Marks),1,tbd,c),1,0,rks),1,1,1,0,1,1,0
+29,The painting was a masterpiece of color and emotion. He cooked a delicious meal for dinner.,0,No,the,0,0,ner.,0,0,0,1,0,0,0
+1128,"(d) In the context of financial markets, distinguish betwee informational efficiency. (4 Marks)",1,tbd,(d),1,0,rks),1,1,0,0,0,0,0
+1718,He cooked a delicious meal for dinner. They went for a long hike in the mountains.,0,No,he,0,0,ins.,0,0,0,1,0,0,0
+137,Music has a way of bringing people together. Music has a way of bringing people together.,0,No,music,0,0,her.,0,0,0,1,0,0,0
+656,LXII) Define the key concepts of Biology. (9 Marks),1,Yes,lxii),0,0,rks),1,1,0,1,1,1,0
+1658,XXIX) Discuss the key concepts of Biology. (6 Marks),1,Yes,xxix),0,0,rks),1,1,0,1,1,1,0
+686,124. Summarize the key concepts of Science. (4 Marks),1,Yes,124.,1,0,rks),1,1,0,0,0,0,0
+1681,115. Describe the key concepts of Literature. (5 Marks),1,Yes,115.,1,0,rks),1,1,0,0,1,1,0
+1462,86. Explain the key concepts of Economics. (3 Marks),1,Yes,86.,1,0,rks),1,1,0,0,1,1,0
+1502,LVI) Describe the key concepts of Physics. (1 Marks),1,Yes,lvi),0,0,rks),1,1,0,1,1,1,0
+1318,184. Analyze the key concepts of Geography. (8 Marks),1,Yes,184.,1,0,rks),1,1,0,0,1,1,0
+559,The painting was a masterpiece of color and emotion. Technology is evolving at a rapid pace.,0,No,the,0,0,ace.,0,0,0,1,0,0,0
+1604,24) Describe an important concept in Business Studies and its significance. (9 marks),1,yes,24),0,0,rks),1,1,0,0,1,1,0
+386,io Maseno School Mock Committee 2023 co :,0,tbd,io,0,0,co :,0,0,1,0,0,0,0
+175,The cat sat on the mat. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+111,It was a sunny day in Paris. Technology is evolving at a rapid pace.,0,No,it,0,0,ace.,0,0,0,1,0,0,0
+575,LXXXI) Compare the key concepts of Economics. (8 Marks),1,Yes,lxxxi),0,0,rks),1,1,0,1,1,1,0
+539,25) Describe an important concept in Environmental Science and its significance. (5 marks),1,yes,25),0,0,rks),1,1,0,0,1,1,0
+1613,The painting was a masterpiece of color and emotion. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+1034,XLVIII) Outline the key concepts of Physics. (9 Marks),1,Yes,xlviii),0,0,rks),1,1,0,1,0,0,0
+871,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+242,Music has a way of bringing people together. They went for a long hike in the mountains.,0,No,music,0,0,ins.,0,0,0,1,0,0,0
+113,He cooked a delicious meal for dinner. The cat sat on the mat.,0,No,he,0,0,mat.,0,0,0,1,0,0,0
+1669,The key concepts of Physics. (3 Marks),0,no,the,0,0,rks),1,1,0,1,0,0,0
+955,XCV) Compare the key concepts of Physics. (4 Marks),1,Yes,xcv),0,0,rks),1,1,0,1,1,1,0
+594,Music has a way of bringing people together. He cooked a delicious meal for dinner.,0,No,music,0,0,ner.,0,0,0,1,0,0,0
+824,Music has a way of bringing people together. Technology is evolving at a rapid pace.,0,No,music,0,0,ace.,0,0,0,1,0,0,0
+23,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+1576,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+1798,Cells are the basic building blocks of all organisms rks,0,no,cells,0,0, rks,0,0,0,1,0,0,0
+1263,TIME: 2 Hours 2021 a,0,tbd,time:,0,0,21 a,0,0,0,1,0,0,0
+522,16) Describe an important concept in Art and its significance. (7 marks),1,yes,16),0,0,rks),1,1,0,0,1,1,0
+433,Algebra is essential for solving equations mks and inequalities,0,no,algebra,0,0,ties,0,0,0,1,0,0,0
+659,They went for a long hike in the mountains. The painting was a masterpiece of color and emotion.,0,No,they,0,0,ion.,0,0,0,1,0,0,0
+334,The cat sat on the mat. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+191,18. Explain the key concepts of Science. (4 Marks),1,Yes,18.,1,0,rks),1,1,0,0,1,1,0
+1734,Min: -TERMEN ERNMENT PAPER 2 iby Me “wc ‘Gentity any two classifications of written sources of information on History and,0,tbd,min:,0,0, and,0,0,0,1,0,0,0
+387,She enjoys reading books in her free time. The painting was a masterpiece of color and emotion.,0,No,she,0,0,ion.,0,0,0,1,0,0,0
+442,Black holes are regions of space with strong gravity rks,0,no,black,0,0, rks,0,0,0,1,0,0,0
+1784,Black holes are regions of space with strong rks gravity,0,no,black,0,0,vity,0,0,0,1,0,0,0
+595,The painting was a masterpiece of color and emotion. Technology is evolving at a rapid pace.,0,No,the,0,0,ace.,0,0,0,1,0,0,0
+213,"b) Write a program in C programming language that allows a user to input a whole number of X in main program and uses two user defined functions name, square() to compute the square of the number X and cube() to compute the cube of X, then veer the X, result of the square and cube in the main program. Use if() to select each subprogram at a time to execute. ; (10 Marks)",1,tbd,b),1,0,rks),1,1,1,0,1,1,0
+223,DSA 8105: FUNDAMENTAL ¢ ONCEPTS IN FINANCE AND ECONOMICS,0,tbd,dsa,0,0,MICS,0,0,0,1,0,0,0
+206,LXX) Summarize the key concepts of Literature. (7 Marks),1,Yes,lxx),0,0,rks),1,1,0,1,0,0,0
+443,LXXXIV) Summarize the key concepts of Geography. (10 Marks),1,Yes,lxxxiv),0,0,rks),1,1,0,1,0,0,0
+1628,She enjoys reading books in her free time. It was a sunny day in Paris.,0,No,she,0,0,ris.,0,0,0,1,0,0,0
+1526,QUESTION ONE (20 MARKS),0,tbd,question,0,1,RKS),0,0,0,1,0,0,0
+1750,The speed of light is constant in vacuum mks),0,no,the,0,0,mks),1,1,0,1,0,0,0
+587,60) Describe an important concept in Philosophy and its significance. (5 marks),1,yes,60),0,0,rks),1,1,0,0,1,1,0
+1742,LXIII) Discuss the key concepts of Biology. (6 Marks),1,Yes,lxiii),0,0,rks),1,1,0,1,1,1,0
+487,r) Explain the key concepts of Geography. (9 Marks),1,Yes,r),1,0,rks),1,1,1,0,1,1,0
+1257,They went for a long hike in the mountains. Music has a way of bringing people together.,0,No,they,0,0,her.,0,0,0,1,0,0,0
+789,84. Analyze the key concepts of Literature. (3 Marks),1,Yes,84.,1,0,rks),1,1,0,0,1,1,0
+485,lization in Kenya since independence. (1Omarks),1,tbd,lization,0,0,rks),1,1,1,0,0,0,0
+518,Music has a way of bringing people together. They went for a long hike in the mountains.,0,No,music,0,0,ins.,0,0,0,1,0,0,0
+956,The painting was a masterpiece of color and emotion. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+975,"b) Write a C program that that has three subprograms, first subprogram to input a list of 18 customers names as string and ; deposit as number with decimal point, second subprogram to compute sum of the deposit of all customers and third ubprogram to display the list the 18 customers names and deposit, and sum of deposits. (11 Marks)",1,tbd,b),1,0,rks),1,1,1,0,1,1,0
+616,22) Describe an important concept in Health Education and its significance. (4 marks),1,yes,22),0,0,rks),1,1,0,0,1,1,0
+809,MASTER OF SCIENCE IN DATA SCIENCE AND ANALYTICS,0,tbd,master,0,0,TICS,0,0,0,1,0,0,0
+531,This examination consists of FIVE questions.,0,tbd,this,0,0,ons.,0,0,0,1,0,0,0
+774,42) Describe an important concept in Art and its significance. (6 marks),1,yes,42),0,0,rks),1,1,0,0,1,1,0
+603,They went for a long hike in the mountains. They went for a long hike in the mountains.,0,No,they,0,0,ins.,0,0,0,1,0,0,0
+117,m) Discuss the key concepts of Physics. (3 Marks),1,Yes,m),1,0,rks),1,1,1,0,1,1,0
+510,75) Describe an important concept in Computer Science and its significance. (6 marks),1,yes,75),0,0,rks),1,1,0,0,1,1,0
+548,Strathmore,0,No,strathmore,0,0,more,0,0,0,1,0,0,1
+353,"Geometry ks) involves studying shapes, sizes, and their properties",0,no,geometry,0,0,ties,0,1,0,1,0,0,0
+1395,He cooked a delicious meal for dinner. He cooked a delicious meal for dinner.,0,No,he,0,0,ner.,0,0,0,1,0,0,0
+1726,XX) Describe the key concepts of History. (4 Marks),1,Yes,xx),0,0,rks),1,1,0,1,1,1,0
+1760,Genetic diversity stems from mutations ks) during reproduction,0,no,genetic,0,0,tion,0,1,0,1,0,0,0
+1057,141. Summarize the key concepts of Geography. (1 Marks),1,Yes,141.,1,0,rks),1,1,0,0,0,0,0
+1209,The speed of light is constant in vacuum mks),0,no,the,0,0,mks),1,1,0,1,0,0,0
+278,He cooked a delicious meal for dinner. Technology is evolving at a rapid pace.,0,No,he,0,0,ace.,0,0,0,1,0,0,0
+347,Faith practices can vary significantly across denominations ks,0,no,faith,0,0,s ks,0,0,0,1,0,0,0
+1785,(b) Discuss FIVE ways of positive living with HIV/AIDs [10Mks] lifestyle factors that contribute to many of such health problems? [10Mks],1,tbd,(b),1,0,Mks],1,1,0,0,1,1,0
+1224,Industrial Revolution sparked major urban demographic shifts mks),0,no,industrial,0,0,mks),1,1,0,1,0,0,0
+717,Page 1 of 4,0,tbd,page,0,0,of 4,0,0,0,1,0,0,0
+345,Explain Mathematical proofs are crucial for verifying truths ks),0,no,explain,0,0, ks),1,1,0,1,1,1,0
+1204,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+486,It was a sunny day in Paris. They went for a long hike in the mountains.,0,No,it,0,0,ins.,0,0,0,1,0,0,0
+893,Ecosystems depend on balancing competing species interactions rks),0,no,ecosystems,0,0,rks),1,1,0,1,0,0,0
+335,The painting was a masterpiece of color and emotion. He cooked a delicious meal for dinner.,0,No,the,0,0,ner.,0,0,0,1,0,0,0
+1173,19. Outline the key concepts of Biology. (5 Marks),1,Yes,19.,1,0,rks),1,1,0,0,0,0,0
+126,54) Describe an important concept in Geography and its significance. (6 marks),1,yes,54),0,0,rks),1,1,0,0,1,1,0
+547,He cooked a delicious meal for dinner. Technology is evolving at a rapid pace.,0,No,he,0,0,ace.,0,0,0,1,0,0,0
+1131,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+50,The speed of light is constant in vacuum mks),0,no,the,0,0,mks),1,1,0,1,0,0,0
+1219,Viruses are not considered living organisms by all rks,0,no,viruses,0,0, rks,0,0,0,1,0,0,0
+430,XVII) Outline the key concepts of Mathematics. (3 Marks),1,Yes,xvii),0,0,rks),1,1,0,1,0,0,0
+706,c) HBw do churches discipline those who cause disunity in the church today? (© Marks),1,tbd,c),1,0,rks),1,1,1,0,1,0,0
+1168,f) Compare the key concepts of Economics. (6 Marks),1,Yes,f),1,0,rks),1,1,1,0,1,1,0
+1786,145. Discuss the key concepts of Mathematics. (2 Marks),1,Yes,145.,1,0,rks),1,1,0,0,1,1,0
+899,Gravity affects the motion of objects on Earth ks,0,no,gravity,0,0,h ks,0,0,0,1,0,0,0
+1172,The Roman Empire influenced modern governmental structures rks),0,no,the,0,0,rks),1,1,0,1,0,0,0
+1520,87) Describe an important concept in Science and its significance. (7 marks),1,yes,87),0,0,rks),1,1,0,0,1,1,0
+1796,She enjoys reading books in her free time. The painting was a masterpiece of color and emotion.,0,No,she,0,0,ion.,0,0,0,1,0,0,0
+1216,34) Describe an important concept in Biology and its significance. (6 marks),1,yes,34),0,0,rks),1,1,0,0,1,1,0
+1774,79) Describe an important concept in Geography and its significance. (9 marks),1,yes,79),0,0,rks),1,1,0,0,1,1,0
+236,Dy,0,tbd,dy,0,0,Dy,0,0,0,1,0,0,1
+80,14) Describe an important concept in World Religions and its significance. (7 marks),1,yes,14),0,0,rks),1,1,0,0,1,1,0
+888,". Analyze the 2 limitations of different machine learning algorithms (such as decision trees, neural networks, and support vector machines) in predicting credit default risk (4 marks)",1,tbd,.,0,0,rks),1,1,0,0,1,1,0
+619,"Geometry rks involves studying shapes, sizes, and their properties",0,no,geometry,0,0,ties,0,0,0,1,0,0,0
+418,"""Risk identification forms the foundation of comprehensive risk management. Given the evolution of risks in the modern global context, including technological, environmental, and geopolitical risks, traditional risk identification methods may need to be supplemented or rethought.”",1,tbd,"""risk",0,0,ht.”,0,0,0,0,1,0,0
+75,SECTION B: Answer any TWO questions in this section,0,tbd,section,0,0,tion,0,0,0,1,0,0,0
+625,Technology is evolving at a rapid pace. Technology is evolving at a rapid pace.,0,No,technology,0,0,ace.,0,0,0,1,0,0,0
+71,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+1616,"4) Critically assess the benefits and criticisms of regulatory frameworks for banks and insurance companies. Use contemporary examples to illustrate your points and focus on the effects of recent changes in regulatory expectations, such as the increased focus on individual accountability and documentation. (8 marks)",1,yes,4),0,0,rks),1,1,0,0,1,0,0
+1326,22. a) Give three conditions a ps (12 marks),1,tbd,22.,1,0,rks),1,1,0,0,1,0,0
+792,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+784,Mathematical proofs ks) are crucial for verifying truths,0,no,mathematical,0,0,uths,0,1,0,1,0,0,0
+1763,(c) Briefly explain why a supply shock leads to stagflation. (3 Marks),1,tbd,(c),1,0,rks),1,1,0,0,1,0,0
+454,Ibs This examination consists of FIVE questions. 2s Answer Question ONE (COMPULSORY) and any other Two ques e,0,tbd,ibs,0,0,es e,0,0,0,1,0,0,0
+852,The painting was a masterpiece of color and emotion. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+851,23) Describe an important concept in Economics and its significance. (6 marks),1,yes,23),0,0,rks),1,1,0,0,1,1,0
+874,36) Describe an important concept in Music and its significance. (9 marks),1,yes,36),0,0,rks),1,1,0,0,1,1,0
+856,She enjoys reading books in her free time. She enjoys reading books in her free time.,0,No,she,0,0,ime.,0,0,0,1,0,0,0
+1270,132. Analyze the key concepts of Mathematics. (3 Marks),1,Yes,132.,1,0,rks),1,1,0,0,1,1,0
+78,Technology is evolving at a rapid pace. Music has a way of bringing people together.,0,No,technology,0,0,her.,0,0,0,1,0,0,0
+1514,(b) The price elasticity of demand _0.45 in the long run. Why would the demand for crude oil be price in the short-run and (3 Marks),1,tbd,(b),1,0,rks),1,1,0,0,1,0,0
+944,"(a) For each of the following scenarios, use a supply and demand diagram to illustrate the effect of a given shock on the equilibrium price and quantity u in the specified competitive market. Explain whether there is a shift in the demand curve, the supply, or neither i) An unexpected temporary heat wave hits the South Coast. Show the effect in the ice cream market in Mombasa. (3 Marks)",1,tbd,(a),1,0,rks),1,1,0,0,1,0,0
+1530,4. a) State four differences between traditional African prophets and the Old Testament prophets. 5: (8 mks),1,tbd,4.,1,0,mks),1,1,0,0,0,0,0
+1294,END OF SEMESTER EXAMINATION,0,tbd,end,0,0,TION,0,0,0,1,0,0,0
+787,Music has a way of bringing people together. The painting was a masterpiece of color and emotion.,0,No,music,0,0,ion.,0,0,0,1,0,0,0
+1370,86) Describe an important concept in Art and its significance. (7 marks),1,yes,86),0,0,rks),1,1,0,0,1,1,0
+1334,(a) Describe FIVE Goals of Antiretroviral therapy in HIV/AIDS treatments [10Mks],1,tbd,(a),1,0,Mks],1,1,0,0,1,1,0
+707,XCIV) Analyze the key concepts of Biology. (8 Marks),1,Yes,xciv),0,0,rks),1,1,0,1,1,1,0
+1247,UNIVERSITY,0,No,university,0,0,SITY,0,0,0,1,0,0,1
+711,20. Define the key concepts of Science. (8 Marks),1,Yes,20.,1,0,rks),1,1,0,0,1,1,0
+1328,Lacy gues poser cay te sulatory expectatic,0,tbd,lacy,0,0,atic,0,0,0,1,0,0,0
+30,It was a sunny day in Paris. Technology is evolving at a rapid pace.,0,No,it,0,0,ace.,0,0,0,1,0,0,0
+1327,b) Give six reasons why sacrifices were made in Traditional African communities. (6 mks),1,yes,b),1,0,mks),1,1,1,0,1,1,0
+1472,Technology is evolving at a rapid pace. They went for a long hike in the mountains.,0,No,technology,0,0,ins.,0,0,0,1,0,0,0
+1644,World War II reshaped global ks) power dynamics significantly,0,no,world,0,0,ntly,0,1,0,1,0,0,0
+371,elastic in the long run than in the short run? Briefly explain.,1,tbd,elastic,0,0,ain.,0,0,1,0,1,0,0
+412,DATE: 6% September 2021,0,tbd,date:,0,0,2021,0,0,0,1,0,0,0
+1036,"""Risk identification forms the foundation of comprehensive risk management. Given the evolution of risks in the modern global context, including technological, environmental, and geopolitical risks, traditional risk identification methods may need to be supplemented or rethought.”",1,tbd,"""risk",0,0,ht.”,0,0,0,0,1,0,0
+1403,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+1420,Technology is evolving at a rapid pace. Music has a way of bringing people together.,0,No,technology,0,0,her.,0,0,0,1,0,0,0
+101,77. Compare the key concepts of Geography. (5 Marks),1,Yes,77.,1,0,rks),1,1,0,0,1,1,0
+1152,119. Describe the key concepts of Economics. (1 Marks),1,Yes,119.,1,0,rks),1,1,0,0,1,1,0
+1115,194. Compare the key concepts of Biology. (1 Marks),1,Yes,194.,1,0,rks),1,1,0,0,1,1,0
+1646,Time: 2.5 Hours a eee ey,0,tbd,time:,0,0,e ey,0,0,0,1,0,0,0
+1096,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+862,40. Give aaa reaty which marked the colonial sphere of influence in East Africa in 1886. (1 mark),1,tbd,40.,1,0,ark),0,0,0,0,1,1,0
+794,92. Explain the key concepts of Geography. (1 Marks),1,Yes,92.,1,0,rks),1,1,0,0,1,1,0
+170,QUESTION ONE (20 MARKS),0,tbd,question,0,1,RKS),0,0,0,1,0,0,0
+949,12) Describe an important concept in Philosophy and its significance. (5 marks),1,yes,12),0,0,rks),1,1,0,0,1,1,0
+215,e) Explain the key concepts of Physics. (10 Marks),1,Yes,e),1,0,rks),1,1,1,0,1,1,0
+1553,"DATE: 17"" July 2022",0,tbd,date:,0,0,2022,0,0,0,1,0,0,0
+1050,The painting was a masterpiece of color and emotion. The cat sat on the mat.,0,No,the,0,0,mat.,0,0,0,1,0,0,0
+1736,Gent te et consent edn ye (1 mark),1,tbd,gent,0,0,ark),0,0,0,1,0,0,0
+484,"DATE: 17"" July 2022",0,tbd,date:,0,0,2022,0,0,0,1,0,0,0
+1602,Music has a way of bringing people together. Music has a way of bringing people together.,0,No,music,0,0,her.,0,0,0,1,0,0,0
+1448,g) Explain the key concepts of Literature. (1 Marks),1,Yes,g),1,0,rks),1,1,1,0,1,1,0
+1755,83. Outline the key concepts of Economics. (2 Marks),1,Yes,83.,1,0,rks),1,1,0,0,0,0,0
+32,XLIV) Summarize the key concepts of Geography. (6 Marks),1,Yes,xliv),0,0,rks),1,1,0,1,0,0,0
+924,Instructions &,0,tbd,instructions,0,0,ns &,0,0,0,1,0,0,0
+1171,(ii) What is the most money you can make on this investment over the next year? {2 marks},1,tbd,(ii),1,0,rks},1,1,0,0,1,1,0
+424,oy a) Narrate the transfiguration of Jesus. (8 mks),1,tbd,oy,0,0,mks),1,1,1,0,0,0,0
+1450,54. Discuss the key concepts of History. (1 Marks),1,Yes,54.,1,0,rks),1,1,0,0,1,1,0
+1195,DSA 8105: FUNDAMENTAL CONCEPTS IN FINANCE AND ECONOMICS,0,tbd,dsa,0,0,MICS,0,0,0,1,0,0,0
+1312,Instructions,0,tbd,instructions,0,0,ions,0,0,0,1,0,0,1
+910,j) Outline the key concepts of Economics. (10 Marks),1,Yes,j),1,0,rks),1,1,1,0,0,0,0
+188,Algebra is essential for solving equations and inequalities ks,0,no,algebra,0,0,s ks,0,0,0,1,0,0,0
+969,Religious conflicts have shaped political landscapes historically rks),0,no,religious,0,0,rks),1,1,0,1,0,0,0
+1549,It was a sunny day in Paris. Technology is evolving at a rapid pace.,0,No,it,0,0,ace.,0,0,0,1,0,0,0
+273,XXVI) Compare the key concepts of Literature. (10 Marks),1,Yes,xxvi),0,0,rks),1,1,0,1,1,1,0
+45,XCVIII) Analyze the key concepts of Science. (6 Marks),1,Yes,xcviii),0,0,rks),1,1,0,1,1,1,0
+375,It was a sunny day in Paris. She enjoys reading books in her free time.,0,No,it,0,0,ime.,0,0,0,1,0,0,0
+588,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+948,Energy conservation is ks) a fundamental concept in physics,0,no,energy,0,0,sics,0,1,0,1,0,0,0
+825,Christian teachings often emphasize forgiveness and redemption rks,0,no,christian,0,0, rks,0,0,0,1,1,0,0
+199,The Roman Empire influenced modern governmental rks structures,0,no,the,0,0,ures,0,0,0,1,0,0,0
+905,Quantum mechanics explores particles at the smallest scales mks,0,no,quantum,0,0, mks,0,0,0,1,0,0,0
+1014,Time: 2.5 Hours,0,tbd,time:,0,0,ours,0,0,0,1,0,0,0
+240,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+61,The cat sat on the mat. Music has a way of bringing people together.,0,No,the,0,0,her.,0,0,0,1,0,0,0
+1234,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+402,b) Explain the key concepts of Physics. (5 Marks),1,Yes,b),1,0,rks),1,1,1,0,1,1,0
+995,The cat sat on the mat. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+1477,z) Define the key concepts of Geography. (6 Marks),1,Yes,z),1,0,rks),1,1,1,0,1,1,0
+369,77) Describe an important concept in Science and its significance. (4 marks),1,yes,77),0,0,rks),1,1,0,0,1,1,0
+1569,h) Compare the key concepts of Biology. (10 Marks),1,Yes,h),1,0,rks),1,1,1,0,1,1,0
+310,q) Summarize the key concepts of History. (10 Marks),1,Yes,q),1,0,rks),1,1,1,0,0,0,0
+1460,154. Discuss the key concepts of Mathematics. (6 Marks),1,Yes,154.,1,0,rks),1,1,0,0,1,1,0
+1280,Question 1 (30 Marks),0,tbd,question,0,1,rks),1,1,0,1,0,0,0
+125,(c) Briefly explain why a supply shock leads to stagflation. (3 Marks),1,tbd,(c),1,0,rks),1,1,0,0,1,0,0
+778,a,0,no,a,0,0,a,0,0,1,0,0,0,1
+257,They went for a long hike in the mountains. They went for a long hike in the mountains.,0,No,they,0,0,ins.,0,0,0,1,0,0,0
+308,63. Define the key concepts of Physics. (10 Marks),1,Yes,63.,1,0,rks),1,1,0,0,1,1,0
+1029,98. Analyze the key concepts of Literature. (4 Marks),1,Yes,98.,1,0,rks),1,1,0,0,1,1,0
+688,DSA 8105: FUNDAMENTAL CONCEPTS IN a,0,tbd,dsa,0,0,IN a,0,0,0,1,0,0,0
+1123,The cat sat on the mat. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+1560,126. Describe the key concepts of Physics. (6 Marks),1,Yes,126.,1,0,rks),1,1,0,0,1,1,0
+1645,¢) Identify seven examples of covenants made in Kenya today (7m 3. a) Give five reasons why Israelites demanded for a king. (5 mks),1,tbd,¢),0,0,mks),1,1,0,0,1,0,0
+1376,ae y ne’ lical stories of creation it in Biblical creation ies given to human beings by (a mks),1,tbd,ae,0,0,mks),1,1,1,0,1,0,0
+1482,LXXXVII) Analyze the key concepts of Geography. (2 Marks),1,Yes,lxxxvii),0,0,rks),1,1,0,1,1,1,0
+1187,33. Explain the key concepts of History. (5 Marks),1,Yes,33.,1,0,rks),1,1,0,0,1,1,0
+1788,ks) Calculus allows the calculation of change and motion,0,no,ks),0,0,tion,0,1,1,0,0,0,0
+300,Technology is evolving at a rapid pace. It was a sunny day in Paris.,0,No,technology,0,0,ris.,0,0,0,1,0,0,0
+1020,Cc). Differentiate between pseudo code and a flowchart. (2 Marks),1,tbd,cc).,0,0,rks),1,1,0,1,1,0,0
+370,91. Describe the key concepts of Economics. (10 Marks),1,Yes,91.,1,0,rks),1,1,0,0,1,1,0
+1444,CRE. FORM 4 dias,0,tbd,cre.,0,0,dias,0,0,0,1,0,0,0
+1556,c),0,tbd,c),0,0,c),0,0,1,0,0,0,1
+1768,MASTER OF SCIENCE IN DATA SCIENCE AND ANALYTICS,0,tbd,master,0,0,TICS,0,0,0,1,0,0,0
+354,Genetic diversity stems from mutations ks) during reproduction,0,no,genetic,0,0,tion,0,1,0,1,0,0,0
+69,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+1087,"Analyze the 2 limitations of different machine learning algorithms (such as decision trees, neural networks, and support vector machines) in predicting credit default risk (4 marks)",1,Yes,analyze,0,0,rks),1,1,0,1,1,1,0
+1620,DSA 8105: FUNDAMENTAL CONCEPTS IN FINANCE AND ECONOMICS 6 Setember2021 Time: 3 Hours ice cream market in Mombasa. _ G Marks),1,tbd,dsa,0,0,rks),1,1,0,1,0,0,0
+752,"Geometry involves studying shapes, sizes, and their properties rks",0,no,geometry,0,0, rks,0,0,0,1,0,0,0
+1276,Music has a way of bringing people together. It was a sunny day in Paris.,0,No,music,0,0,ris.,0,0,0,1,0,0,0
+1744,(5 Marks),0,tbd,(5,0,0,rks),1,1,0,0,0,0,0
+398,QUESTION FOUR £,1,tbd,question,0,1,UR £,0,0,0,1,0,0,0
+740,Faith practices can vary significantly across denominations mks),0,no,faith,0,0,mks),1,1,0,1,0,0,0
+820,It was a sunny day in Paris. He cooked a delicious meal for dinner.,0,No,it,0,0,ner.,0,0,0,1,0,0,0
+1358,80. Discuss the key concepts of Literature. (2 Marks),1,Yes,80.,1,0,rks),1,1,0,0,1,1,0
+306,75. Define the key concepts of Geography. (5 Marks),1,Yes,75.,1,0,rks),1,1,0,0,1,1,0
+598,Ecosystems ks) depend on balancing competing species interactions,0,no,ecosystems,0,0,ions,0,1,0,1,0,0,0
+1387,The speed of light is constant in vacuum ks,0,no,the,0,0,m ks,0,0,0,1,0,0,0
+1432,Christian teachings often emphasize forgiveness and ks) redemption,0,no,christian,0,0,tion,0,1,0,1,1,0,0
+1506,Algebra is essential for solving equations and inequalities rks,0,no,algebra,0,0, rks,0,0,0,1,0,0,0
+319,y) Summarize the key concepts of Biology. (4 Marks),1,Yes,y),1,0,rks),1,1,1,0,0,0,0
+1540,"1) Examine the importance of data quality in risk analytics, discuss the potential impact of incomplete or incorrect data on risk prediction models, and propose strategies for mitigating these issues. (4 marks)",1,yes,1),0,0,rks),1,1,0,0,1,0,0
+761,71) Describe an important concept in Sociology and its significance. (4 marks),1,yes,71),0,0,rks),1,1,0,0,1,1,0
+648,(c) Briefly explain why a supply shock leads to stagflation. (3 Marks),1,Yes,(c),1,0,rks),1,1,0,0,1,0,0
+538,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+762,40) Describe an important concept in Astronomy and its significance. (9 marks),1,yes,40),0,0,rks),1,1,0,0,1,1,0
+264,He cooked a delicious meal for dinner. They went for a long hike in the mountains.,0,No,he,0,0,ins.,0,0,0,1,0,0,0
+1091,(iii) What is the true price of a bushel of wheat in Kisumu? (2 marks),1,tbd,(iii),1,0,rks),1,1,0,0,1,1,0
+243,68) Describe an important concept in World Religions and its significance. (10 marks),1,yes,68),0,0,rks),1,1,0,0,1,1,0
+675,26) Describe an important concept in History and its significance. (9 marks),1,yes,26),0,0,rks),1,1,0,0,1,1,0
+301,w) Describe the key concepts of Mathematics. (9 Marks),1,Yes,w),1,0,rks),1,1,1,0,1,1,0
+1117,Cells are the basic building blocks of all organisms ks),0,no,cells,0,0, ks),1,1,0,1,0,0,0
+973,"STRU IONS, : 1. State the Jewish expectation concerning the Messiah, (6mks)",1,tbd,stru,0,0,mks),1,1,0,1,0,0,0
+853,Technology is evolving at a rapid pace. The cat sat on the mat.,0,No,technology,0,0,mat.,0,0,0,1,0,0,0
+436,They went for a long hike in the mountains. Technology is evolving at a rapid pace.,0,No,they,0,0,ace.,0,0,0,1,0,0,0
+73,F 6 mks),0,tbd,f,0,0,mks),1,1,0,1,0,0,0
+385,Define Algebra is essential for solving equations and inequalities rks],0,no,define,0,0,rks],1,1,0,1,1,1,0
+262,It was a sunny day in Paris. Music has a way of bringing people together.,0,No,it,0,0,her.,0,0,0,1,0,0,0
+53,b) Describe the key concepts of Biology. (3 Marks),1,Yes,b),1,0,rks),1,1,1,0,1,1,0
+378,89) Describe an important concept in English Literature and its significance. (8 marks),1,yes,89),0,0,rks),1,1,0,0,1,1,0
+342,n) Explain the key concepts of Literature. (1 Marks),1,Yes,n),1,0,rks),1,1,1,0,1,1,0
+536,END OF SEMESTER EXAMINATION   ,0,No,end,0,0,N   ,0,0,0,1,0,0,0
+1229,Religious conflicts have shaped political landscapes historically rks,0,no,religious,0,0, rks,0,0,0,1,0,0,0
+1322,l) Analyze the key concepts of Science. (4 Marks),1,Yes,l),1,0,rks),1,1,1,0,1,1,0
+1070,They went for a long hike in the mountains. Technology is evolving at a rapid pace.,0,No,they,0,0,ace.,0,0,0,1,0,0,0
+1746,Mathematical proofs are crucial for verifying truths ks),0,no,mathematical,0,0, ks),1,1,0,1,0,0,0
+1751,It was a sunny day in Paris. They went for a long hike in the mountains.,0,No,it,0,0,ins.,0,0,0,1,0,0,0
+1062,60. Discuss the key concepts of History. (8 Marks),1,Yes,60.,1,0,rks),1,1,0,0,1,1,0
+1238,The cat sat on the mat. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+945,Music has a way of bringing people together. Technology is evolving at a rapid pace.,0,No,music,0,0,ace.,0,0,0,1,0,0,0
+1500,"(a) For each of the following scenarios, use a supply and demand diagram to illustrate the effect of a given shock on the equilibrium price and quantity u in the specified competitive market. Explain whether there is a shift in the demand curve, the supply, or neither i) An unexpected temporary heat wave hits the South Coast. Show the effect in the ice cream market in Mombasa. (3 Marks)",1,tbd,(a),1,0,rks),1,1,0,0,1,0,0
+429,37) Describe an important concept in Business Studies and its significance. (4 marks),1,yes,37),0,0,rks),1,1,0,0,1,1,0
+466,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+498,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+850,64) Describe an important concept in Physics and its significance. (4 marks),1,yes,64),0,0,rks),1,1,0,0,1,1,0
+1548,Technology is evolving at a rapid pace. Music has a way of bringing people together.,0,No,technology,0,0,her.,0,0,0,1,0,0,0
+530,for crude oil in country H has been estimated to be -0.06,0,tbd,for,0,0,0.06,0,0,1,0,0,0,0
+143,n economic efficiency and,0,tbd,n,0,0, and,0,0,1,0,0,0,0
+1484,The painting was a masterpiece of color and emotion. The cat sat on the mat.,0,No,the,0,0,mat.,0,0,0,1,0,0,0
+622,"; name, idumber, and course and then (8 Marks)",1,tbd,;,0,0,rks),1,1,0,0,0,0,0
+1690,Music has a way of bringing people together. Technology is evolving at a rapid pace.,0,No,music,0,0,ace.,0,0,0,1,0,0,0
+864,Statistics helps in making decisions based on data mks,0,no,statistics,0,0, mks,0,0,0,1,0,0,0
+437,He cooked a delicious meal for dinner. She enjoys reading books in her free time.,0,No,he,0,0,ime.,0,0,0,1,0,0,0
+1005,Technology is evolving at a rapid pace. She enjoys reading books in her free time.,0,No,technology,0,0,ime.,0,0,0,1,0,0,0
+274,Music has a way of bringing people together. He cooked a delicious meal for dinner.,0,No,music,0,0,ner.,0,0,0,1,0,0,0
+187,XXVIII) Summarize the key concepts of Geography. (3 Marks),1,Yes,xxviii),0,0,rks),1,1,0,1,0,0,0
+779,c) Explain the key concepts of Literature. (2 Marks),1,Yes,c),1,0,rks),1,1,1,0,1,1,0
+247,(5 Marks),0,tbd,(5,0,0,rks),1,1,0,0,0,0,0
+1471,b) Outline the social injustices condemned by prophet Amos in Israel. (6 mks),1,yes,b),1,0,mks),1,1,1,0,0,0,0
+1075,u) Summarize the key concepts of Science. (4 Marks),1,Yes,u),1,0,rks),1,1,1,0,0,0,0
+1468,Music has a way of bringing people together. Technology is evolving at a rapid pace.,0,No,music,0,0,ace.,0,0,0,1,0,0,0
+1407,The painting was a masterpiece of color and emotion. Music has a way of bringing people together.,0,No,the,0,0,her.,0,0,0,1,0,0,0
+1496,DIPLOMA OF TECHNOLOGY IN INFORMATION TECHNOLOGY,0,tbd,diploma,0,0,LOGY,0,0,0,1,0,0,0
+1489,Time: 2.5 Hours,0,tbd,time:,0,0,ours,0,0,0,1,0,0,0
+914,Describe Photosynthesis converts solar energy into chemical energy rks,0,no,describe,0,0, rks,0,0,0,1,1,1,0
+607,b) Explain the characteristics of a covenant. eras),1,tbd,b),1,0,ras),0,0,1,0,1,1,0
+1775,The painting was a masterpiece of color and emotion. Technology is evolving at a rapid pace.,0,No,the,0,0,ace.,0,0,0,1,0,0,0
+1316,SSORY) and any other TWO questions. (3 Marks),0,tbd,ssory),0,0,rks),1,1,0,1,0,0,0
+253,51) Describe an important concept in Business Studies and its significance. (10 marks),1,yes,51),0,0,rks),1,1,0,0,1,1,0
+501,Answer Question ONE (COMPULSORY) and any other TWO questions.,0,tbd,answer,0,0,ons.,0,0,0,1,0,0,0
+1185,(5 Marks),0,tbd,(5,0,0,rks),1,1,0,0,0,0,0
+1298,¢) Identify seven examples of covenants made in Kenya today (7m 3. a) Give five reasons why Israelites demanded for a king. (5 mks),1,tbd,¢),0,0,mks),1,1,0,0,1,0,0
+1384,Give two ways how scientific inventions have negatively impacted on Agriculture. (2marks),1,tbd,give,0,0,rks),1,1,0,1,1,1,0
+357,Moral codes from religions influence ks) societal laws,0,no,moral,0,0,laws,0,1,0,1,0,0,0
+1060,Kenya take care of the environment ( (8 mks),0,tbd,kenya,0,0,mks),1,1,0,1,0,0,0
+623,Religious conflicts have shaped political landscapes historically rks,0,no,religious,0,0, rks,0,0,0,1,0,0,0
+633,b) In what ways did prophet Jeremiah suffer while carrying out his workin Judah. (6 mks),1,tbd,b),1,0,mks),1,1,1,0,1,0,0
+1033,It was a sunny day in Paris. The cat sat on the mat.,0,No,it,0,0,mat.,0,0,0,1,0,0,0
+1311,a) Give five reasons why Israelites demanded for a king. (5 mks),1,yes,a),1,0,mks),1,1,1,0,1,1,0
+419,The speed of light is constant in vacuum rks,0,no,the,0,0, rks,0,0,0,1,0,0,0
+1004,Gravity affects the motion of objects on Earth ks,0,no,gravity,0,0,h ks,0,0,0,1,0,0,0
+172,Black holes are regions of space with strong rks gravity,0,no,black,0,0,vity,0,0,0,1,0,0,0
+1575,III) Summarize the key concepts of Biology. (10 Marks),1,Yes,iii),0,0,rks),1,1,0,1,0,0,0
+417,32) Describe an important concept in Physical Education and its significance. (8 marks),1,yes,32),0,0,rks),1,1,0,0,1,1,0
+1429,They went for a long hike in the mountains. She enjoys reading books in her free time.,0,No,they,0,0,ime.,0,0,0,1,0,0,0
+303,He cooked a delicious meal for dinner. She enjoys reading books in her free time.,0,No,he,0,0,ime.,0,0,0,1,0,0,0
+1790,Cells are the basic building blocks of all organisms ks,0,no,cells,0,0,s ks,0,0,0,1,0,0,0
+415,The painting was a masterpiece of color and emotion. Music has a way of bringing people together.,0,No,the,0,0,her.,0,0,0,1,0,0,0
+772,Pentecost? (5 Marks),1,tbd,pentecost?,0,0,rks),1,1,0,1,0,0,0
+1473,She enjoys reading books in her free time. The painting was a masterpiece of color and emotion.,0,No,she,0,0,ion.,0,0,0,1,0,0,0
+1743,The cat sat on the mat. He cooked a delicious meal for dinner.,0,No,the,0,0,ner.,0,0,0,1,0,0,0
+1277,Technology is evolving at a rapid pace. The cat sat on the mat.,0,No,technology,0,0,mat.,0,0,0,1,0,0,0
+1282,ks) Calculus allows the calculation of change and motion,0,no,ks),0,0,tion,0,1,1,0,0,0,0
+839,177. Compare the key concepts of Science. (9 Marks),1,Yes,177.,1,0,rks),1,1,0,0,1,1,0
+843,"QUESTION 1 [30 MARKS] COMPULSORY a) Explain the two types of functions used in C program, giving an example of each. (4 Marks)",1,tbd,question,0,1,rks),1,1,0,1,1,0,0
+1110,QUESTION ONE (30 MARKS)-COMPULSORY a). Explain the following programming tools used in program development:- \. Language translators ii Unker ii. IDE iv. Loader (4 Marks),1,tbd,question,0,1,rks),1,1,0,1,1,0,0
+866,"Significance of passion, death and resurrection of Jesus to Christians today. - the teaching of Jesus on the vine and braches, (7mks)",1,tbd,significance,0,0,mks),1,1,0,1,0,0,0
+572,"b) Write a program in C programming language that allows a user to input a whole number of X in main program and uses two user defined functions name, square() to compute the square of the number X and cube() to compute the cube of X, then veer the X, result of the square and cube in the main program. Use if() to select each subprogram at a time to execute. ; (10 Marks)",1,tbd,b),1,0,rks),1,1,1,0,1,1,0
+177,Statistics helps in making decisions based on data rks),0,no,statistics,0,0,rks),1,1,0,1,0,0,0
+1469,(9 Marks),0,tbd,(9,0,0,rks),1,1,0,0,0,0,0
+682,"(a) Suppose Kisumu can produce 120 million bushels of wheat if it uses all of its pro- ductive resources in the wheat industry, or 80 million yards of cloth if it uses all of its resources in the cloth industry. Use a diagram to illustrate your answers to the following questions. Label the diagram and explain in words.",1,tbd,(a),1,0,rds.,0,0,0,0,1,0,0
+1402,104. Describe the key concepts of Science. (10 Marks),1,Yes,104.,1,0,rks),1,1,0,0,1,1,0
+337,"DATE: 17"" July 2022",0,tbd,date:,0,0,2022,0,0,0,1,0,0,0
+766,24. Define the key concepts of Biology. (8 Marks),1,Yes,24.,1,0,rks),1,1,0,0,1,1,0
+642,Music has a way of bringing people together. She enjoys reading books in her free time.,0,No,music,0,0,ime.,0,0,0,1,0,0,0
+900,She enjoys reading books in her free time. They went for a long hike in the mountains.,0,No,she,0,0,ins.,0,0,0,1,0,0,0
+1213,UNIVERSITY,0,No,university,0,0,SITY,0,0,0,1,0,0,1
+201,62) Describe an important concept in Business Studies and its significance. (8 marks),1,yes,62),0,0,rks),1,1,0,0,1,1,0
+15,A. Which is okccre ne where the remains of Kenyapitheeus were discovered in Kenya: (2 marks),1,tbd,a.,0,0,rks),1,1,0,1,1,0,0
+268,Instructions,0,tbd,instructions,0,0,ions,0,0,0,1,0,0,1
+561,Faith practices can vary significantly across denominations mks),0,no,faith,0,0,mks),1,1,0,1,0,0,0
+1040,o) Outline the key concepts of Mathematics. (8 Marks),1,Yes,o),1,0,rks),1,1,1,0,0,0,0
+823,The painting was a masterpiece of color and emotion. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+1516,She enjoys reading books in her free time. They went for a long hike in the mountains.,0,No,she,0,0,ins.,0,0,0,1,0,0,0
+748,Music has a way of bringing people together. It was a sunny day in Paris.,0,No,music,0,0,ris.,0,0,0,1,0,0,0
+1400,66) Describe an important concept in Economics and its significance. (7 marks),1,yes,66),0,0,rks),1,1,0,0,1,1,0
+482,STRATHMORE INSTITUTE OF MATHEMATICAL SCIENCES,0,tbd,strathmore,0,0,NCES,0,0,0,1,0,0,0
+1012,46) Describe an important concept in Biology and its significance. (7 marks),1,yes,46),0,0,rks),1,1,0,0,1,1,0
+420,95. Discuss the key concepts of Geography. (6 Marks),1,Yes,95.,1,0,rks),1,1,0,0,1,1,0
+202,LXXXIX) Analyze the key concepts of Economics. (10 Marks),1,Yes,lxxxix),0,0,rks),1,1,0,1,1,1,0
+734,Music has a way of bringing people together. He cooked a delicious meal for dinner.,0,No,music,0,0,ner.,0,0,0,1,0,0,0
+1000,She enjoys reading books in her free time. The cat sat on the mat.,0,No,she,0,0,mat.,0,0,0,1,0,0,0
+1731,95) Describe an important concept in Chemistry and its significance. (6 marks),1,yes,95),0,0,rks),1,1,0,0,1,1,0
+1159,192. Define the key concepts of Science. (4 Marks),1,Yes,192.,1,0,rks),1,1,0,0,1,1,0
+1501,c) How do Christians in Kenya show respect for places of worship? (6 mks),1,tbd,c),1,0,mks),1,1,1,0,1,1,0
+1457,The painting was a masterpiece of color and emotion. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+1180,1. Analyze the key concepts of Geography. (2 Marks),1,Yes,1.,1,0,rks),1,1,0,0,1,1,0
+1124,Answer Question ONE (COMPULSORY) and any other TWO questions.,0,tbd,answer,0,0,ons.,0,0,0,1,0,0,0
+1577,The Roman Empire mks influenced modern governmental structures,0,no,the,0,0,ures,0,0,0,1,0,0,0
+604,Technology is evolving at a rapid pace. He cooked a delicious meal for dinner.,0,No,technology,0,0,ner.,0,0,0,1,0,0,0
+1393,51. Analyze the key concepts of Literature. (7 Marks),1,Yes,51.,1,0,rks),1,1,0,0,1,1,0
+937,111. Compare the key concepts of Biology. (2 Marks),1,Yes,111.,1,0,rks),1,1,0,0,1,1,0
+313,Gravity affects the motion of objects on Earth rks),0,no,gravity,0,0,rks),1,1,0,1,0,0,0
+58,"(0) , npute the area of acircle and to compute perimeter of a circle, (11. Marks)",1,tbd,(0),0,0,rks),1,1,0,0,0,0,0
+552,(9 Marks),0,tbd,(9,0,0,rks),1,1,0,0,0,0,0
+426,Technology is evolving at a rapid pace. He cooked a delicious meal for dinner.,0,No,technology,0,0,ner.,0,0,0,1,0,0,0
+601,END OF SEMESTER EXAMINATION,0,tbd,end,0,0,TION,0,0,0,1,0,0,0
+44,"Re, a) With reference to the teaching of prophet Jeremiah on judgement , State six ways in which God would punish the people of Judah. (6 mks)",1,tbd,"re,",0,0,mks),1,1,0,1,0,0,0
+102,The Roman Empire mks influenced modern governmental structures,0,no,the,0,0,ures,0,0,0,1,0,0,0
+277,(b) The price elasticity of demand _0.45 in the long run. Why would the demand for crude oil be price in the short-run and (3 Marks),1,tbd,(b),1,0,rks),1,1,0,0,1,0,0
+1266,LI) Summarize the key concepts of Literature. (2 Marks),1,Yes,li),0,0,rks),1,1,0,1,0,0,0
+356,61. Describe the key concepts of Geography. (9 Marks),1,Yes,61.,1,0,rks),1,1,0,0,1,1,0
+103,m) Outline the key concepts of Economics. (4 Marks),1,Yes,m),1,0,rks),1,1,1,0,0,0,0
+981,DSA 8304 Risk Management Analytics,0,tbd,dsa,0,0,tics,0,0,0,1,0,0,0
+109,It was a sunny day in Paris. Music has a way of bringing people together.,0,No,it,0,0,her.,0,0,0,1,0,0,0
+1739,76) Describe an important concept in Music and its significance. (7 marks),1,yes,76),0,0,rks),1,1,0,0,1,1,0
+1789,44. Define the key concepts of Science. (9 Marks),1,Yes,44.,1,0,rks),1,1,0,0,1,1,0
+845,Music has a way of bringing people together. Music has a way of bringing people together.,0,No,music,0,0,her.,0,0,0,1,0,0,0
+1252,ECSE 1206 / ECIE 1206: Principles of Database Management Systems,0,tbd,ecse,0,0,tems,0,0,0,1,0,0,0
+699,Music has a way of bringing people together. It was a sunny day in Paris.,0,No,music,0,0,ris.,0,0,0,1,0,0,0
+590,"; name, idumber, and course and then (8 Marks)",1,tbd,;,0,0,rks),1,1,0,0,0,0,0
+1637,b) List the occasions when Jesus was tempted. (6 mks),1,tbd,b),1,0,mks),1,1,1,0,1,0,0
+985,D andris rads. (6 Marks f). Differentiate between structured programming and modular programming. (4 Marks),1,tbd,d,0,0,rks),1,1,0,1,0,0,0
+1177,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+130,23. Discuss the key concepts of Science. (2 Marks),1,Yes,23.,1,0,rks),1,1,0,0,1,1,0
+1278,Faith practices can vary significantly mks across denominations,0,no,faith,0,0,ions,0,0,0,1,0,0,0
+457,"Examine the importance of data quality in risk analytics, discuss the potential impact of incomplete or incorrect data on risk prediction models, and propose strategies for mitigating these issues. (4 marks)",1,tbd,examine,0,0,rks),1,1,0,1,1,0,0
+431,State one way how the Lochner treaty benefited King Lewanika individually. (1mark),1,tbd,state,0,0,ark),0,0,0,1,1,0,0
+1692,v) Analyze the key concepts of Physics. (9 Marks),1,Yes,v),1,0,rks),1,1,1,0,1,1,0
+1065,He cooked a delicious meal for dinner. She enjoys reading books in her free time.,0,No,he,0,0,ime.,0,0,0,1,0,0,0
+872,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+1394,Mathematical proofs are crucial for verifying truths mks,0,no,mathematical,0,0, mks,0,0,0,1,0,0,0
+947,Mathematical proofs are crucial for verifying truths ks,0,no,mathematical,0,0,s ks,0,0,0,1,0,0,0
+1239,Technology is evolving at a rapid pace. Technology is evolving at a rapid pace.,0,No,technology,0,0,ace.,0,0,0,1,0,0,0
+1127,They went for a long hike in the mountains. Technology is evolving at a rapid pace.,0,No,they,0,0,ace.,0,0,0,1,0,0,0
+614,STRATHMORE INSTITUTE OF MATHEMATICAL SCIENCES,0,tbd,strathmore,0,0,NCES,0,0,0,1,0,0,0
+1411,They went for a long hike in the mountains. Music has a way of bringing people together.,0,No,they,0,0,her.,0,0,0,1,0,0,0
+1389,The cat sat on the mat. The cat sat on the mat.,0,No,the,0,0,mat.,0,0,0,1,0,0,0
+1064,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+714,It was a sunny day in Paris. Technology is evolving at a rapid pace.,0,No,it,0,0,ace.,0,0,0,1,0,0,0
+923,XVI) Explain the key concepts of Literature. (8 Marks),1,Yes,xvi),0,0,rks),1,1,0,1,1,1,0
+1001,b) Outline the social injustices condemned by prophet Amos in Israel.,1,tbd,b),1,0,ael.,0,0,1,0,0,0,0
+409,64. Explain the key concepts of Physics. (2 Marks),1,Yes,64.,1,0,rks),1,1,0,0,1,1,0
+1399,199. Explain the key concepts of Economics. (8 Marks),1,Yes,199.,1,0,rks),1,1,0,0,1,1,0
+1499,ME. |» OlCa Ss ign eauite 6.19. P.O. siete AR r. ANSWER ALL Got aaa (ene + a) Relate ¢| at re message of Peter on the Day of Pentecost. (10 Marks),1,tbd,me.,0,0,rks),1,1,0,1,0,0,0
+1803,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+580,IX) Discuss the key concepts of Mathematics. (10 Marks),1,Yes,ix),0,0,rks),1,1,0,1,1,1,0
+483,137. Summarize the key concepts of Mathematics. (6 Marks),1,Yes,137.,1,0,rks),1,1,0,0,0,0,0
+468,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+229,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+234,8) Describe an important concept in Astronomy and its significance. (10 marks),1,yes,8),0,0,rks),1,1,0,0,1,1,0
+750,(7 marks),0,tbd,(7,0,0,rks),1,1,0,0,0,0,0
+1580,The speed of light is constant in vacuum ks),0,no,the,0,0, ks),1,1,0,1,0,0,0
+589,She enjoys reading books in her free time. The cat sat on the mat.,0,No,she,0,0,mat.,0,0,0,1,0,0,0
+165,17) Describe an important concept in Astronomy and its significance. (7 marks),1,yes,17),0,0,rks),1,1,0,0,1,1,0
+684,sed in structured programming. (9 Marks),1,tbd,sed,0,0,rks),1,1,1,0,0,0,0
+806,He cooked a delicious meal for dinner. The painting was a masterpiece of color and emotion.,0,No,he,0,0,ion.,0,0,0,1,0,0,0
+269,XXX) Compare the key concepts of Physics. (6 Marks),1,Yes,xxx),0,0,rks),1,1,0,1,1,1,0
+150,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+1385,Black holes are regions of ks) space with strong gravity,0,no,black,0,0,vity,0,1,0,1,0,0,0
+991,Faith practices can vary significantly across denominations rks,0,no,faith,0,0, rks,0,0,0,1,0,0,0
+593,SCHOOL OF COMPUTING AND INFORMATION TECHNOLOGY,0,tbd,school,0,0,LOGY,0,0,0,1,0,0,0
+1590,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+1426,Technology is evolving at a rapid pace. Technology is evolving at a rapid pace.,0,No,technology,0,0,ace.,0,0,0,1,0,0,0
+309,"“Paul” and “John” respectively, Explain the following (8 marks)",1,tbd,“paul”,0,0,rks),1,1,0,0,1,0,0
+195,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+959,Music has a way of bringing people together. She enjoys reading books in her free time.,0,No,music,0,0,ime.,0,0,0,1,0,0,0
+312,Statistics ks) helps in making decisions based on data,0,no,statistics,0,0,data,0,1,0,1,0,0,0
+1807,The speed of light is constant in vacuum mks),0,no,the,0,0,mks),1,1,0,1,0,0,0
+65,DSA 8304 Risk Management Analytics,0,tbd,dsa,0,0,tics,0,0,0,1,0,0,0
+1657,¢) How do Christians in Kenya demonstrate their faith in God? (7 mks),1,tbd,¢),0,0,mks),1,1,0,0,1,1,0
+1799,Technology is evolving at a rapid pace. He cooked a delicious meal for dinner.,0,No,technology,0,0,ner.,0,0,0,1,0,0,0
+1372,They went for a long hike in the mountains. The cat sat on the mat.,0,No,they,0,0,mat.,0,0,0,1,0,0,0
+490,The painting was a masterpiece of color and emotion. The painting was a masterpiece of color and emotion.,0,No,the,0,0,ion.,0,0,0,1,0,0,0
+759,31) Describe an important concept in Business Studies and its significance. (8 marks),1,yes,31),0,0,rks),1,1,0,0,1,1,0
+1025,Dy,0,tbd,dy,0,0,Dy,0,0,0,1,0,0,1
+1144,(11. Marks),0,tbd,(11.,0,0,rks),1,1,0,0,0,0,0
+1351,b) Give six reasons why sacrifices were made in Traditional African communities. (6 mks),1,tbd,b),1,0,mks),1,1,1,0,1,1,0
+1218,Statistics helps in mks making decisions based on data,0,no,statistics,0,0,data,0,0,0,1,0,0,0
+1525,73) Describe an important concept in Sociology and its significance. (5 marks),1,yes,73),0,0,rks),1,1,0,0,1,1,0
+1320,The speed of light is constant in vacuum ks),0,no,the,0,0, ks),1,1,0,1,0,0,0
+1059,Music has a way of bringing people together. It was a sunny day in Paris.,0,No,music,0,0,ris.,0,0,0,1,0,0,0
+1596,Music has a way of bringing people together. Music has a way of bringing people together.,0,No,music,0,0,her.,0,0,0,1,0,0,0
+815,"i. Feasibility study ii. System investigation ili, System design",1,tbd,i.,0,0,sign,0,0,1,0,0,0,0
+221,Music has a way of bringing people together. The painting was a masterpiece of color and emotion.,0,No,music,0,0,ion.,0,0,0,1,0,0,0
+1666,The cat sat on the mat. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+289,88) Describe an important concept in Business Studies and its significance. (7 marks),1,yes,88),0,0,rks),1,1,0,0,1,1,0
+1369,Quantum mechanics explores particles at the smallest scales mks,0,no,quantum,0,0, mks,0,0,0,1,0,0,0
+1454,Ecosystems depend on balancing competing species ks) interactions,0,no,ecosystems,0,0,ions,0,1,0,1,0,0,0
+1296,7) Describe an important concept in Geography and its significance. (10 marks),1,yes,7),0,0,rks),1,1,0,0,1,1,0
+1545,She enjoys reading books in her free time. Technology is evolving at a rapid pace.,0,No,she,0,0,ace.,0,0,0,1,0,0,0
+365,n economic efficiency and,0,tbd,n,0,0, and,0,0,1,0,0,0,0
+1343,44) Describe an important concept in Sociology and its significance. (5 marks),1,yes,44),0,0,rks),1,1,0,0,1,1,0
+581,GDP {2 m and 2013 {2 marks} marks} j [15 marks],1,tbd,gdp,0,0,rks],1,1,0,1,0,0,0
+1321,She enjoys reading books in her free time. She enjoys reading books in her free time.,0,No,she,0,0,ime.,0,0,0,1,0,0,0
+1193,Photosynthesis converts ks) solar energy into chemical energy,0,no,photosynthesis,0,0,ergy,0,1,0,1,0,0,0
+489,The painting was a masterpiece of color and emotion. Music has a way of bringing people together.,0,No,the,0,0,her.,0,0,0,1,0,0,0
+1485,Faith practices can ks) vary significantly across denominations,0,no,faith,0,0,ions,0,1,0,1,0,0,0
+556,"3 a) Give.seven ways in which Elijah succeeded as a Prophet of God. 5) Outline the conditions that made it difficult for Prophet Elijah to stop idolatry 1"" Israel (7 marks)",1,tbd,3,0,0,rks),1,1,0,0,1,0,0
+1440,"Give one social activ ity that was practiced by e man during the New Stone Age period, (Imark)",1,tbd,give,0,0,ark),0,0,0,1,1,1,0
+881,The painting was a masterpiece of color and emotion. The cat sat on the mat.,0,No,the,0,0,mat.,0,0,0,1,0,0,0
+911,Energy conservation is ks) a fundamental concept in physics,0,no,energy,0,0,sics,0,1,0,1,0,0,0
+1120,Industrial Revolution sparked major urban demographic shifts mks),0,no,industrial,0,0,mks),1,1,0,1,0,0,0
+848,Biblical prophets conveyed messages from God to people ks),0,no,biblical,0,0, ks),1,1,0,1,0,0,0
+1648,v) Analyze the key concepts of Economics. (4 Marks),1,Yes,v),1,0,rks),1,1,1,0,1,1,0
+1297,efine Constituti inswer All questions in this Section. 2. Identify ero pint Monarchy as a form of government. (1 mark),1,tbd,efine,0,0,ark),0,0,1,0,0,0,0
+894,45) Describe an important concept in World Religions and its significance. (8 marks),1,yes,45),0,0,rks),1,1,0,0,1,1,0
+886,13) Describe an important concept in English Literature and its significance. (7 marks),1,yes,13),0,0,rks),1,1,0,0,1,1,0
+1735,Christian teachings often emphasize forgiveness and redemption rks),0,no,christian,0,0,rks),1,1,0,1,1,0,0
+907,183. Discuss the key concepts of Physics. (8 Marks),1,Yes,183.,1,0,rks),1,1,0,0,1,1,0
+295,LXXI) Compare the key concepts of Mathematics. (3 Marks),1,Yes,lxxi),0,0,rks),1,1,0,1,1,1,0
+636,She enjoys reading books in her free time. Technology is evolving at a rapid pace.,0,No,she,0,0,ace.,0,0,0,1,0,0,0
+1135,The painting was a masterpiece of color and emotion. The painting was a masterpiece of color and emotion.,0,No,the,0,0,ion.,0,0,0,1,0,0,0
+1439,LXIX) Summarize the key concepts of Geography. (2 Marks),1,Yes,lxix),0,0,rks),1,1,0,1,0,0,0
+1138,Music has a way of bringing people together. It was a sunny day in Paris.,0,No,music,0,0,ris.,0,0,0,1,0,0,0
+1286,The painting was a masterpiece of color and emotion. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+1092,29) Describe an important concept in Astronomy and its significance. (6 marks),1,yes,29),0,0,rks),1,1,0,0,1,1,0
+497,Black holes are regions rks of space with strong gravity,0,no,black,0,0,vity,0,0,0,1,0,0,0
+1196,131. Outline the key concepts of Economics. (9 Marks),1,Yes,131.,1,0,rks),1,1,0,0,0,0,0
+280,Faith practices can vary significantly across denominations ks),0,no,faith,0,0, ks),1,1,0,1,0,0,0
+1670,|. Give two reasons why the British used indirect rule in some parts of Kens (2-marks),1,tbd,|.,0,0,rks),1,1,0,0,1,1,0
+361,p) Describe the key concepts of Geography. (8 Marks),1,Yes,p),1,0,rks),1,1,1,0,1,1,0
+993,Moral codes from ks) religions influence societal laws,0,no,moral,0,0,laws,0,1,0,1,0,0,0
+239,Algebra is essential for solving equations and inequalities rks,0,no,algebra,0,0, rks,0,0,0,1,0,0,0
+1689,(ii) Suppose Kisumu’s consumers choose to consume 70 million bushels of wheat.,1,tbd,(ii),1,0,eat.,0,0,0,0,0,0,0
+211,Christian teachings often emphasize forgiveness and redemption rks),0,no,christian,0,0,rks),1,1,0,1,1,0,0
+1288,World War II reshaped global power dynamics significantly ks,0,no,world,0,0,y ks,0,0,0,1,0,0,0
+1413,ii) The government introduces a tax on ice cream which is paid by producers. What is the effect in the ice cream market? (3 Marks),1,tbd,ii),1,0,rks),1,1,1,0,1,0,0
+60,They went for a long hike in the mountains. Music has a way of bringing people together.,0,No,they,0,0,her.,0,0,0,1,0,0,0
+1437,6) Describe an important concept in World Religions and its significance. (4 marks),1,yes,6),0,0,rks),1,1,0,0,1,1,0
+1430,93) Describe an important concept in Science and its significance. (4 marks),1,yes,93),0,0,rks),1,1,0,0,1,1,0
+367,World War II reshaped global power dynamics significantly mks),0,no,world,0,0,mks),1,1,0,1,0,0,0
+913,(b) The price elasticity of demand _0.45 in the long run. Why would the demand for crude oil be price in the short-run and (3 Marks),1,tbd,(b),1,0,rks),1,1,0,0,1,0,0
+729,Answer Any Two questions from this section. erson should meet to qualify to be a citizen by birth in Kenya. G marks),1,tbd,answer,0,0,rks),1,1,0,1,0,0,0
+1016,The painting was a masterpiece of color and emotion. The cat sat on the mat.,0,No,the,0,0,mat.,0,0,0,1,0,0,0
+1641,Question 1 (30 Marks),0,tbd,question,0,1,rks),1,1,0,1,0,0,0
+1108,"b) Describe the events that were associated with the birth of John the Baptist, (Bmks)",1,tbd,b),1,0,mks),1,1,1,0,1,1,0
+698,85) Describe an important concept in Mathematics and its significance. (10 marks),1,yes,85),0,0,rks),1,1,0,0,1,1,0
+912,World War II reshaped global power dynamics significantly ks,0,no,world,0,0,y ks,0,0,0,1,0,0,0
+1578,10. Define the key concepts of Literature. (10 Marks),1,Yes,10.,1,0,rks),1,1,0,0,1,1,0
+120,They went for a long hike in the mountains. The painting was a masterpiece of color and emotion.,0,No,they,0,0,ion.,0,0,0,1,0,0,0
+1804,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+634,67. Analyze the key concepts of Geography. (4 Marks),1,Yes,67.,1,0,rks),1,1,0,0,1,1,0
+526,Dy,0,tbd,dy,0,0,Dy,0,0,0,1,0,0,1
+517,(b) State and eexplain FIVE ways by which alcohol decreases resistance to HIV,1,tbd,(b),1,0, HIV,0,0,0,0,1,0,0
+83,She enjoys reading books in her free time. She enjoys reading books in her free time.,0,No,she,0,0,ime.,0,0,0,1,0,0,0
+710,) Explain six features ofthe Constitution of Kenya (2010),1,tbd,),0,0,010),0,0,0,0,1,1,0
+384,Dy,0,tbd,dy,0,0,Dy,0,0,0,1,0,0,1
+1533,83) Describe an important concept in Astronomy and its significance. (5 marks),1,yes,83),0,0,rks),1,1,0,0,1,1,0
+86,The cat sat on the mat. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+1523,The painting was a masterpiece of color and emotion. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+1674,Industrial Revolution sparked major urban demographic shifts rks,0,no,industrial,0,0, rks,0,0,0,1,0,0,0
+921,¢) Describe how the unity of believers is expressed in the image of the vine and the branches.(John 15: 1-10) (7 mks),1,tbd,¢),0,0,mks),1,1,0,0,1,1,0
+618,(i) To what are you entitled? {3 marks},1,tbd,(i),1,0,rks},1,1,0,0,1,0,0
+989,- Name two permanent member states of the United Nations Security Council. (2marks),1,tbd,-,0,0,rks),1,1,0,0,0,0,0
+763,LXVII) Summarize the key concepts of Biology. (5 Marks),1,Yes,lxvii),0,0,rks),1,1,0,1,0,0,0
+727,(ii) State and explain any FIVE ways by which alcohol use raises the risk of cancer [6Mks] d. (i) State FOUR importance of personal hygiene x [4Mks],1,tbd,(ii),1,0,Mks],1,1,0,0,1,0,0
+455,Viruses are not considered living rks organisms by all,0,no,viruses,0,0, all,0,0,0,1,0,0,0
+494,68. Analyze the key concepts of Literature. (8 Marks),1,Yes,68.,1,0,rks),1,1,0,0,1,1,0
+1787,"A. Stats two anette uence (mak rea me ities obtained from the Kenyan coast during the long distance trade, (2 marks)",1,tbd,a.,0,0,rks),1,1,0,1,0,0,0
+290,They went for a long hike in the mountains. They went for a long hike in the mountains.,0,No,they,0,0,ins.,0,0,0,1,0,0,0
+1165,Faith practices can vary significantly across denominations ks),0,no,faith,0,0, ks),1,1,0,1,0,0,0
+1794,Question 1,0,tbd,question,0,1,on 1,0,0,0,1,0,0,0
+1237,Technology is evolving at a rapid pace. She enjoys reading books in her free time.,0,No,technology,0,0,ime.,0,0,0,1,0,0,0
+1090,The cat sat on the mat. He cooked a delicious meal for dinner.,0,No,the,0,0,ner.,0,0,0,1,0,0,0
+1507,57. Discuss the key concepts of Literature. (10 Marks),1,Yes,57.,1,0,rks),1,1,0,0,1,1,0
+1341,Ecosystems depend on balancing mks competing species interactions,0,no,ecosystems,0,0,ions,0,0,0,1,0,0,0
+1006,The Roman Empire influenced modern governmental structures rks),0,no,the,0,0,rks),1,1,0,1,0,0,0
+1208,b) Explain six effects of long distance trade on the people of Kenya 20. a) State five terms of the Devonshire White Paper of 1923. (5 marks),1,tbd,b),1,0,rks),1,1,1,0,1,1,0
+1498,"“Paul” and “John” respectively, Explain the following (8 marks)",1,tbd,“paul”,0,0,rks),1,1,0,0,1,0,0
+330,Algebra is essential for solving equations and inequalities rks,0,no,algebra,0,0, rks,0,0,0,1,0,0,0
+1317,Cells are the basic building blocks of all organisms ks),0,no,cells,0,0, ks),1,1,0,1,0,0,0
+1119,NDNA Teun NANG aaa po aey EN c,0,tbd,ndna,0,0,EN c,0,0,0,1,0,0,0
+943,76. Summarize the key concepts of Economics. (10 Marks),1,Yes,76.,1,0,rks),1,1,0,0,0,0,0
+1415,t) Compare the key concepts of Biology. (7 Marks),1,Yes,t),1,0,rks),1,1,1,0,1,1,0
+764,"d) Differentiate between an array, a record, a pointer and a file, then write a C program that implements an array, a record and a file using a structure (record) consisting of itemname and itemcode to store data of 20 items in a retail shop computer and displays a list of the 20 items details reading from file. Given that item name is a string of 25 characters, item code is a number of 4 digits, record name is item, logical file is itemfile, and physical file is “C:\item\itemf.dat’. (11 Marks)",1,tbd,d),1,0,rks),1,1,1,0,1,0,0
+179,LII) Summarize the key concepts of Physics. (4 Marks),1,Yes,lii),0,0,rks),1,1,0,1,0,0,0
+612,She enjoys reading books in her free time. It was a sunny day in Paris.,0,No,she,0,0,ris.,0,0,0,1,0,0,0
+781,157. Compare the key concepts of Literature. (1 Marks),1,Yes,157.,1,0,rks),1,1,0,0,1,1,0
+88,He cooked a delicious meal for dinner. She enjoys reading books in her free time.,0,No,he,0,0,ime.,0,0,0,1,0,0,0
+1273,"Geometry involves studying shapes, sizes, and their properties mks)",0,no,geometry,0,0,mks),1,1,0,1,0,0,0
+1766,Technology is evolving at a rapid pace. Music has a way of bringing people together.,0,No,technology,0,0,her.,0,0,0,1,0,0,0
+461,The Silk Road was a critical commerce network rks,0,no,the,0,0, rks,0,0,0,1,0,0,0
+56,b) What lessons can modern political leaders learn from king David. (8 mks),1,tbd,b),1,0,mks),1,1,1,0,1,1,0
+1360,27. Compare the key concepts of Science. (8 Marks),1,Yes,27.,1,0,rks),1,1,0,0,1,1,0
+224,b) Outline the instructions that Jesus gave the twelve disciples when he commissioned them,1,tbd,b),1,0,them,0,0,1,0,1,0,0
+115,57) Describe an important concept in Political Science and its significance. (6 marks),1,yes,57),0,0,rks),1,1,0,0,1,1,0
+1662,174. Compare the key concepts of Physics. (8 Marks),1,Yes,174.,1,0,rks),1,1,0,0,1,1,0
+1118,38. Outline the key concepts of History. (6 Marks),1,Yes,38.,1,0,rks),1,1,0,0,0,0,0
+826,He cooked a delicious meal for dinner. Music has a way of bringing people together.,0,No,he,0,0,her.,0,0,0,1,0,0,0
+176,Christian teachings often emphasize forgiveness and redemption mks),0,no,christian,0,0,mks),1,1,0,1,1,0,0
+1654,Moral mks codes from religions influence societal laws,0,no,moral,0,0,laws,0,0,0,1,0,0,0
+1412,DSA 8304 Risk Management Analytics,0,tbd,dsa,0,0,tics,0,0,0,1,0,0,0
+18,FACULTY OF APPLIED SCIENCES AND TECHNOLOGY,0,tbd,faculty,0,0,LOGY,0,0,0,1,0,0,0
+427,END OF SEMESTER EXAMINATION,0,tbd,end,0,0,TION,0,0,0,1,0,0,0
+1214,In what ways is the church in Kenya promoting justice in society? (6 mks),1,tbd,in,0,0,mks),1,1,0,1,1,1,0
+288,ii) The government introduces a tax on ice cream which is paid by producers. What is the effect in the ice cream market? (3 Marks),1,tbd,ii),1,0,rks),1,1,1,0,1,0,0
+1436,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+432,"d) Differentiate between an array, a record, a pointer and a file, then write a C program that implements an array, a record and a file using a structure (record) consisting of itemname and itemcode to store data of 20 items in a retail shop computer and displays a list of the 20 items details reading from file. Given that item name is a string of 25 characters, item code is a number of 4 digits, record name is item, logical file is itemfile, and physical file is “C:\item\itemf.dat’. (11 Marks)",1,tbd,d),1,0,rks),1,1,1,0,1,0,0
+1368,Quantum mechanics explores particles at the smallest scales ks),0,no,quantum,0,0, ks),1,1,0,1,0,0,0
+1253,rks Statistics helps in making decisions based on data,0,no,rks,0,0,data,0,0,1,0,0,0,0
+31,Technology is evolving at a rapid pace. It was a sunny day in Paris.,0,No,technology,0,0,ris.,0,0,0,1,0,0,0
+1017,3) Describe an important concept in English Literature and its significance. (8 marks),1,yes,3),0,0,rks),1,1,0,0,1,1,0
+1783,Mathematical proofs are crucial for verifying truths ks,0,no,mathematical,0,0,s ks,0,0,0,1,0,0,0
+217,Photosynthesis converts solar energy into chemical ks) energy,0,no,photosynthesis,0,0,ergy,0,1,0,1,0,0,0
+674,Moral codes from religions influence societal laws rks,0,no,moral,0,0, rks,0,0,0,1,0,0,0
+329,a) Describe the call of Abraham. (8 mks),1,yes,a),1,0,mks),1,1,1,0,1,1,0
+565,78) Describe an important concept in Astronomy and its significance. (10 marks),1,yes,78),0,0,rks),1,1,0,0,1,1,0
+1056,o) Describe the key concepts of Biology. (1 Marks),1,Yes,o),1,0,rks),1,1,1,0,1,1,0
+1243,74. Compare the key concepts of Physics. (1 Marks),1,Yes,74.,1,0,rks),1,1,0,0,1,1,0
+1359,Technology is evolving at a rapid pace. Music has a way of bringing people together.,0,No,technology,0,0,her.,0,0,0,1,0,0,0
+344,148. Describe the key concepts of Economics. (6 Marks),1,Yes,148.,1,0,rks),1,1,0,0,1,1,0
+149,32. Summarize the key concepts of Literature. (9 Marks),1,Yes,32.,1,0,rks),1,1,0,0,0,0,0
+364,Technology is evolving at a rapid pace. The cat sat on the mat.,0,No,technology,0,0,mat.,0,0,0,1,0,0,0
+85,"Critically assess the benefits and criticisms of regulatory frameworks for banks and insurance companies. Use contemporary examples to illustrate your points and focus on the effects of recent changes in regulatory expectations, such as the increased focus on individual accountability and documentation. (8 marks)",1,tbd,critically,0,0,rks),1,1,0,1,1,0,0
+49,5. Summarize the key concepts of Literature. (1 Marks),1,Yes,5.,1,0,rks),1,1,0,0,0,0,0
+472,29. Describe the key concepts of Science. (7 Marks),1,Yes,29.,1,0,rks),1,1,0,0,1,1,0
+157,Algebra is rks essential for solving equations and inequalities,0,no,algebra,0,0,ties,0,0,0,1,0,0,0
+1684,Ibs This examination consists of FIVE questions. 2s Answer Question ONE (COMPULSORY) and any other Two ques e,0,tbd,ibs,0,0,es e,0,0,0,1,0,0,0
+1324,Technology is evolving at a rapid pace. She enjoys reading books in her free time.,0,No,technology,0,0,ime.,0,0,0,1,0,0,0
+1098,a) Compare the key concepts of Geography. (6 Marks),1,Yes,a),1,0,rks),1,1,1,0,1,1,0
+1478,"b) Write a C program that that has three subprograms, first subprogram to input a list of 18 customers names as string and ; deposit as number with decimal point, second subprogram to compute sum of the deposit of all customers and third ubprogram to display the list the 18 customers names and deposit, and sum of deposits. (11 Marks)",1,tbd,b),1,0,rks),1,1,1,0,1,1,0
+504,66. Define the key concepts of Science. (3 Marks),1,Yes,66.,1,0,rks),1,1,0,0,1,1,0
+181,The cat sat on the mat. He cooked a delicious meal for dinner.,0,No,the,0,0,ner.,0,0,0,1,0,0,0
+1488,Gravity affects the motion of objects on Earth ks,0,no,gravity,0,0,h ks,0,0,0,1,0,0,0
+1608,1p,0,tbd,1p,0,0,1p,0,0,0,0,0,0,1
+814,LXXIV) Analyze the key concepts of Economics. (7 Marks),1,Yes,lxxiv),0,0,rks),1,1,0,1,1,1,0
+532,Photosynthesis converts solar energy into chemical rks energy,0,no,photosynthesis,0,0,ergy,0,0,0,1,0,0,0
+349,elastic in the long run than in the short run? Briefly explain.,1,tbd,elastic,0,0,ain.,0,0,1,0,1,0,0
+1255,QUESTION 2 [20 MARKS] a) Explain the three concepts used in structured programming. (9 Marks),1,tbd,question,0,1,rks),1,1,0,1,1,0,0
+1769,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+1289,"(i) Assuming constant opportunity costs, draw Kisumus production-possibility curve.",1,tbd,(i),1,0,rve.,0,0,0,0,0,0,0
+928,i) Outline the key concepts of Biology. (7 Marks),1,Yes,i),1,0,rks),1,1,1,0,0,0,0
+1391,Instructions,0,tbd,instructions,0,0,ions,0,0,0,1,0,0,1
+606,Religious conflicts have shaped political landscapes historically rks),0,no,religious,0,0,rks),1,1,0,1,0,0,0
+896,Algebra is essential for solving equations and inequalities rks,0,no,algebra,0,0, rks,0,0,0,1,0,0,0
+246,Statistics helps in making decisions based on data rks),0,no,statistics,0,0,rks),1,1,0,1,0,0,0
+743,The cat sat on the mat. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+1336,They went for a long hike in the mountains. Music has a way of bringing people together.,0,No,they,0,0,her.,0,0,0,1,0,0,0
+315,(6 Marks),0,tbd,(6,0,0,rks),1,1,0,0,0,0,0
+439,Technology is evolving at a rapid pace. He cooked a delicious meal for dinner.,0,No,technology,0,0,ner.,0,0,0,1,0,0,0
+1713,7. Analyze the key concepts of Physics. (4 Marks),1,Yes,7.,1,0,rks),1,1,0,0,1,1,0
+1295,71. Summarize the key concepts of Science. (6 Marks),1,Yes,71.,1,0,rks),1,1,0,0,0,0,0
+311,Gravity affects the motion of objects on Earth mks,0,no,gravity,0,0, mks,0,0,0,1,0,0,0
+434,It was a sunny day in Paris. It was a sunny day in Paris.,0,No,it,0,0,ris.,0,0,0,1,0,0,0
+374,Music has a way of bringing people together. They went for a long hike in the mountains.,0,No,music,0,0,ins.,0,0,0,1,0,0,0
+571,i) Explain the key concepts of History. (2 Marks),1,Yes,i),1,0,rks),1,1,1,0,1,1,0
+1757,142. Analyze the key concepts of Geography. (6 Marks),1,Yes,142.,1,0,rks),1,1,0,0,1,1,0
+184,LXXII) Discuss the key concepts of History. (8 Marks),1,Yes,lxxii),0,0,rks),1,1,0,1,1,1,0
+1738,This examination consists of FIVE questions.,0,tbd,this,0,0,ons.,0,0,0,1,0,0,0
+626,107. Compare the key concepts of Science. (6 Marks),1,Yes,107.,1,0,rks),1,1,0,0,1,1,0
+679,He cooked a delicious meal for dinner. The cat sat on the mat.,0,No,he,0,0,mat.,0,0,0,1,0,0,0
+1132,Kenya take care of the environment ( (8 mks),1,tbd,kenya,0,0,mks),1,1,0,1,0,0,0
+788,Infection [10Mks],1,tbd,infection,0,0,Mks],1,1,0,1,0,0,0
+1664,She enjoys reading books in her free time. Technology is evolving at a rapid pace.,0,No,she,0,0,ace.,0,0,0,1,0,0,0
+299,Faith practices can vary significantly across denominations mks),0,no,faith,0,0,mks),1,1,0,1,0,0,0
+751,n) Summarize the key concepts of Economics. (3 Marks),1,Yes,n),1,0,rks),1,1,1,0,0,0,0
+465,52) Describe an important concept in Science and its significance. (5 marks),1,yes,52),0,0,rks),1,1,0,0,1,1,0
+1181,The cat sat on the mat. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+983,MASTER OF SCIENCE IN DATA SCIENCE AND ANALYTICS,0,tbd,master,0,0,TICS,0,0,0,1,0,0,0
+381,Algebra is essential for solving equations and ks) inequalities,0,no,algebra,0,0,ties,0,1,0,1,0,0,0
+1291,SECTION B: (45 MARKS),0,tbd,section,0,0,RKS),0,0,0,1,0,0,0
+107,Music has a way of bringing people together. The painting was a masterpiece of color and emotion.,0,No,music,0,0,ion.,0,0,0,1,0,0,0
+128,The painting was a masterpiece of color and emotion. The cat sat on the mat.,0,No,the,0,0,mat.,0,0,0,1,0,0,0
+1030,133. Discuss the key concepts of Economics. (2 Marks),1,Yes,133.,1,0,rks),1,1,0,0,1,1,0
+799,The painting was a masterpiece of color and emotion. Technology is evolving at a rapid pace.,0,No,the,0,0,ace.,0,0,0,1,0,0,0
+358,116. Analyze the key concepts of Economics. (9 Marks),1,Yes,116.,1,0,rks),1,1,0,0,1,1,0
+1466,He cooked a delicious meal for dinner. The painting was a masterpiece of color and emotion.,0,No,he,0,0,ion.,0,0,0,1,0,0,0
+1217,It was a sunny day in Paris. It was a sunny day in Paris.,0,No,it,0,0,ris.,0,0,0,1,0,0,0
+938,w) Explain the key concepts of Mathematics. (7 Marks),1,Yes,w),1,0,rks),1,1,1,0,1,1,0
+212,2a) Name seven plagues that God used to de b) Identify eigh ) Give the similarities between the Jewish Passover an t ways in which the Israelites wo! id Christians i (7 marks),1,tbd,2a),0,0,rks),1,1,0,0,1,0,0
+737,129. Analyze the key concepts of Literature. (4 Marks),1,Yes,129.,1,0,rks),1,1,0,0,1,1,0
+142,190. Define the key concepts of Geography. (6 Marks),1,Yes,190.,1,0,rks),1,1,0,0,1,1,0
+1300,The cat sat on the mat. The cat sat on the mat.,0,No,the,0,0,mat.,0,0,0,1,0,0,0
+1210,to handle cases of dishonesty. (8 marks),1,tbd,to,0,0,rks),1,1,1,0,0,0,0
+917,Music has a way of bringing people together. She enjoys reading books in her free time.,0,No,music,0,0,ime.,0,0,0,1,0,0,0
+1427,They went for a long hike in the mountains. It was a sunny day in Paris.,0,No,they,0,0,ris.,0,0,0,1,0,0,0
+1566,They went for a long hike in the mountains. The painting was a masterpiece of color and emotion.,0,No,they,0,0,ion.,0,0,0,1,0,0,0
+868,b) What lessons can modern political leaders learn from king David. (8 mks),1,yes,b),1,0,mks),1,1,1,0,1,1,0
+1150,j) Explain the key concepts of Mathematics. (9 Marks),1,Yes,j),1,0,rks),1,1,1,0,1,1,0
+718,UNIVERSITY,0,tbd,university,0,0,SITY,0,0,0,1,0,0,1
+712,"Me thematically) how you would generate f£O) = @exp — (Oy), and further numbers from this distribution. / 7 (8 Marks)",1,tbd,me,0,0,rks),1,1,0,1,1,0,0
+10,STRATHMORE INSTITUTE OF MATHEMATICAL SCIENCES,0,tbd,strathmore,0,0,NCES,0,0,0,1,0,0,0
+1611,94. Compare the key concepts of Geography. (6 Marks),1,Yes,94.,1,0,rks),1,1,0,0,1,1,0
+1333,n economic efficiency and,0,tbd,n,0,0, and,0,0,1,0,0,0,0
+285,Bi 80: million yards of cloth if it uses all of iagram to illustrate your answers to the 1] 1 be ae to produce? ie mark} yet heat i in Kisumu? (2 eS),1,tbd,bi,0,0, eS),0,0,0,1,0,0,0
+294,65) Describe an important concept in Health Education and its significance. (10 marks),1,yes,65),0,0,rks),1,1,0,0,1,1,0
+631,6. Explain the key concepts of History. (3 Marks),1,Yes,6.,1,0,rks),1,1,0,0,1,1,0
+1230,55. Compare the key concepts of Economics. (5 Marks),1,Yes,55.,1,0,rks),1,1,0,0,1,1,0
+1082,She enjoys reading books in her free time. It was a sunny day in Paris.,0,No,she,0,0,ris.,0,0,0,1,0,0,0
+131,QUESTION 2 [20 MARKS] a) Explain the three concepts used in structured programming. (9 Marks),1,tbd,question,0,1,rks),1,1,0,1,1,0,0
+1201,v) Compare the key concepts of Science. (1 Marks),1,Yes,v),1,0,rks),1,1,1,0,1,1,0
+326,rshipped God when tt faster (5 marks),1,tbd,rshipped,0,0,rks),1,1,1,0,1,0,0
+957,"24, a) State five objectives of Devolution. b) Explain five ways in which the government of Kenya ensures effective utilization of public funds. (10 marks)",1,tbd,"24,",0,0,rks),1,1,0,0,1,0,0
+700,Faith mks practices can vary significantly across denominations,0,no,faith,0,0,ions,0,0,0,1,0,0,0
+1512,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+1686,LXVI) Explain the key concepts of Literature. (7 Marks),1,Yes,lxvi),0,0,rks),1,1,0,1,1,1,0
+719,112. Outline the key concepts of Mathematics. (10 Marks),1,Yes,112.,1,0,rks),1,1,0,0,0,0,0
+1703,The cat sat on the mat. The painting was a masterpiece of color and emotion.,0,No,the,0,0,ion.,0,0,0,1,0,0,0
+994,The painting was a masterpiece of color and emotion. Music has a way of bringing people together.,0,No,the,0,0,her.,0,0,0,1,0,0,0
+1465,I) Outline the key concepts of Economics. (9 Marks),1,Yes,i),1,0,rks),1,1,0,1,0,0,0
+1483,They went for a long hike in the mountains. They went for a long hike in the mountains.,0,No,they,0,0,ins.,0,0,0,1,0,0,0
+160,DATE: 6% September 2021,0,tbd,date:,0,0,2021,0,0,0,1,0,0,0
+816,The cat sat on the mat. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+639,"[in programming, giving an illustration using a flowchart for each. ia (6 Marks)",1,tbd,[in,0,0,rks),1,1,0,0,0,0,0
+520,(ii) State and explain any FIVE ways by which alcohol use raises the risk of cancer [6Mks] d. (i) State FOUR importance of personal hygiene x [4Mks],1,tbd,(ii),1,0,Mks],1,1,0,0,1,0,0
+1292,25. Summarize the key concepts of Mathematics. (1 Marks),1,Yes,25.,1,0,rks),1,1,0,0,0,0,0
+602,Strathmore,0,tbd,strathmore,0,0,more,0,0,0,1,0,0,1
+198,43. Describe the key concepts of Literature. (3 Marks),1,Yes,43.,1,0,rks),1,1,0,0,1,1,0
+1795,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+1693,LXXIII) Compare the key concepts of Literature. (1 Marks),1,Yes,lxxiii),0,0,rks),1,1,0,1,1,1,0
+414,151. Outline the key concepts of History. (9 Marks),1,Yes,151.,1,0,rks),1,1,0,0,0,0,0
+98,Technology is evolving at a rapid pace. The painting was a masterpiece of color and emotion.,0,No,technology,0,0,ion.,0,0,0,1,0,0,0
+827,182. Compare the key concepts of Science. (10 Marks),1,Yes,182.,1,0,rks),1,1,0,0,1,1,0
+785,Ecosystems depend on rks balancing competing species interactions,0,no,ecosystems,0,0,ions,0,0,0,1,0,0,0
+158,59) Describe an important concept in Physical Education and its significance. (5 marks),1,yes,59),0,0,rks),1,1,0,0,1,1,0
+423,d) Define the key concepts of Science. (5 Marks),1,Yes,d),1,0,rks),1,1,1,0,1,1,0
+1687,136. Describe the key concepts of Physics. (7 Marks),1,Yes,136.,1,0,rks),1,1,0,0,1,1,0
+481,(b) Describe any FIVE malaria prevention and control strategies [10Mks],1,tbd,(b),1,0,Mks],1,1,0,0,1,1,0
+1771,97) Describe an important concept in English Literature and its significance. (5 marks),1,yes,97),0,0,rks),1,1,0,0,1,1,0
+673,Faith practices can vary significantly across denominations mks),0,no,faith,0,0,mks),1,1,0,1,0,0,0
+880,XIV) Outline the key concepts of Economics. (8 Marks),1,Yes,xiv),0,0,rks),1,1,0,1,0,0,0
+1598,a) State six similarities in the biblical stories of creation in genesis 1 and 2 (6 mks),1,yes,a),1,0,mks),1,1,1,0,0,0,0
+1532,Government. (2marks),1,tbd,government.,0,0,rks),1,1,0,1,0,0,0
+451,b). Explain the following System development life cycle stages in program development. (6 Marks),1,tbd,b).,0,0,rks),1,1,1,0,1,1,0
+1121,Mathematical proofs are crucial for mks verifying truths,0,no,mathematical,0,0,uths,0,0,0,1,0,0,0
+180,Quantum mks mechanics explores particles at the smallest scales,0,no,quantum,0,0,ales,0,0,0,1,0,0,0
+394,LXXX) Describe the key concepts of Literature. (1 Marks),1,Yes,lxxx),0,0,rks),1,1,0,1,1,1,0
+583,He cooked a delicious meal for dinner. She enjoys reading books in her free time.,0,No,he,0,0,ime.,0,0,0,1,0,0,0
+1310,Ancient Egyptians developed one of the first ks) writing systems,0,no,ancient,0,0,tems,0,1,0,1,0,0,0
+1550,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+1323,Genetic diversity stems from mutations during reproduction ks),0,no,genetic,0,0, ks),1,1,0,1,0,0,0
+1491,They went for a long hike in the mountains. They went for a long hike in the mountains.,0,No,they,0,0,ins.,0,0,0,1,0,0,0
+1638,The cat sat on the mat. They went for a long hike in the mountains.,0,No,the,0,0,ins.,0,0,0,1,0,0,0
+1557,XXIV) Analyze the key concepts of Economics. (8 Marks),1,Yes,xxiv),0,0,rks),1,1,0,1,1,1,0
+813,It was a sunny day in Paris. It was a sunny day in Paris.,0,No,it,0,0,ris.,0,0,0,1,0,0,0
+895,Technology is evolving at a rapid pace. He cooked a delicious meal for dinner.,0,No,technology,0,0,ner.,0,0,0,1,0,0,0
+669,62. Discuss the key concepts of Mathematics. (8 Marks),1,Yes,62.,1,0,rks),1,1,0,0,1,1,0
+144,165. Discuss the key concepts of Economics. (10 Marks),1,Yes,165.,1,0,rks),1,1,0,0,1,1,0
+1374,Ha honeny hee | mentation. (6 Ma»’k ne,0,tbd,ha,0,0,k ne,0,0,0,1,0,0,0
+1293,127. Summarize the key concepts of History. (4 Marks),1,Yes,127.,1,0,rks),1,1,0,0,0,0,0
+425,Black holes are regions of rks space with strong gravity,0,no,black,0,0,vity,0,0,0,1,0,0,0
+641,STRATHMORE INSTITUTE OF MATHEMATICAL SCIENCES (SIMS),0,tbd,strathmore,0,0,IMS),0,0,0,1,0,0,0
+1271,a) Describe the call of Abraham. mks),1,tbd,a),1,0,mks),1,1,1,0,1,1,0
+1801,NAME pei AMIE NMED Eliseo srssresite ADM NOW ARS iovevsvesere,0,tbd,name,0,0,sere,0,0,0,1,0,0,0
+620,c) Identify seven examples of covenants made in Kenya today (7 mks),1,yes,c),1,0,mks),1,1,1,0,0,0,0
+297,Moral codes from ks) religions influence societal laws,0,no,moral,0,0,laws,0,1,0,1,0,0,0
+771,b) State six ways in which God would punish Israel for her evils according to Amos. (6 marks),1,tbd,b),1,0,rks),1,1,1,0,0,0,0
+1717,l) Explain the key concepts of Geography. (5 Marks),1,Yes,l),1,0,rks),1,1,1,0,1,1,0
+90,c) Discuss the key concepts of History. (6 Marks),1,Yes,c),1,0,rks),1,1,1,0,1,1,0
+42,Algebra is essential for solving ks) equations and inequalities,0,no,algebra,0,0,ties,0,1,0,1,0,0,0
+1630,The painting was a masterpiece of color and emotion. He cooked a delicious meal for dinner.,0,No,the,0,0,ner.,0,0,0,1,0,0,0
+1745,155. Summarize the key concepts of Geography. (7 Marks),1,Yes,155.,1,0,rks),1,1,0,0,0,0,0
+133,Describe Photosynthesis converts solar energy into chemical energy rks,0,no,describe,0,0, rks,0,0,0,1,1,1,0
+1481,(3 Marks),1,tbd,(3,0,0,rks),1,1,0,0,0,0,0
+817,Technology is evolving at a rapid pace. The painting was a masterpiece of color and emotion.,0,No,technology,0,0,ion.,0,0,0,1,0,0,0
+930,They went for a long hike in the mountains. The cat sat on the mat.,0,No,they,0,0,mat.,0,0,0,1,0,0,0
+1677,(ii) State and explain any FIVE methods of Prevention and Control of HIV/AIDs [10Mks],1,tbd,(ii),1,0,Mks],1,1,0,0,1,0,0
+980,XII) Explain the key concepts of Science. (2 Marks),1,Yes,xii),0,0,rks),1,1,0,1,1,1,0
+166,n) Compare the key concepts of Biology. (4 Marks),1,Yes,n),1,0,rks),1,1,1,0,1,1,0
+731,y) Explain the key concepts of Literature. (9 Marks),1,Yes,y),1,0,rks),1,1,1,0,1,1,0
+293,26. Analyze the key concepts of Mathematics. (4 Marks),1,Yes,26.,1,0,rks),1,1,0,0,1,1,0
+1711,b) In what ways did prophet Jeremiah suffer while carrying out his work in Judah. (6 mks),1,yes,b),1,0,mks),1,1,1,0,1,0,0
+841,They went for a long hike in the mountains. He cooked a delicious meal for dinner.,0,No,they,0,0,ner.,0,0,0,1,0,0,0
+351,Music has a way of bringing people together. Technology is evolving at a rapid pace.,0,No,music,0,0,ace.,0,0,0,1,0,0,0
+576,Cells are the basic building blocks of all organisms mks,0,no,cells,0,0, mks,0,0,0,1,0,0,0
+805,It was a sunny day in Paris. The painting was a masterpiece of color and emotion.,0,No,it,0,0,ion.,0,0,0,1,0,0,0
+1704,A/ Be ee (25 MARKS),0,tbd,a/,0,0,RKS),0,0,0,1,0,0,0
+972,"Paper 2,",0,tbd,paper,0,0,"r 2,",0,0,0,1,0,0,0
+1443,The cat sat on the mat. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+1765,Revolution. . (2marks),1,tbd,revolution.,0,0,rks),1,1,0,1,0,0,0
+846,Gravity affects the motion of objects on Earth ks,0,no,gravity,0,0,h ks,0,0,0,1,0,0,0
+462,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+379,b) Outline the social injustices condemned by prophet Amos in Israel.,1,tbd,b),1,0,ael.,0,0,1,0,0,0,0
+336,State two types of government expenditure in Kenya. (@ marks),1,tbd,state,0,0,rks),1,1,0,1,0,0,0
+1615,50) Describe an important concept in Environmental Science and its significance. (10 marks),1,yes,50),0,0,rks),1,1,0,0,1,1,0
+1770,a) Explain the key concepts of Economics. (3 Marks),1,Yes,a),1,0,rks),1,1,1,0,1,1,0
+1463,The cat sat on the mat. Technology is evolving at a rapid pace.,0,No,the,0,0,ace.,0,0,0,1,0,0,0
+1712,x) Describe the key concepts of Physics. (9 Marks),1,Yes,x),1,0,rks),1,1,1,0,1,1,0
+1189,(4 Marks),0,tbd,(4,0,0,rks),1,1,0,0,0,0,0
+1679,L) Explain the key concepts of Geography. (7 Marks),1,Yes,l),1,0,rks),1,1,0,1,1,1,0
+1041,123. Explain the key concepts of Physics. (10 Marks),1,Yes,123.,1,0,rks),1,1,0,0,1,1,0
+1741,She enjoys reading books in her free time. The cat sat on the mat.,0,No,she,0,0,mat.,0,0,0,1,0,0,0
+331,LXI) Define the key concepts of Physics. (5 Marks),1,Yes,lxi),0,0,rks),1,1,0,1,1,1,0
+1200,35) Describe an important concept in Environmental Science and its significance. (6 marks),1,yes,35),0,0,rks),1,1,0,0,1,1,0
+321,The painting was a masterpiece of color and emotion. Technology is evolving at a rapid pace.,0,No,the,0,0,ace.,0,0,0,1,0,0,0
+1386,It was a sunny day in Paris. Technology is evolving at a rapid pace.,0,No,it,0,0,ace.,0,0,0,1,0,0,0
+1228,XXIII) Summarize the key concepts of Physics. (6 Marks),1,Yes,xxiii),0,0,rks),1,1,0,1,0,0,0
+1571,He cooked a delicious meal for dinner. They went for a long hike in the mountains.,0,No,he,0,0,ins.,0,0,0,1,0,0,0
+169,Ancient Egyptians developed one of the first writing systems ks),0,no,ancient,0,0, ks),1,1,0,1,0,0,0
+12,b) In what al ways é 2 iid the coming of the Holy Spirit transform the life of Peter on the Day of ~~,1,tbd,b),1,0,f ~~,0,0,1,0,1,0,0
+173,l) Describe the key concepts of History. (2 Marks),1,Yes,l),1,0,rks),1,1,1,0,1,1,0
+654,Cells are the basic building blocks of all organisms rks,0,no,cells,0,0, rks,0,0,0,1,0,0,0
+263,Mathematical proofs are crucial for verifying truths ks,0,no,mathematical,0,0,s ks,0,0,0,1,0,0,0
+1250,She enjoys reading books in her free time. He cooked a delicious meal for dinner.,0,No,she,0,0,ner.,0,0,0,1,0,0,0
+1624,9) Describe an important concept in Art and its significance. (9 marks),1,yes,9),0,0,rks),1,1,0,0,1,1,0
+677,"(. Using a in a pseudo code and a flowchart, write a solution of a problem to calculate the area of a circle using the formula area = J) r°, where JI=3.14 and r is radius. (6 Marks)",1,tbd,(.,0,0,rks),1,1,0,0,1,0,0
+261,16. Outline the key concepts of History. (8 Marks),1,Yes,16.,1,0,rks),1,1,0,0,0,0,0
+1197,She enjoys reading books in her free time. Music has a way of bringing people together.,0,No,she,0,0,her.,0,0,0,1,0,0,0
+140,World War II reshaped global power dynamics significantly mks),0,no,world,0,0,mks),1,1,0,1,0,0,0
+553,59. Outline the key concepts of History. (6 Marks),1,Yes,59.,1,0,rks),1,1,0,0,0,0,0
+869,The cat sat on the mat. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+1383,Define Algebra is essential for solving equations and inequalities rks],0,no,define,0,0,rks],1,1,0,1,1,1,0
+1125,Black holes are regions of space with strong gravity rks,0,no,black,0,0, rks,0,0,0,1,0,0,0
+1074,She enjoys reading books in her free time. He cooked a delicious meal for dinner.,0,No,she,0,0,ner.,0,0,0,1,0,0,0
+562,197. Summarize the key concepts of Physics. (8 Marks),1,Yes,197.,1,0,rks),1,1,0,0,0,0,0
+141,"SECTION S4 (25MK 1 17,",0,tbd,section,0,0," 17,",0,0,0,1,0,0,0
+1573,81. Compare the key concepts of Geography. (6 Marks),1,Yes,81.,1,0,rks),1,1,0,0,1,1,0
+535,c) List eight moral values that Christians can acquire from the life of prophet Jeremiah. (8 mks),1,yes,c),1,0,mks),1,1,1,0,0,0,0
+227,He cooked a delicious meal for dinner. They went for a long hike in the mountains.,0,No,he,0,0,ins.,0,0,0,1,0,0,0
+730,"Examine the importance of data quality in risk analytics, discuss the potential impact of incomplete or incorrect data on risk prediction models, and propose strategies for mitigating these issues. (4 marks)",1,Yes,examine,0,0,rks),1,1,0,1,1,0,0
+793,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+831,22. Discuss the key concepts of Geography. (9 Marks),1,Yes,22.,1,0,rks),1,1,0,0,1,1,0
+413,She enjoys reading books in her free time. The cat sat on the mat.,0,No,she,0,0,mat.,0,0,0,1,0,0,0
+328,She enjoys reading books in her free time. She enjoys reading books in her free time.,0,No,she,0,0,ime.,0,0,0,1,0,0,0
+971,XCVII) Summarize the key concepts of Economics. (6 Marks),1,Yes,xcvii),0,0,rks),1,1,0,1,0,0,0
+302,Page 1 of 4 (7 marks),1,tbd,page,0,0,rks),1,1,0,1,0,0,0
+1145,XXII) Describe the key concepts of Science. (7 Marks),1,Yes,xxii),0,0,rks),1,1,0,1,1,1,0
+1190,It was a sunny day in Paris. Music has a way of bringing people together.,0,No,it,0,0,her.,0,0,0,1,0,0,0
+946,98) Describe an important concept in Accounting and its significance. (4 marks),1,yes,98),0,0,rks),1,1,0,0,1,1,0
+1680,Industrial Revolution sparked major urban demographic shifts ks),0,no,industrial,0,0, ks),1,1,0,1,0,0,0
+721,He cooked a delicious meal for dinner. The cat sat on the mat.,0,No,he,0,0,mat.,0,0,0,1,0,0,0
+196,o) Analyze the key concepts of Economics. (10 Marks),1,Yes,o),1,0,rks),1,1,1,0,1,1,0
+444,The cat sat on the mat. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+578,200. Explain the key concepts of Literature. (9 Marks),1,Yes,200.,1,0,rks),1,1,0,0,1,1,0
+507,Jessons Christians learn from Israel’s election. (6 marks),1,tbd,jessons,0,0,rks),1,1,0,1,0,0,0
+610,The painting was a masterpiece of color and emotion. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+1061,176. Analyze the key concepts of Economics. (9 Marks),1,Yes,176.,1,0,rks),1,1,0,0,1,1,0
+1617,causes of conflict between parents and children in the contemporary society? @mks),1,tbd,causes,0,0,mks),1,1,1,0,0,0,0
+3,She enjoys reading books in her free time. He cooked a delicious meal for dinner.,0,No,she,0,0,ner.,0,0,0,1,0,0,0
+1048,UNIVERSITY,0,tbd,university,0,0,SITY,0,0,0,1,0,0,1
+1114,Christian teachings often emphasize forgiveness and redemption mks),0,no,christian,0,0,mks),1,1,0,1,1,0,0
+471,b) Describe the fruits of the Holy Spirit according to Galatians 5:22—26. (6 Marks),1,tbd,b),1,0,rks),1,1,1,0,1,1,0
+324,12. Compare the key concepts of Geography. (8 Marks),1,Yes,12.,1,0,rks),1,1,0,0,1,1,0
+5,LXXXVI) Explain the key concepts of Physics. (6 Marks),1,Yes,lxxxvi),0,0,rks),1,1,0,1,1,1,0
+225,"4, S a) Describe the parable of the Sower. (8 mks)",1,tbd,"4,",0,0,mks),1,1,0,0,1,0,0
+551,It was a sunny day in Paris. Technology is evolving at a rapid pace.,0,No,it,0,0,ace.,0,0,0,1,0,0,0
+231,OF SEMESTER EXAMINATION,0,tbd,of,0,0,TION,0,0,0,1,0,0,0
+40,"© 4-1) Identify seven reasons why man is consider’ naa (emote . fall o! J ie Biblical apie? eee ay, (6 marks)",1,tbd,©,0,0,rks),1,1,0,0,1,0,0
+546,She enjoys reading books in her free time. Technology is evolving at a rapid pace.,0,No,she,0,0,ace.,0,0,0,1,0,0,0
+245,139. Compare the key concepts of Physics. (10 Marks),1,Yes,139.,1,0,rks),1,1,0,0,1,1,0
+1724,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+138,Name the first woman astronaut to travel into space. (Imark) 2,1,tbd,name,0,0,k) 2,0,0,0,1,0,0,0
+1085,Instructions &,0,tbd,instructions,0,0,ns &,0,0,0,1,0,0,0
+1589,The speed of light is constant in vacuum ks,0,no,the,0,0,m ks,0,0,0,1,0,0,0
+1425,) Describe the law making process atthe National level in Kenya. (12 marks),1,tbd,),0,0,rks),1,1,0,0,1,1,0
+1441,The cat sat on the mat. The cat sat on the mat.,0,No,the,0,0,mat.,0,0,0,1,0,0,0
+836,The cat sat on the mat. Music has a way of bringing people together.,0,No,the,0,0,her.,0,0,0,1,0,0,0
+449,c) How do Christians in Kenya show respect for places of worship? (6 mks),1,yes,c),1,0,mks),1,1,1,0,1,1,0
+849,He cooked a delicious meal for dinner. She enjoys reading books in her free time.,0,No,he,0,0,ime.,0,0,0,1,0,0,0
+986,74) Describe an important concept in Accounting and its significance. (8 marks),1,yes,74),0,0,rks),1,1,0,0,1,1,0
+1706,It was a sunny day in Paris. The painting was a masterpiece of color and emotion.,0,No,it,0,0,ion.,0,0,0,1,0,0,0
+1080,178. Explain the key concepts of Physics. (8 Marks),1,Yes,178.,1,0,rks),1,1,0,0,1,1,0
+1651,The cat sat on the mat. The cat sat on the mat.,0,No,the,0,0,mat.,0,0,0,1,0,0,0
+586,It was a sunny day in Paris. She enjoys reading books in her free time.,0,No,it,0,0,ime.,0,0,0,1,0,0,0
+1597,134. Discuss the key concepts of Biology. (10 Marks),1,Yes,134.,1,0,rks),1,1,0,0,1,1,0
+1778,Christian teachings often emphasize forgiveness and redemption ks),0,no,christian,0,0, ks),1,1,0,1,1,0,0
+666,The painting was a masterpiece of color and emotion. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+440,Page 1 of 3,0,tbd,page,0,0,of 3,0,0,0,1,0,0,0
+1678,MASTER OF SCIENCE IN DATA SCIENCE AND ANALYTICS,0,tbd,master,0,0,TICS,0,0,0,1,0,0,0
+380,Music has a way of bringing people together. She enjoys reading books in her free time.,0,No,music,0,0,ime.,0,0,0,1,0,0,0
+1337,| how it differs from the Newton-Raphson (3 Marks),1,tbd,|,0,0,rks),1,1,0,0,1,1,0
+317,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+446,Christian teachings often mks emphasize forgiveness and redemption,0,no,christian,0,0,tion,0,0,0,1,1,0,0
+1044,d) Define the key concepts of Mathematics. (9 Marks),1,Yes,d),1,0,rks),1,1,1,0,1,1,0
+322,180. Define the key concepts of Literature. (5 Marks),1,Yes,180.,1,0,rks),1,1,0,0,1,1,0
+284,k) Outline the key concepts of Physics. (6 Marks),1,Yes,k),1,0,rks),1,1,1,0,0,0,0
+939,He cooked a delicious meal for dinner. The painting was a masterpiece of color and emotion.,0,No,he,0,0,ion.,0,0,0,1,0,0,0
+1365,138. Discuss the key concepts of Literature. (3 Marks),1,Yes,138.,1,0,rks),1,1,0,0,1,1,0
+1612,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+428,(6 mks),0,tbd,(6,0,0,mks),1,1,0,0,0,0,0
+557,Gravity affects the motion of objects on Earth ks,0,no,gravity,0,0,h ks,0,0,0,1,0,0,0
+599,135. Discuss the key concepts of Mathematics. (8 Marks),1,Yes,135.,1,0,rks),1,1,0,0,1,1,0
+1772,". Analyze the 2 limitations of different machine learning algorithms (such as decision trees, neural networks, and support vector machines) in predicting credit default risk (4 marks)",1,tbd,.,0,0,rks),1,1,0,0,1,1,0
+372,It was a sunny day in Paris. She enjoys reading books in her free time.,0,No,it,0,0,ime.,0,0,0,1,0,0,0
+1259,"Geometry involves studying shapes, sizes, and their properties mks)",0,no,geometry,0,0,mks),1,1,0,1,0,0,0
+1186,Technology is evolving at a rapid pace. Technology is evolving at a rapid pace.,0,No,technology,0,0,ace.,0,0,0,1,0,0,0
+1431,The cat sat on the mat. The cat sat on the mat.,0,No,the,0,0,mat.,0,0,0,1,0,0,0
+1464,"DARY SCHOOL, \.",0,tbd,dary,0,0,", \.",0,0,0,1,0,0,0
+1449,World War II reshaped global power dynamics significantly mks,0,no,world,0,0, mks,0,0,0,1,0,0,0
+230,It was a sunny day in Paris. Music has a way of bringing people together.,0,No,it,0,0,her.,0,0,0,1,0,0,0
+1007,It was a sunny day in Paris. He cooked a delicious meal for dinner.,0,No,it,0,0,ner.,0,0,0,1,0,0,0
+1097,Sion By ain this scenario using five reasons? [10Mks],0,tbd,sion,0,0,Mks],1,1,0,1,0,0,0
+1629,Ecosystems depend on balancing competing species interactions rks),0,no,ecosystems,0,0,rks),1,1,0,1,0,0,0
+970,Photosynthesis converts solar energy into chemical energy rks,0,no,photosynthesis,0,0, rks,0,0,0,1,0,0,0
+68,Cells are the basic building blocks mks of all organisms,0,no,cells,0,0,isms,0,0,0,1,0,0,0
+397,This examination consists of FIVE questions.,0,tbd,this,0,0,ons.,0,0,0,1,0,0,0
+584,t,0,tbd,t,0,0,t,0,0,1,0,0,0,1
+24,193. Summarize the key concepts of Literature. (8 Marks),1,Yes,193.,1,0,rks),1,1,0,0,0,0,0
+214,7 le value of the root of the function f(x) =,1,tbd,7,0,0,x) =,0,0,0,0,0,0,0
+1392,V) Outline the key concepts of Economics. (1 Marks),1,Yes,v),1,0,rks),1,1,0,1,0,0,0
+146,(6mks),0,tbd,(6mks),0,0,mks),1,1,0,0,0,0,1
+540,Viruses are not considered rks living organisms by all,0,no,viruses,0,0, all,0,0,0,1,0,0,0
+818,He cooked a delicious meal for dinner. The painting was a masterpiece of color and emotion.,0,No,he,0,0,ion.,0,0,0,1,0,0,0
+1013,It was a sunny day in Paris. The painting was a masterpiece of color and emotion.,0,No,it,0,0,ion.,0,0,0,1,0,0,0
+932,Music has a way of bringing people together. They went for a long hike in the mountains.,0,No,music,0,0,ins.,0,0,0,1,0,0,0
+87,She enjoys reading books in her free time. He cooked a delicious meal for dinner.,0,No,she,0,0,ner.,0,0,0,1,0,0,0
+1631,20) Describe an important concept in Health Education and its significance. (9 marks),1,yes,20),0,0,rks),1,1,0,0,1,1,0
+275,The painting was a masterpiece of color and emotion. Technology is evolving at a rapid pace.,0,No,the,0,0,ace.,0,0,0,1,0,0,0
+1169,Religious conflicts have shaped political landscapes historically rks,0,no,religious,0,0, rks,0,0,0,1,0,0,0
+1452,Music has a way of bringing people together. The cat sat on the mat.,0,No,music,0,0,mat.,0,0,0,1,0,0,0
+1112,Faith practices can vary significantly across denominations mks,0,no,faith,0,0, mks,0,0,0,1,0,0,0
+1633,78. Analyze the key concepts of Mathematics. (4 Marks),1,Yes,78.,1,0,rks),1,1,0,0,1,1,0
+635,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+1242,XCIX) Analyze the key concepts of Science. (4 Marks),1,Yes,xcix),0,0,rks),1,1,0,1,1,1,0
+1691,DSA 8105: FUNDAMENTAL CONCEPTS IN a,0,tbd,dsa,0,0,IN a,0,0,0,1,0,0,0
+922,Statistics helps in making decisions based on data rks),0,no,statistics,0,0,rks),1,1,0,1,0,0,0
+1241,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+1043,j) Describe the key concepts of History. (10 Marks),1,Yes,j),1,0,rks),1,1,1,0,1,1,0
+509,¢) Outline the lessons that Christians learn from the above parable. (6mks),1,tbd,¢),0,0,mks),1,1,0,0,0,0,0
+276,Technology is evolving at a rapid pace. They went for a long hike in the mountains.,0,No,technology,0,0,ins.,0,0,0,1,0,0,0
+1205,15. Analyze the key concepts of Mathematics. (1 Marks),1,Yes,15.,1,0,rks),1,1,0,0,1,1,0
+1605,He cooked a delicious meal for dinner. They went for a long hike in the mountains.,0,No,he,0,0,ins.,0,0,0,1,0,0,0
+366,He cooked a delicious meal for dinner. Music has a way of bringing people together.,0,No,he,0,0,her.,0,0,0,1,0,0,0
+1461,84) Describe an important concept in Mathematics and its significance. (5 marks),1,yes,84),0,0,rks),1,1,0,0,1,1,0
+627,XXXIII) Discuss the key concepts of Literature. (1 Marks),1,Yes,xxxiii),0,0,rks),1,1,0,1,1,1,0
+2,87. Define the key concepts of History. (2 Marks),1,Yes,87.,1,0,rks),1,1,0,0,1,1,0
+6,He cooked a delicious meal for dinner. The cat sat on the mat.,0,No,he,0,0,mat.,0,0,0,1,0,0,0
+1008,t) Outline the key concepts of Geography. (3 Marks),1,Yes,t),1,0,rks),1,1,1,0,0,0,0
+314,State two effects of the Land Enclosure System in Britain during the Agrarian,1,tbd,state,0,0,rian,0,0,0,1,0,0,0
+1225,(b) The price elasticity of demand _0.45 in the long run. Why would the demand for crude oil be price in the short-run and (3 Marks),1,tbd,(b),1,0,rks),1,1,0,0,1,0,0
+933,4. Compare the key concepts of Science. (10 Marks),1,Yes,4.,1,0,rks),1,1,0,0,1,1,0
+670,XLVII) Describe the key concepts of History. (4 Marks),1,Yes,xlvii),0,0,rks),1,1,0,1,1,1,0
+368,41) Describe an important concept in Sociology and its significance. (7 marks),1,yes,41),0,0,rks),1,1,0,0,1,1,0
+1781,m) Outline the key concepts of Biology. (3 Marks),1,Yes,m),1,0,rks),1,1,1,0,0,0,0
+218,* |dentify two education commissions in Kenya since independence. (2:marks),1,tbd,*,0,0,rks),1,1,0,0,0,0,0
+1747,118. Compare the key concepts of Science. (2 Marks),1,Yes,118.,1,0,rks),1,1,0,0,1,1,0
+27,Yo of deaths from lifestyle diseases occur in low- and middle-,0,tbd,yo,0,0,dle-,0,0,0,1,0,0,0
+1581,c) In what ways do Christians demonstrate the fruit of generosity? (6 Marks),1,tbd,c),1,0,rks),1,1,1,0,1,0,0
+529,Give two features of the political organizations which were formed in Kenya before 1939. (2 marks),1,tbd,give,0,0,rks),1,1,0,1,1,1,0
+1659,163. Explain the key concepts of Science. (2 Marks),1,Yes,163.,1,0,rks),1,1,0,0,1,1,0
+953,Mathematical proofs are crucial for verifying truths ks,0,no,mathematical,0,0,s ks,0,0,0,1,0,0,0
+643,He cooked a delicious meal for dinner. He cooked a delicious meal for dinner.,0,No,he,0,0,ner.,0,0,0,1,0,0,0
+305,The painting was a masterpiece of color and emotion. He cooked a delicious meal for dinner.,0,No,the,0,0,ner.,0,0,0,1,0,0,0
+725,1p,0,tbd,1p,0,0,1p,0,0,0,0,0,0,1
+697,181. Discuss the key concepts of Literature. (1 Marks),1,Yes,181.,1,0,rks),1,1,0,0,1,1,0
+1725,189. Compare the key concepts of History. (2 Marks),1,Yes,189.,1,0,rks),1,1,0,0,1,1,0
+1231,She enjoys reading books in her free time. The cat sat on the mat.,0,No,she,0,0,mat.,0,0,0,1,0,0,0
+629,He cooked a delicious meal for dinner. The cat sat on the mat.,0,No,he,0,0,mat.,0,0,0,1,0,0,0
+7,Page 1 of 4,0,tbd,page,0,0,of 4,0,0,0,1,0,0,0
+259,2. Define the key concepts of Science. (8 Marks),1,Yes,2.,1,0,rks),1,1,0,0,1,1,0
+810,. Outline two reasons w hy U nited States of America did not join the First World War until 1917. (2marks),1,tbd,.,0,0,rks),1,1,0,0,0,0,0
+25,Describe Photosynthesis converts solar energy into chemical energy rks,0,no,describe,0,0, rks,0,0,0,1,1,1,0
+339,Ancient Egyptians developed one of the first writing systems ks),0,no,ancient,0,0, ks),1,1,0,1,0,0,0
+577,It was a sunny day in Paris. She enjoys reading books in her free time.,0,No,it,0,0,ime.,0,0,0,1,0,0,0
+48,52. Describe the key concepts of Biology. (10 Marks),1,Yes,52.,1,0,rks),1,1,0,0,1,1,0
+1339,"II) You deposit KES10, 000 at the beginning of every year for the next 10 years",1,tbd,ii),0,0,ears,0,0,0,1,0,0,0
+108,Ibs This examination consists of FIVE questions. 2s Answer Question ONE (COMPULSORY) and any other Two ques e,0,tbd,ibs,0,0,es e,0,0,0,1,0,0,0
+352,i) Describe the key concepts of Economics. (7 Marks),1,Yes,i),1,0,rks),1,1,1,0,1,1,0
+57,They went for a long hike in the mountains. It was a sunny day in Paris.,0,No,they,0,0,ris.,0,0,0,1,0,0,0
+241,The speed of light is constant in vacuum mks),0,no,the,0,0,mks),1,1,0,1,0,0,0
+216,LIX) Summarize the key concepts of Science. (10 Marks),1,Yes,lix),0,0,rks),1,1,0,1,0,0,0
+122,She enjoys reading books in her free time. Music has a way of bringing people together.,0,No,she,0,0,her.,0,0,0,1,0,0,0
+1139,XC) Explain the key concepts of History. (1 Marks),1,Yes,xc),0,0,rks),1,1,0,1,1,1,0
+1037,The cat sat on the mat. He cooked a delicious meal for dinner.,0,No,the,0,0,ner.,0,0,0,1,0,0,0
+800,He cooked a delicious meal for dinner. Music has a way of bringing people together.,0,No,he,0,0,her.,0,0,0,1,0,0,0
+74,Page 1 of 3 + sistand2 (6mks),0,tbd,page,0,0,mks),1,1,0,1,0,0,0
+929,"©) Give reasons why the birth of a child is celebrated in modern sociely, (6mks)",1,tbd,©),0,0,mks),1,1,0,0,1,1,0
+819,She enjoys reading books in her free time. Music has a way of bringing people together.,0,No,she,0,0,her.,0,0,0,1,0,0,0
+1563,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+79,47) Describe an important concept in Philosophy and its significance. (4 marks),1,yes,47),0,0,rks),1,1,0,0,1,1,0
+951,38) Describe an important concept in History and its significance. (5 marks),1,yes,38),0,0,rks),1,1,0,0,1,1,0
+1304,t) Describe the key concepts of Physics. (3 Marks),1,Yes,t),1,0,rks),1,1,1,0,1,1,0
+46,13. Define the key concepts of Economics. (8 Marks),1,Yes,13.,1,0,rks),1,1,0,0,1,1,0
+1518,Black holes are regions of space ks) with strong gravity,0,no,black,0,0,vity,0,1,0,1,0,0,0
+527,Page 1 of 3,0,tbd,page,0,0,of 3,0,0,0,1,0,0,0
+235,The painting was a masterpiece of color and emotion. He cooked a delicious meal for dinner.,0,No,the,0,0,ner.,0,0,0,1,0,0,0
+649,"Geometry involves studying shapes, sizes, and their properties mks)",0,no,geometry,0,0,mks),1,1,0,1,0,0,0
+1330,92) Describe an important concept in Accounting and its significance. (5 marks),1,yes,92),0,0,rks),1,1,0,0,1,1,0
+1366,She enjoys reading books in her free time. The cat sat on the mat.,0,No,she,0,0,mat.,0,0,0,1,0,0,0
+1086,The Silk Road ks) was a critical commerce network,0,no,the,0,0,work,0,1,0,1,0,0,0
+537,Ancient Egyptians developed one of the first ks) writing systems,0,no,ancient,0,0,tems,0,1,0,1,0,0,0
+1565,1) Describe an important concept in Accounting and its significance. (5 marks),1,yes,1),0,0,rks),1,1,0,0,1,1,0
+1367,69) Describe an important concept in Philosophy and its significance. (7 marks),1,yes,69),0,0,rks),1,1,0,0,1,1,0
+608,s) Analyze the key concepts of Physics. (6 Marks),1,Yes,s),1,0,rks),1,1,1,0,1,1,0
+469,SECTION A: Attempt ALL questions in this section,0,tbd,section,0,0,tion,0,0,0,1,0,0,0
+1541,The painting was a masterpiece of color and emotion. The cat sat on the mat.,0,No,the,0,0,mat.,0,0,0,1,0,0,0
+795,Music has a way of bringing people together. He cooked a delicious meal for dinner.,0,No,music,0,0,ner.,0,0,0,1,0,0,0
+1535,UNIVERSITY,0,tbd,university,0,0,SITY,0,0,0,1,0,0,1
+1269,"Highlight two negative effects of the trans-Saharan trade, (marks)",1,tbd,highlight,0,0,rks),1,1,0,1,0,0,0
+1206,Music has a way of bringing people together. It was a sunny day in Paris.,0,No,music,0,0,ris.,0,0,0,1,0,0,0
+62,UNIVERSITY,0,tbd,university,0,0,SITY,0,0,0,1,0,0,1
+1184,ks) Photosynthesis converts solar energy into chemical energy,0,no,ks),0,0,ergy,0,1,1,0,0,0,0
+1722,He cooked a delicious meal for dinner. It was a sunny day in Paris.,0,No,he,0,0,ris.,0,0,0,1,0,0,0
+94,She enjoys reading books in her free time. He cooked a delicious meal for dinner.,0,No,she,0,0,ner.,0,0,0,1,0,0,0
+671,Time: 2.5 Hours,0,tbd,time:,0,0,ours,0,0,0,1,0,0,0
+992,X) Define the key concepts of Economics. (7 Marks),1,Yes,x),1,0,rks),1,1,0,1,1,1,0
+1682,Ancient Egyptians developed one of mks the first writing systems,0,no,ancient,0,0,tems,0,0,0,1,0,0,0
+197,h) Compare the key concepts of Literature. (1 Marks),1,Yes,h),1,0,rks),1,1,1,0,1,1,0
+283,It was a sunny day in Paris. The cat sat on the mat.,0,No,it,0,0,mat.,0,0,0,1,0,0,0
+701,The painting was a masterpiece of color and emotion. They went for a long hike in the mountains.,0,No,the,0,0,ins.,0,0,0,1,0,0,0
+997,Strathmore,0,tbd,strathmore,0,0,more,0,0,0,1,0,0,1
+363,DSA 8304 Risk Management Analytics,0,tbd,dsa,0,0,tics,0,0,0,1,0,0,0
+1568,17. Summarize the key concepts of Biology. (7 Marks),1,Yes,17.,1,0,rks),1,1,0,0,0,0,0
+523,The Roman Empire influenced modern governmental structures mks,0,no,the,0,0, mks,0,0,0,1,0,0,0
+1301,96) Describe an important concept in Economics and its significance. (5 marks),1,yes,96),0,0,rks),1,1,0,0,1,1,0
+1212,46. Explain the key concepts of Geography. (7 Marks),1,Yes,46.,1,0,rks),1,1,0,0,1,1,0
+1364,122. Summarize the key concepts of History. (1 Marks),1,Yes,122.,1,0,rks),1,1,0,0,0,0,0
+1627,(b) Table 3 shows the quantity and price of bread and butter produced in country Z between 2009 and 2013. le 3: Price and quantity of bread and butter produced in country z hat onlv bree here applicable):,1,tbd,(b),1,0,le):,0,0,0,0,1,0,0
+854,The painting was a masterpiece of color and emotion. The cat sat on the mat.,0,No,the,0,0,mat.,0,0,0,1,0,0,0
+185,SPECIAL/SUPPLEMENTARY EXAMS 2020/2021 FOR FIRST YEAR EXAMINATIONS FOR,0,tbd,special/supplementary,0,0, FOR,0,0,0,1,0,0,0
+1236,The speed of light is constant in vacuum mks),0,no,the,0,0,mks),1,1,0,1,0,0,0
+1797,175. Analyze the key concepts of Economics. (8 Marks),1,Yes,175.,1,0,rks),1,1,0,0,1,1,0
+112,31. Explain the key concepts of Economics. (4 Marks),1,Yes,31.,1,0,rks),1,1,0,0,1,1,0
+1109,"Critically assess the benefits and criticisms of regulatory frameworks for banks and insurance companies. Use contemporary examples to illustrate your points and focus on the effects of recent changes in regulatory expectations, such as the increased focus on individual accountability and documentation. (8 marks)",1,Yes,critically,0,0,rks),1,1,0,1,1,0,0
+1342,He cooked a delicious meal for dinner. It was a sunny day in Paris.,0,No,he,0,0,ris.,0,0,0,1,0,0,0
+1113,She enjoys reading books in her free time. He cooked a delicious meal for dinner.,0,No,she,0,0,ner.,0,0,0,1,0,0,0
+43,63) Describe an important concept in Geography and its significance. (8 marks),1,yes,63),0,0,rks),1,1,0,0,1,1,0
+753,106. Compare the key concepts of Physics. (6 Marks),1,Yes,106.,1,0,rks),1,1,0,0,1,1,0
+127,The cat sat on the mat. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+207,(6 Marks),0,tbd,(6,0,0,rks),1,1,0,0,0,0,0
+1315,Gravity affects the mks motion of objects on Earth,0,no,gravity,0,0,arth,0,0,0,1,0,0,0
+54,SECTION B: Answer any TWO questions in this section,0,tbd,section,0,0,tion,0,0,0,1,0,0,0
+1409,[15 marks],0,tbd,[15,0,0,rks],1,1,0,0,0,0,0
+549,Statistics helps in making decisions based on data rks),0,no,statistics,0,0,rks),1,1,0,1,0,0,0
+70,41. Analyze the key concepts of Science. (5 Marks),1,Yes,41.,1,0,rks),1,1,0,0,1,1,0
+1101,"5) Risk identification forms the foundation of comprehensive risk management. Given the evolution of risks in the modern global context, including technological, environmental, and geopolitical risks, traditional risk identification methods may need to be supplemented or rethought.",1,yes,5),0,0,ght.,0,0,0,0,1,0,0
+1756,130. Discuss the key concepts of Science. (8 Marks),1,Yes,130.,1,0,rks),1,1,0,0,1,1,0
+511,Technology is evolving at a rapid pace. The painting was a masterpiece of color and emotion.,0,No,technology,0,0,ion.,0,0,0,1,0,0,0
+1401,Gravity affects the motion of objects on Earth ks,0,no,gravity,0,0,h ks,0,0,0,1,0,0,0
+332,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+1054,Technology is evolving at a rapid pace. Technology is evolving at a rapid pace.,0,No,technology,0,0,ace.,0,0,0,1,0,0,0
+186,"“Paul” and “John” respectively, Explain the following (8 marks)",1,tbd,“paul”,0,0,rks),1,1,0,0,1,0,0
+139,ae y ne’ lical stories of creation it in Biblical creation ies given to human beings by (a mks),0,tbd,ae,0,0,mks),1,1,1,0,1,0,0
+906,l) Analyze the key concepts of Science. (8 Marks),1,Yes,l),1,0,rks),1,1,1,0,1,1,0
+803,The painting was a masterpiece of color and emotion. The painting was a masterpiece of color and emotion.,0,No,the,0,0,ion.,0,0,0,1,0,0,0
+134,He cooked a delicious meal for dinner. It was a sunny day in Paris.,0,No,he,0,0,ris.,0,0,0,1,0,0,0
+82,Music has a way of bringing people together. He cooked a delicious meal for dinner.,0,No,music,0,0,ner.,0,0,0,1,0,0,0
+1458,The painting was a masterpiece of color and emotion. The painting was a masterpiece of color and emotion.,0,No,the,0,0,ion.,0,0,0,1,0,0,0
+545,VI) Analyze the key concepts of Biology. (9 Marks),1,Yes,vi),0,0,rks),1,1,0,1,1,1,0
+1676,ATIONAL TECHNIQUES IN DATA SCIENCE,0,tbd,ational,0,0,ENCE,0,0,0,1,0,0,0
+990,QUESTiICN THREE,0,tbd,questiicn,0,0,HREE,0,0,0,1,0,0,0
+167,u) Compare the key concepts of Science. (9 Marks),1,Yes,u),1,0,rks),1,1,1,0,1,1,0
+251,c) How do Christians in Kenya show respect for places of worship? (6 mks),1,tbd,c),1,0,mks),1,1,1,0,1,1,0
+450,"(. Using a in a pseudo code and a flowchart, write a solution of a problem to calculate the area of a circle using the formula area = J) r°, where JI=3.14 and r is radius. (6 Marks)",1,tbd,(.,0,0,rks),1,1,0,0,1,0,0
+1047,¥il Adonis} one estou way aries werent allowed to wow cnsu crops m Kenge lore 1224-0 te),0,tbd,¥il,0,0, te),0,0,0,0,1,0,0
+865,OF MATHEMATICAL SCIENCES,0,tbd,of,0,0,NCES,0,0,0,1,0,0,0
+1103,Technology is evolving at a rapid pace. Music has a way of bringing people together.,0,No,technology,0,0,her.,0,0,0,1,0,0,0
+99,c) How do Christians in Kenya demonstrate their faith in God? (7 mks),1,yes,c),1,0,mks),1,1,1,0,1,1,0
+1782,LXXXII) Discuss the key concepts of Literature. (8 Marks),1,Yes,lxxxii),0,0,rks),1,1,0,1,1,1,0
+744,They went for a long hike in the mountains. Technology is evolving at a rapid pace.,0,No,they,0,0,ace.,0,0,0,1,0,0,0
+1140,elastic in the long run than in the short run? Briefly explain.,1,tbd,elastic,0,0,ain.,0,0,1,0,1,0,0
+104,Technology is evolving at a rapid pace. The cat sat on the mat.,0,No,technology,0,0,mat.,0,0,0,1,0,0,0
+438,Ecosystems depend on balancing competing species interactions mks,0,no,ecosystems,0,0, mks,0,0,0,1,0,0,0
+76,(4 Marks),1,tbd,(4,0,0,rks),1,1,0,0,0,0,0
+1622,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+1094,56. Discuss the key concepts of Economics. (4 Marks),1,Yes,56.,1,0,rks),1,1,0,0,1,1,0
+925,f) Analyze the key concepts of Biology. (4 Marks),1,Yes,f),1,0,rks),1,1,1,0,1,1,0
+1554,Instructions,0,tbd,instructions,0,0,ions,0,0,0,1,0,0,1
+1752,They went for a long hike in the mountains. It was a sunny day in Paris.,0,No,they,0,0,ris.,0,0,0,1,0,0,0
+1559,LXV) Define the key concepts of Science. (4 Marks),1,Yes,lxv),0,0,rks),1,1,0,1,1,1,0
+769,elastic in the long run than in the short run? Briefly explain.,1,tbd,elastic,0,0,ain.,0,0,1,0,1,0,0
+996,p) Describe the key concepts of History. (5 Marks),1,Yes,p),1,0,rks),1,1,1,0,1,1,0
+392,QUESTION TWO,0,tbd,question,0,1, TWO,0,0,0,1,0,0,0
+238,ii) The government introduces a tax on ice cream which is paid by producers. What is the effect in the ice cream market? (3 Marks),1,tbd,ii),1,0,rks),1,1,1,0,1,0,0
+270,d) Describe the key concepts of Geography. (3 Marks),1,Yes,d),1,0,rks),1,1,1,0,1,1,0
+1081,50. Explain the key concepts of History. (10 Marks),1,Yes,50.,1,0,rks),1,1,0,0,1,1,0
+119,f) Discuss the key concepts of Mathematics. (7 Marks),1,Yes,f),1,0,rks),1,1,1,0,1,1,0
+1456,The speed of light is constant in vacuum ks,0,no,the,0,0,m ks,0,0,0,1,0,0,0
+678,C) Analyze the key concepts of Geography. (1 Marks),1,Yes,c),1,0,rks),1,1,0,1,1,1,0
+252,"Geometry ks) involves studying shapes, sizes, and their properties",0,no,geometry,0,0,ties,0,1,0,1,0,0,0
+1455,XLII) Summarize the key concepts of Mathematics. (2 Marks),1,Yes,xlii),0,0,rks),1,1,0,1,0,0,0
+96,STRATHMORE INSTITUTE OF MATHEMATICAL SCIENCES,0,tbd,strathmore,0,0,NCES,0,0,0,1,0,0,0
+33,g) Define the key concepts of History. (8 Marks),1,Yes,g),1,0,rks),1,1,1,0,1,1,0
+1325,"(0) , npute the area of acircle and to compute perimeter of a circle, (11. Marks)",1,tbd,(0),0,0,rks),1,1,0,0,0,0,0
+1515,48. Analyze the key concepts of Physics. (5 Marks),1,Yes,48.,1,0,rks),1,1,0,0,1,1,0
+452,TERM 1 2024,0,tbd,term,0,0,2024,0,0,0,1,0,0,0
+723,He cooked a delicious meal for dinner. He cooked a delicious meal for dinner.,0,No,he,0,0,ner.,0,0,0,1,0,0,0
+1497,The cat sat on the mat. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+1688,(3 Marks),0,tbd,(3,0,0,rks),1,1,0,0,0,0,0
+0,143. Describe the key concepts of Mathematics. (3 Marks),1,Yes,143.,1,0,rks),1,1,0,0,1,1,0
+1244,"October, 2022 Time: 3 hours ——————— / any",0,tbd,"october,",0,0, any,0,0,0,1,0,0,0
+84,Christian teachings often emphasize mks forgiveness and redemption,0,no,christian,0,0,tion,0,0,0,1,1,0,0
+1683,He cooked a delicious meal for dinner. The painting was a masterpiece of color and emotion.,0,No,he,0,0,ion.,0,0,0,1,0,0,0
+681,6. a) List eight places used for worship in Traditional African communities. (8 mks),1,tbd,6.,1,0,mks),1,1,0,0,0,0,0
+1313,Algebra is rks essential for solving equations and inequalities,0,no,algebra,0,0,ties,0,0,0,1,0,0,0
+1053,42. Explain the key concepts of Physics. (5 Marks),1,Yes,42.,1,0,rks),1,1,0,0,1,1,0
+777,Briefly explain. (3 Marks),0,tbd,briefly,0,0,rks),1,1,0,1,1,0,0
+1107,164. Describe the key concepts of Biology. (2 Marks),1,Yes,164.,1,0,rks),1,1,0,0,1,1,0
+1176,"(0) , npute the area of acircle and to compute perimeter of a circle,",0,tbd,(0),0,0,"cle,",0,0,0,0,0,0,0
+1433,"c) Explain the program structure of a C program, giving relevant examples using the program in Q1 (b). (5 Marks)",1,tbd,c),1,0,rks),1,1,1,0,1,1,0
+1348,Biblical prophets conveyed ks) messages from God to people,0,no,biblical,0,0,ople,0,1,0,1,0,0,0
+408,They went for a long hike in the mountains. It was a sunny day in Paris.,0,No,they,0,0,ris.,0,0,0,1,0,0,0
+1567,MASTER OF SCIENCE IN DATA SCIENCE AND ANALYTICS,0,tbd,master,0,0,TICS,0,0,0,1,0,0,0
+1178,XIX) Explain the key concepts of Geography. (1 Marks),1,Yes,xix),0,0,rks),1,1,0,1,1,1,0
+106,61) Describe an important concept in Economics and its significance. (9 marks),1,yes,61),0,0,rks),1,1,0,0,1,1,0
+694,XCI) Outline the key concepts of Literature. (10 Marks),1,Yes,xci),0,0,rks),1,1,0,1,0,0,0
+1183,Gravity affects ks) the motion of objects on Earth,0,no,gravity,0,0,arth,0,1,0,1,0,0,0
+833,Answer Question ONE (COMPULSORY) and any other TWO questions.,0,tbd,answer,0,0,ons.,0,0,0,1,0,0,0
+64,Quantum mechanics explores particles at the smallest scales ks),0,no,quantum,0,0, ks),1,1,0,1,0,0,0
+859,The painting was a masterpiece of color and emotion. They went for a long hike in the mountains.,0,No,the,0,0,ins.,0,0,0,1,0,0,0
+1595,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+226,121. Discuss the key concepts of Science. (9 Marks),1,Yes,121.,1,0,rks),1,1,0,0,1,1,0
+147,"2. a) Describe the transfiguration of Jesus ay recorded in Luke 9:28 — 37, ” (4mks)",1,tbd,2.,1,0,mks),1,1,0,0,1,0,0
+1095,He cooked a delicious meal for dinner. He cooked a delicious meal for dinner.,0,No,he,0,0,ner.,0,0,0,1,0,0,0
+377,LXXIX) Describe the key concepts of Physics. (3 Marks),1,Yes,lxxix),0,0,rks),1,1,0,1,1,1,0
+1284,2. State one military alliance that was formed by European nations before the First World War. (Imark),1,tbd,2.,1,0,ark),0,0,0,0,0,0,0
+1653,rks The speed of light is constant in vacuum,0,no,rks,0,0,cuum,0,0,1,0,0,0,0
+1353,He cooked a delicious meal for dinner. It was a sunny day in Paris.,0,No,he,0,0,ris.,0,0,0,1,0,0,0
+1655,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+1154,It was a sunny day in Paris. He cooked a delicious meal for dinner.,0,No,it,0,0,ner.,0,0,0,1,0,0,0
+9,"(a) Giving examples for each, classify the SEX known addictive drugs and their mode of intake [10Mks]",1,tbd,(a),1,0,Mks],1,1,0,0,0,0,0
+453,LIII) Explain the key concepts of Mathematics. (3 Marks),1,Yes,liii),0,0,rks),1,1,0,1,1,1,0
+715,Moral codes from religions influence societal mks laws,0,no,moral,0,0,laws,0,0,0,1,0,0,0
+258,QUESTION ONE (20 MARKS),0,tbd,question,0,1,RKS),0,0,0,1,0,0,0
+889,The painting was a masterpiece of color and emotion. They went for a long hike in the mountains.,0,No,the,0,0,ins.,0,0,0,1,0,0,0
+393,Christian teachings often mks emphasize forgiveness and redemption,0,no,christian,0,0,tion,0,0,0,1,1,0,0
+915,c) Why should Christians in Kenya take care of the environment (5 mks),1,yes,c),1,0,mks),1,1,1,0,1,1,0
+931,b) Explain the characteristics of a covenant. (5 mks),1,yes,b),1,0,mks),1,1,1,0,1,1,0
+1547,STRATHMORE INSTITUTE OF MATHEMATICAL SCIENCES (SIMS),0,tbd,strathmore,0,0,IMS),0,0,0,1,0,0,0
+1610,1p,0,tbd,1p,0,0,1p,0,0,0,0,0,0,1
+464,XCII) Describe the key concepts of Economics. (2 Marks),1,Yes,xcii),0,0,rks),1,1,0,1,1,1,0
+1153,World War II reshaped global mks power dynamics significantly,0,no,world,0,0,ntly,0,0,0,1,0,0,0
+965,101. Describe the key concepts of Physics. (10 Marks),1,Yes,101.,1,0,rks),1,1,0,0,1,1,0
+505,Technology is evolving at a rapid pace. Music has a way of bringing people together.,0,No,technology,0,0,her.,0,0,0,1,0,0,0
+746,"Examine the importance of data quality in risk analytics, discuss the potential impact of incomplete or incorrect data on risk prediction models, and propose strategies for mitigating these issues. (4 marks)",1,tbd,examine,0,0,rks),1,1,0,1,1,0,0
+1673,The painting was a masterpiece of color and emotion. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+875,If so why? {2 marks},1,tbd,if,0,0,rks},1,1,0,1,1,0,0
+738,XXXVIII) Discuss the key concepts of Science. (7 Marks),1,Yes,xxxviii),0,0,rks),1,1,0,1,1,1,0
+543,Black holes are regions rks of space with strong gravity,0,no,black,0,0,vity,0,0,0,1,0,0,0
+703,LV) Define the key concepts of History. (10 Marks),1,Yes,lv),0,0,rks),1,1,0,1,1,1,0
+1260,FACULTY OF APPLIED SCIENCES AND TECHNOLOGY,0,tbd,faculty,0,0,LOGY,0,0,0,1,0,0,0
+1245,Music has a way of bringing people together. They went for a long hike in the mountains.,0,No,music,0,0,ins.,0,0,0,1,0,0,0
+1038,They went for a long hike in the mountains. The cat sat on the mat.,0,No,they,0,0,mat.,0,0,0,1,0,0,0
+376,c),0,tbd,c),0,0,c),0,0,1,0,0,0,1
+672,c) List eight moral values that Christians can acquire from the life of prophet Jeremiah. (8 mks),1,tbd,c),1,0,mks),1,1,1,0,0,0,0
+1382,80) Describe an important concept in Psychology and its significance. (9 marks),1,yes,80),0,0,rks),1,1,0,0,1,1,0
+360,XXV) Analyze the key concepts of Mathematics. (2 Marks),1,Yes,xxv),0,0,rks),1,1,0,1,1,1,0
+974,XI) Define the key concepts of Mathematics. (10 Marks),1,Yes,xi),0,0,rks),1,1,0,1,1,1,0
+790,QUESTION 2 [20 MARKS] a) Explain the three concepts used in structured programming. (9 Marks),1,tbd,question,0,1,rks),1,1,0,1,1,0,0
+742,a) Explain the key concepts of Biology. (6 Marks),1,Yes,a),1,0,rks),1,1,1,0,1,1,0
+1042,She enjoys reading books in her free time. The painting was a masterpiece of color and emotion.,0,No,she,0,0,ion.,0,0,0,1,0,0,0
+977,(6 mks),0,tbd,(6,0,0,mks),1,1,0,0,0,0,0
+1381,72. Summarize the key concepts of Mathematics. (10 Marks),1,Yes,72.,1,0,rks),1,1,0,0,0,0,0
+1346,37. Outline the key concepts of Mathematics. (7 Marks),1,Yes,37.,1,0,rks),1,1,0,0,0,0,0
+1350,Baptist. (7:mks),1,tbd,baptist.,0,0,mks),1,1,0,1,0,0,0
+1754,q) Outline the key concepts of Literature. (10 Marks),1,Yes,q),1,0,rks),1,1,1,0,0,0,0
+1558,R code that you would use to solve this (6 Marks),1,tbd,r,0,0,rks),1,1,0,1,0,0,0
+892,b) Explain the key concepts of Physics. (2 Marks),1,Yes,b),1,0,rks),1,1,1,0,1,1,0
+81,Quantum mechanics explores particles at rks the smallest scales,0,no,quantum,0,0,ales,0,0,0,1,0,0,0
+821,e) Define the key concepts of Mathematics. (10 Marks),1,Yes,e),1,0,rks),1,1,1,0,1,1,0
+1167,"Examine the importance of data quality in risk analytics, discuss the potential impact of incomplete or incorrect data on risk prediction models, and propose strategies for mitigating these issues. (4 marks)",1,tbd,examine,0,0,rks),1,1,0,1,1,0,0
+676,"Besides its involvement in stress testing, analyze three other ways that the risk committee is able to influence risk culture and capabilities in an organization. Provide examples of recent corporate governance scenarios where the risk committee has played a pivotal role in fostering an effective risk culture. (6 Marks)",1,tbd,besides,0,0,rks),1,1,0,1,1,0,0
+1388,She enjoys reading books in her free time. The painting was a masterpiece of color and emotion.,0,No,she,0,0,ion.,0,0,0,1,0,0,0
+59,"Luke 951 -9, (7mks)",1,tbd,luke,0,0,mks),1,1,0,1,0,0,0
+135,END OF SEMESTER EXAMINATION,0,tbd,end,0,0,TION,0,0,0,1,0,0,0
+1147,TECHNICAL UNIVERSITY OF KENYA,0,tbd,technical,0,0,ENYA,0,0,0,1,0,0,0
+940,4. a) State four differences between traditional African prophets and the Old Testament prophets. 5: (8 mks),1,tbd,4.,1,0,mks),1,1,0,0,0,0,0
+1584,Ancient Egyptians developed one of mks the first writing systems,0,no,ancient,0,0,tems,0,0,0,1,0,0,0
+830,53) Describe an important concept in Geography and its significance. (8 marks),1,yes,53),0,0,rks),1,1,0,0,1,1,0
+508,Question [.,0,tbd,question,0,1,n [.,0,0,0,1,0,0,0
+1640,Name two military alliances which were formed during the cold war. (2marks),1,tbd,name,0,0,rks),1,1,0,1,0,0,0
+350,Question 1 (30 Marks),0,tbd,question,0,1,rks),1,1,0,1,0,0,0
+390,TIME: 2 Hours 2021 a,0,tbd,time:,0,0,21 a,0,0,0,1,0,0,0
+1031,The painting was a masterpiece of color and emotion. The painting was a masterpiece of color and emotion.,0,No,the,0,0,ion.,0,0,0,1,0,0,0
+901,Calculus allows the calculation of change and motion rks,0,no,calculus,0,0, rks,0,0,0,1,0,0,0
+835,49. Explain the key concepts of Literature. (10 Marks),1,Yes,49.,1,0,rks),1,1,0,0,1,1,0
+1708,XXXVI) Explain the key concepts of Geography. (4 Marks),1,Yes,xxxvi),0,0,rks),1,1,0,1,1,1,0
+479,186. Compare the key concepts of Economics. (9 Marks),1,Yes,186.,1,0,rks),1,1,0,0,1,1,0
+1332,91) Describe an important concept in Computer Science and its significance. (9 marks),1,yes,91),0,0,rks),1,1,0,0,1,1,0
+1609,Algebra is essential for solving equations and inequalities ks),0,no,algebra,0,0, ks),1,1,0,1,0,0,0
+657,Strathmore,0,tbd,strathmore,0,0,more,0,0,0,1,0,0,1
+174,(1 mark),0,tbd,(1,0,0,ark),0,0,0,0,0,0,0
+1157,Time: 3 Hours estions and an appendix to one of the questions.,0,tbd,time:,0,0,ons.,0,0,0,1,0,0,0
+39,She enjoys reading books in her free time. Technology is evolving at a rapid pace.,0,No,she,0,0,ace.,0,0,0,1,0,0,0
+720,70) Describe an important concept in Business Studies and its significance. (6 marks),1,yes,70),0,0,rks),1,1,0,0,1,1,0
+92,She enjoys reading books in her free time. They went for a long hike in the mountains.,0,No,she,0,0,ins.,0,0,0,1,0,0,0
+1748,UNIVERSITY,0,tbd,university,0,0,SITY,0,0,0,1,0,0,1
+882,The cat sat on the mat. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+1709,Ibs This examination consists of FIVE questions. 2s Answer Question ONE (COMPULSORY) and any other Two ques e,0,tbd,ibs,0,0,es e,0,0,0,1,0,0,0
+1100,30. Compare the key concepts of Mathematics. (2 Marks),1,Yes,30.,1,0,rks),1,1,0,0,1,1,0
+1163,Sts tro yes org eae exercised in Kenya. (2-marks),1,tbd,sts,0,0,rks),1,1,0,1,0,0,0
+1544,55) Describe an important concept in Music and its significance. (9 marks),1,yes,55),0,0,rks),1,1,0,0,1,1,0
+1767,Briefly explain. (3 Marks),1,tbd,briefly,0,0,rks),1,1,0,1,1,0,0
+503,Which plan would you go for and why given that the investment earns 7.5% semi- annually? {7 marks},1,tbd,which,0,0,rks},1,1,0,1,1,0,0
+341,STRATHMORE INSTITUTE OF MATHEMATICAL SCIENCES,0,tbd,strathmore,0,0,NCES,0,0,0,1,0,0,0
+28,Music has a way of bringing people together. She enjoys reading books in her free time.,0,No,music,0,0,ime.,0,0,0,1,0,0,0
+1198,The cat sat on the mat. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+1800,Biblical prophets conveyed ks) messages from God to people,0,no,biblical,0,0,ople,0,1,0,1,0,0,0
+952,153. Explain the key concepts of History. (5 Marks),1,Yes,153.,1,0,rks),1,1,0,0,1,1,0
+171,6. a) List eight places used for worship in Traditional African communities. (8 mks),1,tbd,6.,1,0,mks),1,1,0,0,0,0,0
+919,Ecosystems depend on balancing competing species interactions ks),0,no,ecosystems,0,0, ks),1,1,0,1,0,0,0
+495,169. Explain the key concepts of Biology. (10 Marks),1,Yes,169.,1,0,rks),1,1,0,0,1,1,0
+960,Page 1 of 4,0,tbd,page,0,0,of 4,0,0,0,1,0,0,0
+1104,t) Summarize the key concepts of History. (9 Marks),1,Yes,t),1,0,rks),1,1,1,0,0,0,0
+1039,i) Compare the key concepts of History. (8 Marks),1,Yes,i),1,0,rks),1,1,1,0,1,1,0
+592,END OF SEMESTER EXAMINATION,0,tbd,end,0,0,TION,0,0,0,1,0,0,0
+757,69. Discuss the key concepts of Science. (4 Marks),1,Yes,69.,1,0,rks),1,1,0,0,1,1,0
+662,She enjoys reading books in her free time. Music has a way of bringing people together.,0,No,she,0,0,her.,0,0,0,1,0,0,0
+237,ks) The Roman Empire influenced modern governmental structures,0,no,ks),0,0,ures,0,1,1,0,0,0,0
+739,35. Compare the key concepts of Science. (3 Marks),1,Yes,35.,1,0,rks),1,1,0,0,1,1,0
+1480,Attempt any Four (4) questions,0,tbd,attempt,0,0,ions,0,0,0,1,0,0,0
+1164,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+1331,c) Identify six ways in which Christians enhance the true worship of God today (6 mark),1,tbd,c),1,0,ark),0,0,1,0,0,0,0
+1476,99. Explain the key concepts of Science. (2 Marks),1,Yes,99.,1,0,rks),1,1,0,0,1,1,0
+941,Music has a way of bringing people together. Technology is evolving at a rapid pace.,0,No,music,0,0,ace.,0,0,0,1,0,0,0
+1072,Music has a way of bringing people together. It was a sunny day in Paris.,0,No,music,0,0,ris.,0,0,0,1,0,0,0
+110,97. Explain the key concepts of Science. (6 Marks),1,Yes,97.,1,0,rks),1,1,0,0,1,1,0
+1397,The Silk Road was rks a critical commerce network,0,no,the,0,0,work,0,0,0,1,0,0,0
+573,102. Discuss the key concepts of Biology. (4 Marks),1,Yes,102.,1,0,rks),1,1,0,0,1,1,0
+1175,5) Describe an important concept in Psychology and its significance. (8 marks),1,yes,5),0,0,rks),1,1,0,0,1,1,0
+1182,Technology is evolving at a rapid pace. The cat sat on the mat.,0,No,technology,0,0,mat.,0,0,0,1,0,0,0
+897,z) Outline the key concepts of Economics. (8 Marks),1,Yes,z),1,0,rks),1,1,1,0,0,0,0
+954,c) State the reasons: why Jesus was baptized yet he was sinless. (6 mks),1,tbd,c),1,0,mks),1,1,1,0,1,0,0
+1055,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+1222,Strathmore eee UNIVERSITY,0,tbd,strathmore,0,0,SITY,0,0,0,1,0,0,0
+1240,DIPLOMA OF TECHNOLOGY IN INFORMATION TECHNOLOGY,0,tbd,diploma,0,0,LOGY,0,0,0,1,0,0,0
+1309,s) Describe the key concepts of Economics. (10 Marks),1,Yes,s),1,0,rks),1,1,1,0,1,1,0
+891,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+1519,The cat sat on the mat. Music has a way of bringing people together.,0,No,the,0,0,her.,0,0,0,1,0,0,0
+857,XLI) Discuss the key concepts of Biology. (4 Marks),1,Yes,xli),0,0,rks),1,1,0,1,1,1,0
+741,"b) Write a C program that that has three subprograms, first subprogram to input a list of 18 customers names as string and ; deposit as number with decimal point, second subprogram to compute sum of the deposit of all customers and third ubprogram to display the list the 18 customers names and deposit, and sum of deposits. (11 Marks)",1,tbd,b),1,0,rks),1,1,1,0,1,1,0
+724,(4 Marks),0,tbd,(4,0,0,rks),1,1,0,0,0,0,0
+458,"October, 2022 Time: 3 hours ——————— / any",0,tbd,"october,",0,0, any,0,0,0,1,0,0,0
+267,XED DAY SECONDARY SCHOOL,0,tbd,xed,0,0,HOOL,0,0,0,1,0,0,0
+77,DIPLOMA OF TECHNOLOGY IN COMPUTER TECHNOLOGY,0,tbd,diploma,0,0,LOGY,0,0,0,1,0,0,0
+448,Music has a way of bringing people together. Technology is evolving at a rapid pace.,0,No,music,0,0,ace.,0,0,0,1,0,0,0
+399,"(0) , npute the area of acircle and to compute perimeter of a circle, (11. Marks)",1,tbd,(0),0,0,rks),1,1,0,0,0,0,0
+178,Music has a way of bringing people together. It was a sunny day in Paris.,0,No,music,0,0,ris.,0,0,0,1,0,0,0
+1049,It was a sunny day in Paris. She enjoys reading books in her free time.,0,No,it,0,0,ime.,0,0,0,1,0,0,0
+1574,82) Describe an important concept in Accounting and its significance. (6 marks),1,yes,82),0,0,rks),1,1,0,0,1,1,0
+1267,158. Outline the key concepts of Literature. (5 Marks),1,Yes,158.,1,0,rks),1,1,0,0,0,0,0
+1248,h) Discuss the key concepts of Literature. (6 Marks),1,Yes,h),1,0,rks),1,1,1,0,1,1,0
+600,Energy conservation is a mks fundamental concept in physics,0,no,energy,0,0,sics,0,0,0,1,0,0,0
+63,The speed of light is constant in vacuum rks,0,no,the,0,0, rks,0,0,0,1,0,0,0
+879,The Roman Empire influenced modern governmental structures mks,0,no,the,0,0, mks,0,0,0,1,0,0,0
+1349,g). Outiine any two benefits of structured programming. (2 Marks),1,tbd,g).,0,0,rks),1,1,1,0,0,0,0
+1698,XLVI) Define the key concepts of Economics. (7 Marks),1,Yes,xlvi),0,0,rks),1,1,0,1,1,1,0
+281,b) In what ways did prophet Jeremiah suffer while carrying out his workin Judah. (6 mks),1,tbd,b),1,0,mks),1,1,1,0,1,0,0
+37,Africa. (Imarks),1,tbd,africa.,0,0,rks),1,1,0,1,0,0,0
+1373,(b) If you buy 100 shares of East African Breweries stock,1,tbd,(b),1,0,tock,0,0,0,0,0,0,0
+667,Music has a way of bringing people together. The cat sat on the mat.,0,No,music,0,0,mat.,0,0,0,1,0,0,0
+1634,160. Discuss the key concepts of History. (7 Marks),1,Yes,160.,1,0,rks),1,1,0,0,1,1,0
+1307,sed in structured programming. (9 Marks),1,tbd,sed,0,0,rks),1,1,1,0,0,0,0
+984,48) Describe an important concept in Science and its significance. (8 marks),1,yes,48),0,0,rks),1,1,0,0,1,1,0
+1424,MASTER OF SCIENCE IN DATA SCIENCE AND ANALYTICS,0,No,master,0,0,TICS,0,0,0,1,0,0,0
+745,The cat sat on the mat. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+194,DSA 8105: FUNDAMENTAL CONCEPTS IN a,0,tbd,dsa,0,0,IN a,0,0,0,1,0,0,0
+926,F 6 mks),0,tbd,f,0,0,mks),1,1,0,1,0,0,0
+460,She enjoys reading books in her free time. The cat sat on the mat.,0,No,she,0,0,mat.,0,0,0,1,0,0,0
+680,110. Outline the key concepts of Mathematics. (5 Marks),1,Yes,110.,1,0,rks),1,1,0,0,0,0,0
+767,168. Discuss the key concepts of Economics. (8 Marks),1,Yes,168.,1,0,rks),1,1,0,0,1,1,0
+1635,90. Summarize the key concepts of Mathematics. (10 Marks),1,Yes,90.,1,0,rks),1,1,0,0,0,0,0
+735,Question 1,1,Yes,question,0,1,on 1,0,0,0,1,0,0,0
+416,It was a sunny day in Paris. She enjoys reading books in her free time.,0,No,it,0,0,ime.,0,0,0,1,0,0,0
+1105,Instructions & Dy,0,No,instructions,0,0,& Dy,0,0,0,1,0,0,0
+832,Statistics helps in making decisions based on data rks),0,no,statistics,0,0,rks),1,1,0,1,0,0,0
+1355,"c) Explain the program structure of a C program, giving relevant examples using the program in Q1 (b). (5 Marks)",1,tbd,c),1,0,rks),1,1,1,0,1,1,0
+621,Mathematical proofs are crucial for verifying truths mks,0,no,mathematical,0,0, mks,0,0,0,1,0,0,0
+116,Music has a way of bringing people together. They went for a long hike in the mountains.,0,No,music,0,0,ins.,0,0,0,1,0,0,0
+421,The speed of light is constant in vacuum mks),0,no,the,0,0,mks),1,1,0,1,0,0,0
+1723,Black holes are regions of ks) space with strong gravity,0,no,black,0,0,vity,0,1,0,1,0,0,0
+976,114. Discuss the key concepts of Economics. (3 Marks),1,Yes,114.,1,0,rks),1,1,0,0,1,1,0
+609,He cooked a delicious meal for dinner. It was a sunny day in Paris.,0,No,he,0,0,ris.,0,0,0,1,0,0,0
+1730,2) Describe an important concept in Music and its significance. (5 marks),1,yes,2),0,0,rks),1,1,0,0,1,1,0
+91,105. Outline the key concepts of Biology. (10 Marks),1,Yes,105.,1,0,rks),1,1,0,0,0,0,0
+855,The speed of light is constant in vacuum ks,0,no,the,0,0,m ks,0,0,0,1,0,0,0
+1534,Industrial Revolution sparked major urban demographic shifts ks),0,no,industrial,0,0, ks),1,1,0,1,0,0,0
+1729,q) Analyze the key concepts of Economics. (9 Marks),1,Yes,q),1,0,rks),1,1,1,0,1,1,0
+760,XXXII) Discuss the key concepts of Geography. (10 Marks),1,Yes,xxxii),0,0,rks),1,1,0,1,1,1,0
+502,Gravity affects the motion of mks objects on Earth,0,no,gravity,0,0,arth,0,0,0,1,0,0,0
+11,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+400,Energy conservation is a fundamental concept in physics ks),0,no,energy,0,0, ks),1,1,0,1,0,0,0
+287,They went for a long hike in the mountains. The painting was a masterpiece of color and emotion.,0,No,they,0,0,ion.,0,0,0,1,0,0,0
+1073,What was the title given to the highest political and religious leader of the Shona? (Imark),1,tbd,what,0,0,ark),0,0,0,1,1,1,0
+1199,Quantum mechanics explores particles at the smallest scales ks),0,no,quantum,0,0, ks),1,1,0,1,0,0,0
+696,sed in structured programming. (9 Marks),1,tbd,sed,0,0,rks),1,1,1,0,0,0,0
+1479,"19, a) State three factors which enabled the Arabs 10 sail from Oman to the Kenyan Coast. (12 marks)",1,tbd,"19,",0,0,rks),1,1,0,0,0,0,0
+1695,100. Outline the key concepts of Literature. (3 Marks),1,Yes,100.,1,0,rks),1,1,0,0,0,0,0
+695,21) Describe an important concept in Psychology and its significance. (9 marks),1,yes,21),0,0,rks),1,1,0,0,1,1,0
+858,Gravity affects the motion of objects on Earth ks,0,no,gravity,0,0,h ks,0,0,0,1,0,0,0
+161,Outline one function of the speaker of the County Assembly,1,tbd,outline,0,0,mbly,0,0,0,1,0,0,0
+902,(b) Discuss FIVE ways of positive living with HIV/AIDs [10Mks] lifestyle factors that contribute to many of such health problems? [10Mks],1,tbd,(b),1,0,Mks],1,1,0,0,1,1,0
+1428,END OF SEMESTER EXAMINATION,0,tbd,end,0,0,TION,0,0,0,1,0,0,0
+260,LXXXIII) Discuss the key concepts of Biology. (9 Marks),1,Yes,lxxxiii),0,0,rks),1,1,0,1,1,1,0
+338,LXXVI) Discuss the key concepts of Literature. (2 Marks),1,Yes,lxxvi),0,0,rks),1,1,0,1,1,1,0
+1699,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+1046,The Roman Empire influenced modern governmental structures mks,0,no,the,0,0, mks,0,0,0,1,0,0,0
+519,"(d) In the context of financial markets, distinguish betwee informational efficiency. (4 Marks)",1,tbd,(d),1,0,rks),1,1,0,0,0,0,0
+1022,XXXIV) Analyze the key concepts of Economics. (8 Marks),1,Yes,xxxiv),0,0,rks),1,1,0,1,1,1,0
+775,Instructions &,0,tbd,instructions,0,0,ns &,0,0,0,1,0,0,0
+1583,Energy conservation is a fundamental concept in rks physics,0,no,energy,0,0,sics,0,0,0,1,0,0,0
+768,173. Summarize the key concepts of Biology. (2 Marks),1,Yes,173.,1,0,rks),1,1,0,0,0,0,0
+1254,Industrial Revolution sparked major urban demographic rks shifts,0,no,industrial,0,0,ifts,0,0,0,1,0,0,0
+1211,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+1521,"d) Differentiate between an array, a record, a pointer and a file, then write a C program that implements an array, a record and a file using a structure (record) consisting of itemname and itemcode to store data of 20 items in a retail shop computer and displays a list of the 20 items details reading from file. Given that item name is a string of 25 characters, item code is a number of 4 digits, record name is item, logical file is itemfile, and physical file is “C:\item\itemf.dat’. (11 Marks)",1,tbd,d),1,0,rks),1,1,1,0,1,0,0
+1792,113. Outline the key concepts of Geography. (7 Marks),1,Yes,113.,1,0,rks),1,1,0,0,0,0,0
+525,Algebra is essential for solving equations and inequalities rks,0,no,algebra,0,0, rks,0,0,0,1,0,0,0
+22,u) Summarize the key concepts of Biology. (5 Marks),1,Yes,u),1,0,rks),1,1,1,0,0,0,0
+359,Technology is evolving at a rapid pace. Technology is evolving at a rapid pace.,0,No,technology,0,0,ace.,0,0,0,1,0,0,0
+1285,He cooked a delicious meal for dinner. The painting was a masterpiece of color and emotion.,0,No,he,0,0,ion.,0,0,0,1,0,0,0
+1528,11) Describe an important concept in Economics and its significance. (5 marks),1,yes,11),0,0,rks),1,1,0,0,1,1,0
+343,b) State teachings of Peter concerning the people of God. (1* Peter 2:9- 10) (7 Marks),1,tbd,b),1,0,rks),1,1,1,0,0,0,0
+435,8. Analyze the key concepts of Economics. (7 Marks),1,Yes,8.,1,0,rks),1,1,0,0,1,1,0
+477,146. Analyze the key concepts of Physics. (5 Marks),1,Yes,146.,1,0,rks),1,1,0,0,1,1,0
+220,He cooked a delicious meal for dinner. Music has a way of bringing people together.,0,No,he,0,0,her.,0,0,0,1,0,0,0
+918,They went for a long hike in the mountains. Technology is evolving at a rapid pace.,0,No,they,0,0,ace.,0,0,0,1,0,0,0
+1235,"“Paul” and “John” respectively, Explain the following (8 marks)",1,tbd,“paul”,0,0,rks),1,1,0,0,1,0,0
+1562,36. Outline the key concepts of History. (5 Marks),1,Yes,36.,1,0,rks),1,1,0,0,0,0,0
+1018,f) Define the key concepts of Literature. (3 Marks),1,Yes,f),1,0,rks),1,1,1,0,1,1,0
+1759,Energy conservation is a fundamental concept in rks physics,0,no,energy,0,0,sics,0,0,0,1,0,0,0
+95,(10 Marks),0,no,(10,0,0,rks),1,1,0,0,0,0,0
+1015,The cat sat on the mat. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+1077,The cat sat on the mat. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+1099,ye,0,tbd,ye,0,0,ye,0,0,1,0,0,0,1
+1632,XVIII) Compare the key concepts of Geography. (7 Marks),1,Yes,xviii),0,0,rks),1,1,0,1,1,1,0
+702,b) Describe the events that took place on the day of pentacost (7 mks),1,tbd,b),1,0,mks),1,1,1,0,1,1,0
+1623,w) Define the key concepts of Physics. (5 Marks),1,Yes,w),1,0,rks),1,1,1,0,1,1,0
+1003,128. Describe the key concepts of History. (7 Marks),1,Yes,128.,1,0,rks),1,1,0,0,1,1,0
+155,The cat sat on the mat. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+1106,in the following principles used in programming: (4 Marks),1,tbd,in,0,0,rks),1,1,1,0,0,0,0
+1561,It was a sunny day in Paris. She enjoys reading books in her free time.,0,No,it,0,0,ime.,0,0,0,1,0,0,0
+1806,The Roman Empire influenced modern governmental structures mks,0,no,the,0,0, mks,0,0,0,1,0,0,0
+796,Genetic diversity stems from mutations during rks reproduction,0,no,genetic,0,0,tion,0,0,0,1,0,0,0
+585,65. Describe the key concepts of Physics. (5 Marks),1,Yes,65.,1,0,rks),1,1,0,0,1,1,0
+709,TECHNICAL UNIVERSITY OF KENYA,0,tbd,technical,0,0,ENYA,0,0,0,1,0,0,0
+1220,Quantum mechanics explores particles at the smallest scales mks,0,no,quantum,0,0, mks,0,0,0,1,0,0,0
+1303,"3) Besides its involvement in stress testing, analyze three other ways that the risk committee is able to influence risk culture and capabilities in an organization. Provide examples of recent corporate governance scenarios where the risk committee has played a pivotal role in fostering an effective risk culture. (6 Marks)",1,yes,3),0,0,rks),1,1,0,0,1,0,0
+1513,"23. a) Outline the composition of the County Executive Committee, G marks)",1,tbd,23.,1,0,rks),1,1,0,0,0,0,0
+1268,a) Describe the call of Abraham. mks),1,tbd,a),1,0,mks),1,1,1,0,1,1,0
+491,28) Describe an important concept in World Religions and its significance. (10 marks),1,yes,28),0,0,rks),1,1,0,0,1,1,0
+564,v) Summarize the key concepts of History. (1 Marks),1,Yes,v),1,0,rks),1,1,1,0,0,0,0
+1148,IV) Explain the key concepts of Science. (3 Marks),1,Yes,iv),0,0,rks),1,1,0,1,1,1,0
+1126,Industrial mks Revolution sparked major urban demographic shifts,0,no,industrial,0,0,ifts,0,0,0,1,0,0,0
+808,The cat sat on the mat. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+516,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+638,LXVIII) Summarize the key concepts of Geography. (3 Marks),1,Yes,lxviii),0,0,rks),1,1,0,1,0,0,0
+1338,"Date: 4° October, 2022 Time: 3 hours",0,tbd,date:,0,0,ours,0,0,0,1,0,0,0
+1618,#NAME?,0,tbd,#name?,0,0,AME?,0,0,0,0,0,0,1
+1158,Music has a way of bringing people together. It was a sunny day in Paris.,0,No,music,0,0,ris.,0,0,0,1,0,0,0
+797,Moral codes from religions influence ks) societal laws,0,no,moral,0,0,laws,0,1,0,1,0,0,0
+118,Faith practices can vary significantly across denominations mks,0,no,faith,0,0, mks,0,0,0,1,0,0,0
+747,She enjoys reading books in her free time. She enjoys reading books in her free time.,0,No,she,0,0,ime.,0,0,0,1,0,0,0
+1088,49) Describe an important concept in Political Science and its significance. (4 marks),1,yes,49),0,0,rks),1,1,0,0,1,1,0
+837,79. Compare the key concepts of Science. (1 Marks),1,Yes,79.,1,0,rks),1,1,0,0,1,1,0
+121,XLIII) Discuss the key concepts of Mathematics. (7 Marks),1,Yes,xliii),0,0,rks),1,1,0,1,1,1,0
+661,(8mks),0,tbd,(8mks),0,0,mks),1,1,0,0,0,0,1
+1720,c) Discuss the key concepts of Literature. (7 Marks),1,Yes,c),1,0,rks),1,1,1,0,1,1,0
+640,The cat sat on the mat. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+373,Technology is evolving at a rapid pace. They went for a long hike in the mountains.,0,No,technology,0,0,ins.,0,0,0,1,0,0,0
+271,The speed of light is constant in vacuum mks),0,no,the,0,0,mks),1,1,0,1,0,0,0
+660,18) Describe an important concept in Geography and its significance. (5 marks),1,yes,18),0,0,rks),1,1,0,0,1,1,0
+942,53. Compare the key concepts of Mathematics. (9 Marks),1,Yes,53.,1,0,rks),1,1,0,0,1,1,0
+829,LXXXVIII) Describe the key concepts of Literature. (4 Marks),1,Yes,lxxxviii),0,0,rks),1,1,0,1,1,1,0
+873,QUESTION ONE (20 MARKS),0,tbd,question,0,1,RKS),0,0,0,1,0,0,0
+47,b) Describe the political organization o (3 marks),1,tbd,b),1,0,rks),1,1,1,0,1,1,0
+1551,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+998,Music has a way of bringing people together. She enjoys reading books in her free time.,0,No,music,0,0,ime.,0,0,0,1,0,0,0
+883,"Besides its involvement in stress testing, analyze three other ways that the risk committee is able to influence risk culture and capabilities in an organization. Provide examples of recent corporate governance scenarios where the risk committee has played a pivotal role in fostering an effective risk culture. (6 Marks)",1,tbd,besides,0,0,rks),1,1,0,1,1,0,0
+780,+ sistand2 (6mks),0,tbd,+,0,0,mks),1,1,0,0,0,0,0
+1227,The painting was a masterpiece of color and emotion. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+1808,Strathmore,0,No,strathmore,0,0,more,0,0,0,1,0,0,1
+4,Energy conservation is mks a fundamental concept in physics,0,no,energy,0,0,sics,0,0,0,1,0,0,0
+1010,LXXVIII) Outline the key concepts of Literature. (7 Marks),1,Yes,lxxviii),0,0,rks),1,1,0,1,0,0,0
+1564,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+266,108. Analyze the key concepts of Physics. (9 Marks),1,Yes,108.,1,0,rks),1,1,0,0,1,1,0
+1422,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+1656,96. Describe the key concepts of Literature. (2 Marks),1,Yes,96.,1,0,rks),1,1,0,0,1,1,0
+447,170. Outline the key concepts of History. (10 Marks),1,Yes,170.,1,0,rks),1,1,0,0,0,0,0
+1009,Energy conservation is a fundamental concept in physics ks),0,no,energy,0,0, ks),1,1,0,1,0,0,0
+1084,94) Describe an important concept in Chemistry and its significance. (7 marks),1,yes,94),0,0,rks),1,1,0,0,1,1,0
+844,The painting was a masterpiece of color and emotion. He cooked a delicious meal for dinner.,0,No,the,0,0,ner.,0,0,0,1,0,0,0
+1621,g). Outiine any two benefits of structured programming. (2 Marks),1,tbd,g).,0,0,rks),1,1,1,0,0,0,0
+307,MASTER OF SCIENCE IN DATA SCIENCE AND ANALYTICS,0,tbd,master,0,0,TICS,0,0,0,1,0,0,0
+1410,"DATE: 17"" July 2022",0,No,date:,0,0,2022,0,0,0,1,0,0,0
+316,She enjoys reading books in her free time. The painting was a masterpiece of color and emotion.,0,No,she,0,0,ion.,0,0,0,1,0,0,0
+151,She enjoys reading books in her free time. He cooked a delicious meal for dinner.,0,No,she,0,0,ner.,0,0,0,1,0,0,0
+1156,s) Discuss the key concepts of Literature. (4 Marks),1,Yes,s),1,0,rks),1,1,1,0,1,1,0
+1221,Music has a way of bringing people together. Music has a way of bringing people together.,0,No,music,0,0,her.,0,0,0,1,0,0,0
+579,The painting was a masterpiece of color and emotion. Technology is evolving at a rapid pace.,0,No,the,0,0,ace.,0,0,0,1,0,0,0
+52,120. Explain the key concepts of Geography. (7 Marks),1,Yes,120.,1,0,rks),1,1,0,0,1,1,0
+1614,Algebra is essential for solving equations and inequalities ks,0,no,algebra,0,0,s ks,0,0,0,1,0,0,0
+733,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+840,15) Describe an important concept in Physics and its significance. (5 marks),1,yes,15),0,0,rks),1,1,0,0,1,1,0
+1122,Bis peptic Rb “examine the incomplete or inc ts involvement in st ress” afluence risk culture and capabilities in an organization. Provide examples of recent yernance scenarios where the risk committee has played a pivotal role in 0 bn ong! aren se < CeCctlve rs! k culture. temporary € hee,0,tbd,bis,0,0, hee,0,0,0,1,1,0,0
+1174,(5 marks),0,tbd,(5,0,0,rks),1,1,0,0,0,0,0
+474,She enjoys reading books in her free time. They went for a long hike in the mountains.,0,No,she,0,0,ins.,0,0,0,1,0,0,0
+978,x) Summarize the key concepts of History. (9 Marks),1,Yes,x),1,0,rks),1,1,1,0,0,0,0
+658,b) Identify the responsibilities given to human beings by God in Biblical creation stories. (8 mks),1,yes,b),1,0,mks),1,1,1,0,1,0,0
+403,XXXVII) Summarize the key concepts of Science. (7 Marks),1,Yes,xxxvii),0,0,rks),1,1,0,1,0,0,0
+515,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+323,SPECIAL/SUPPLEMENTARY EXAMS 2020/2021 FOR FIRST YEAR EXAMINATIONS FOR,0,tbd,special/supplementary,0,0, FOR,0,0,0,1,0,0,0
+19,They went for a long hike in the mountains. The painting was a masterpiece of color and emotion.,0,No,they,0,0,ion.,0,0,0,1,0,0,0
+690,The speed of light is constant in vacuum ks),0,no,the,0,0, ks),1,1,0,1,0,0,0
+35,21. a) Give five features of African Socialism in Kenya. (5 marks),1,tbd,21.,1,0,rks),1,1,0,0,1,0,0
+909,"(d) In the context of financial markets, distinguish betwee informational efficiency. (4 Marks)",1,tbd,(d),1,0,rks),1,1,0,0,0,0,0
+834,p) Define the key concepts of Literature. (2 Marks),1,Yes,p),1,0,rks),1,1,1,0,1,1,0
+1626,Technology is evolving at a rapid pace. Music has a way of bringing people together.,0,No,technology,0,0,her.,0,0,0,1,0,0,0
+411,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+927,b) Explain the characteristics of a covenant. eras),1,tbd,b),1,0,ras),0,0,1,0,1,1,0
+541,The speed of light is constant in vacuum ks,0,no,the,0,0,m ks,0,0,0,1,0,0,0
+765,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+1069,. Give one special court in Kenya. (1 mark),1,tbd,.,0,0,ark),0,0,0,0,1,1,0
+1207,191. Describe the key concepts of Economics. (4 Marks),1,Yes,191.,1,0,rks),1,1,0,0,1,1,0
+248,Technology is evolving at a rapid pace. She enjoys reading books in her free time.,0,No,technology,0,0,ime.,0,0,0,1,0,0,0
+1134,Black holes mks are regions of space with strong gravity,0,no,black,0,0,vity,0,0,0,1,0,0,0
+791,XIII) Define the key concepts of Biology. (7 Marks),1,Yes,xiii),0,0,rks),1,1,0,1,1,1,0
+493,e) Discuss the key concepts of Economics. (7 Marks),1,Yes,e),1,0,rks),1,1,1,0,1,1,0
+156,They went for a long hike in the mountains. He cooked a delicious meal for dinner.,0,No,they,0,0,ner.,0,0,0,1,0,0,0
+968,Christian teachings often emphasize mks forgiveness and redemption,0,no,christian,0,0,tion,0,0,0,1,1,0,0
+860,R code that you would use to solve this (6 Marks),1,tbd,r,0,0,rks),1,1,0,1,0,0,0
+1319,XXVII) Discuss the key concepts of Science. (7 Marks),1,Yes,xxvii),0,0,rks),1,1,0,1,1,1,0
+630,Strathmore,0,tbd,strathmore,0,0,more,0,0,0,1,0,0,1
+691,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+1414,s) Analyze the key concepts of Physics. (2 Marks),1,Yes,s),1,0,rks),1,1,1,0,1,1,0
+574,ye,0,tbd,ye,0,0,ye,0,0,1,0,0,0,1
+1721,Christian teachings often emphasize forgiveness and redemption ks),0,no,christian,0,0, ks),1,1,0,1,1,0,0
+17,Photosynthesis converts solar energy into chemical energy rks,0,no,photosynthesis,0,0, rks,0,0,0,1,0,0,0
+129,"i. Feasibility study ii. System investigation ili, System design",1,tbd,i.,0,0,sign,0,0,1,0,0,0,0
+1354,He cooked a delicious meal for dinner. She enjoys reading books in her free time.,0,No,he,0,0,ime.,0,0,0,1,0,0,0
+1287,Christian teachings often emphasize mks forgiveness and redemption,0,no,christian,0,0,tion,0,0,0,1,1,0,0
+1777,It was a sunny day in Paris. They went for a long hike in the mountains.,0,No,it,0,0,ins.,0,0,0,1,0,0,0
+934,DSA 8304 Risk Management Analytics,0,tbd,dsa,0,0,tics,0,0,0,1,0,0,0
+987,Explain Mathematical proofs are crucial for verifying truths ks),0,no,explain,0,0, ks),1,1,0,1,1,1,0
+1773,"2a) From the teachings of Jesus, what role would the Holy Spirit play? (8 Marks)",1,tbd,2a),0,0,rks),1,1,0,0,1,0,0
+193,DIPLOMA OF TECHNOLOGY IN COMPUTER TECHNOLOGY,0,tbd,diploma,0,0,LOGY,0,0,0,1,0,0,0
+1146,Statistics helps in making decisions based on data rks),0,no,statistics,0,0,rks),1,1,0,1,0,0,0
+999,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+1764,Christian teachings often emphasize forgiveness and redemption rks,0,no,christian,0,0, rks,0,0,0,1,1,0,0
+1587,21. Summarize the key concepts of Mathematics. (9 Marks),1,Yes,21.,1,0,rks),1,1,0,0,0,0,0
+611,Religious conflicts have shaped political landscapes historically rks,0,no,religious,0,0, rks,0,0,0,1,0,0,0
+183,They went for a long hike in the mountains. The cat sat on the mat.,0,No,they,0,0,mat.,0,0,0,1,0,0,0
+304,b) Give six reasons why sacrifices were made in Traditional African communities. (6 mks),1,tbd,b),1,0,mks),1,1,1,0,1,1,0
+500,"c) Explain the program structure of a C program, giving relevant examples using the program in Q1 (b). (5 Marks)",1,tbd,c),1,0,rks),1,1,1,0,1,1,0
+1539,56) Describe an important concept in Health Education and its significance. (8 marks),1,yes,56),0,0,rks),1,1,0,0,1,1,0
+1552,The Silk Road was a critical commerce network rks,0,no,the,0,0, rks,0,0,0,1,0,0,0
+1719,DSA 8105: FUNDAMENTAL CONCEPTS IN FINANCE AND ECONOMICS 6 Setember2021 Time: 3 Hours ice cream market in Mombasa. _ G Marks),0,tbd,dsa,0,0,rks),1,1,0,1,0,0,0
+1802,18. a) Give five reasons for the migration ‘Tthe Somali in Kenya during the pre-colonial period. (10 marks),1,tbd,18.,1,0,rks),1,1,0,0,1,0,0
+521,117. Define the key concepts of Economics. (6 Marks),1,Yes,117.,1,0,rks),1,1,0,0,1,1,0
+1793,QUESTION ONE (30 MARKS)-COMPULSORY a). Explain the following programming tools used in program development:- \. Language translators ii Unker ii. IDE iv. Loader (4 Marks),1,tbd,question,0,1,rks),1,1,0,1,1,0,0
+1076,Instructions,0,tbd,instructions,0,0,ions,0,0,0,1,0,0,1
+480,DSA 8105: FUNDAMENTAL CONCEPTS IN a,0,tbd,dsa,0,0,IN a,0,0,0,1,0,0,0
+159,The painting was a masterpiece of color and emotion. Technology is evolving at a rapid pace.,0,No,the,0,0,ace.,0,0,0,1,0,0,0
+1251,Yo of deaths from lifestyle diseases occur in low- and middle-,0,tbd,yo,0,0,dle-,0,0,0,1,0,0,0
+1203,XL) Define the key concepts of History. (1 Marks),1,Yes,xl),0,0,rks),1,1,0,1,1,1,0
+16,Define Algebra is essential for solving equations and inequalities rks],0,no,define,0,0,rks],1,1,0,1,1,1,0
+1079,It was a sunny day in Paris. He cooked a delicious meal for dinner.,0,No,it,0,0,ner.,0,0,0,1,0,0,0
+1780,pee eS ae (2 marks),1,tbd,pee,0,0,rks),1,1,1,0,0,0,0
+550,¢) Outline the reasons why Christians should repent their sins. (6 mks),1,tbd,¢),0,0,mks),1,1,0,0,1,0,0
+663,She enjoys reading books in her free time. It was a sunny day in Paris.,0,No,she,0,0,ris.,0,0,0,1,0,0,0
+1474,72) Describe an important concept in English Literature and its significance. (4 marks),1,yes,72),0,0,rks),1,1,0,0,1,1,0
+1026,Define Algebra is essential for solving equations and inequalities rks],0,no,define,0,0,rks],1,1,0,1,1,1,0
+1510,(6mks),0,tbd,(6mks),0,0,mks),1,1,0,0,0,0,1
+966,e) Explain the key concepts of Physics. (2 Marks),1,Yes,e),1,0,rks),1,1,1,0,1,1,0
+1701,The Roman Empire influenced modern governmental structures rks),0,no,the,0,0,rks),1,1,0,1,0,0,0
+286,QUESTION ONE a. State and explain THREE indirect modes of transmission of communicable diseases [3Mks] _ Highlight THREE levels of prevention of communicable diseases [3Mks],1,tbd,question,0,1,Mks],1,1,0,1,1,0,0
+804,Photosynthesis converts solar energy mks into chemical energy,0,no,photosynthesis,0,0,ergy,0,0,0,1,0,0,0
+1475,(Place wheat on the x-axis) {2 marks},1,tbd,(place,0,0,rks},1,1,0,0,0,0,0
+228,in the following principles used in programming: (4 Marks),1,tbd,in,0,0,rks),1,1,1,0,0,0,0
+26,Photosynthesis converts solar ks) energy into chemical energy,0,no,photosynthesis,0,0,ergy,0,1,0,1,0,0,0
+1603,125. Analyze the key concepts of Biology. (4 Marks),1,Yes,125.,1,0,rks),1,1,0,0,1,1,0
+441,166. Define the key concepts of Biology. (5 Marks),1,Yes,166.,1,0,rks),1,1,0,0,1,1,0
+1758,r) Define the key concepts of Mathematics. (5 Marks),1,Yes,r),1,0,rks),1,1,1,0,1,1,0
+1396,r) Define the key concepts of Mathematics. (4 Marks),1,Yes,r),1,0,rks),1,1,1,0,1,1,0
+232,LVIII) Summarize the key concepts of Literature. (4 Marks),1,Yes,lviii),0,0,rks),1,1,0,1,0,0,0
+38,89. Define the key concepts of Science. (10 Marks),1,Yes,89.,1,0,rks),1,1,0,0,1,1,0
+756,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+1052,She enjoys reading books in her free time. She enjoys reading books in her free time.,0,No,she,0,0,ime.,0,0,0,1,0,0,0
+1406,33) Describe an important concept in Biology and its significance. (8 marks),1,yes,33),0,0,rks),1,1,0,0,1,1,0
+473,(9 Marks),0,tbd,(9,0,0,rks),1,1,0,0,0,0,0
+1536,Music has a way of bringing people together. The cat sat on the mat.,0,No,music,0,0,mat.,0,0,0,1,0,0,0
+1776,XXXV) Compare the key concepts of Literature. (1 Marks),1,Yes,xxxv),0,0,rks),1,1,0,1,1,1,0
+693,"a) According to Isaiah's prophecy state the names given to the Messiah, ic b) How did Jesus fultill Isaiah's prophecy of the suffering servant eat ¢) How should Christians respond to those who are opposing them? (8 mks)",1,tbd,a),1,0,mks),1,1,1,0,1,0,0
+1667,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+644,111. Compare,0,No,111.,1,0,pare,0,0,0,0,1,0,0
+1555,z) Define the key concepts of Mathematics. (4 Marks),1,Yes,z),1,0,rks),1,1,1,0,1,1,0
+1226,171. Discuss the key concepts of Economics. (10 Marks),1,Yes,171.,1,0,rks),1,1,0,0,1,1,0
+1166,QUESTiICN THREE,0,tbd,questiicn,0,0,HREE,0,0,0,1,0,0,0
+1423,The painting was a masterpiece of color and emotion. Technology is evolving at a rapid pace.,0,No,the,0,0,ace.,0,0,0,1,0,0,0
+1503,He cooked a delicious meal for dinner. They went for a long hike in the mountains.,0,No,he,0,0,ins.,0,0,0,1,0,0,0
+1308,XLV) Compare the key concepts of History. (5 Marks),1,Yes,xlv),0,0,rks),1,1,0,1,1,1,0
+1649,It was a sunny day in Paris. It was a sunny day in Paris.,0,No,it,0,0,ris.,0,0,0,1,0,0,0
+807,‘ ” (Smarks),0,tbd,‘,0,0,rks),1,1,0,0,0,0,0
+162,They went for a long hike in the mountains. Music has a way of bringing people together.,0,No,they,0,0,her.,0,0,0,1,0,0,0
+963,Music has a way of bringing people together. Music has a way of bringing people together.,0,No,music,0,0,her.,0,0,0,1,0,0,0
+1194,g) Define the key concepts of History. (8 Marks),1,Yes,g),1,0,rks),1,1,1,0,1,1,0
+828,It was a sunny day in Paris. Technology is evolving at a rapid pace.,0,No,it,0,0,ace.,0,0,0,1,0,0,0
+1527,Energy conservation is a mks fundamental concept in physics,0,no,energy,0,0,sics,0,0,0,1,0,0,0
+884,19) Describe an important concept in Geography and its significance. (9 marks),1,yes,19),0,0,rks),1,1,0,0,1,1,0
+920,Black holes are regions of space with strong gravity rks,0,no,black,0,0, rks,0,0,0,1,0,0,0
+154,He cooked a delicious meal for dinner. Technology is evolving at a rapid pace.,0,No,he,0,0,ace.,0,0,0,1,0,0,0
+1661,Calculus allows the calculation mks of change and motion,0,no,calculus,0,0,tion,0,0,0,1,0,0,0
+513,Technology is evolving at a rapid pace. The painting was a masterpiece of color and emotion.,0,No,technology,0,0,ion.,0,0,0,1,0,0,0
+1142,He cooked a delicious meal for dinner. Technology is evolving at a rapid pace.,0,No,he,0,0,ace.,0,0,0,1,0,0,0
+1258,diay One y Par ofl Md ; . - 4a) Explain the | teachings of prophet Amos on Israel election. (7 marks),1,tbd,diay,0,0,rks),1,1,1,0,1,0,0
+1511,He cooked a delicious meal for dinner. The painting was a masterpiece of color and emotion.,0,No,he,0,0,ion.,0,0,0,1,0,0,0
+105,b) Explain five problems faced by Africans in Urban Centres during the colonial period. (10 marks),1,tbd,b),1,0,rks),1,1,1,0,1,1,0
+1453,q) Explain the key concepts of Mathematics. (2 Marks),1,Yes,q),1,0,rks),1,1,1,0,1,1,0
+1451,The painting was a masterpiece of color and emotion. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+591,150. Describe the key concepts of Economics. (2 Marks),1,Yes,150.,1,0,rks),1,1,0,0,1,1,0
+1601,He cooked a delicious meal for dinner. The painting was a masterpiece of color and emotion.,0,No,he,0,0,ion.,0,0,0,1,0,0,0
+1151,"Besides its involvement in stress testing, analyze three other ways that the risk committee is able to influence risk culture and capabilities in an organization. Provide examples of recent corporate governance scenarios where the risk committee has played a pivotal role in fostering an effective risk culture. (6 Marks)",1,tbd,besides,0,0,rks),1,1,0,1,1,0,0
+55,185. Compare the key concepts of Mathematics. (3 Marks),1,Yes,185.,1,0,rks),1,1,0,0,1,1,0
+153,". Analyze the 2 limitations of different machine learning algorithms (such as decision trees, neural networks, and support vector machines) in predicting credit default risk (4 marks)",1,tbd,.,0,0,rks),1,1,0,0,1,1,0
+407,The cat sat on the mat. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+1753,40. Analyze the key concepts of Literature. (8 Marks),1,Yes,40.,1,0,rks),1,1,0,0,1,1,0
+210,"b) Write a C program that that has three subprograms, first subprogram to input a list of 18 customers names as string and ; deposit as number with decimal point, second subprogram to compute sum of the deposit of all customers and third ubprogram to display the list the 18 customers names and deposit, and sum of deposits. (11 Marks)",1,tbd,b),1,0,rks),1,1,1,0,1,1,0
+1710,Christian teachings often mks emphasize forgiveness and redemption,0,no,christian,0,0,tion,0,0,0,1,1,0,0
+1129,The cat sat on the mat. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+1643,147. Outline the key concepts of Science. (7 Marks),1,Yes,147.,1,0,rks),1,1,0,0,0,0,0
+8,"QUESTION 1 [30 MARKS] COMPULSORY a) Explain the two types of functions used in C program, giving an example of each. (4 Marks)",1,tbd,question,0,1,rks),1,1,0,1,1,0,0
+1021,93. Define the key concepts of Mathematics. (4 Marks),1,Yes,93.,1,0,rks),1,1,0,0,1,1,0
+1625,Religious conflicts have shaped political landscapes historically rks,0,no,religious,0,0, rks,0,0,0,1,0,0,0
+1067,The cat sat on the mat. He cooked a delicious meal for dinner.,0,No,the,0,0,ner.,0,0,0,1,0,0,0
+456,o) Describe the key concepts of Biology. (8 Marks),1,Yes,o),1,0,rks),1,1,1,0,1,1,0
+256,Music has a way of bringing people together. Technology is evolving at a rapid pace.,0,No,music,0,0,ace.,0,0,0,1,0,0,0
+1335,r) Compare the key concepts of History. (1 Marks),1,Yes,r),1,0,rks),1,1,1,0,1,1,0
+903,u) Analyze the key concepts of Mathematics. (2 Marks),1,Yes,u),1,0,rks),1,1,1,0,1,1,0
+1572,ks) The Roman Empire influenced modern governmental structures,0,no,ks),0,0,ures,0,1,1,0,0,0,0
+887,Faith practices can vary significantly across denominations mks),0,no,faith,0,0,mks),1,1,0,1,0,0,0
+1705,a) Compare the key concepts of History. (4 Marks),1,Yes,a),1,0,rks),1,1,1,0,1,1,0
+628,195. Explain the key concepts of Economics. (6 Marks),1,Yes,195.,1,0,rks),1,1,0,0,1,1,0
+348,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+1546,SCHOOL OF COMPUTING AND INFORMATION TECHNOLOGY,0,tbd,school,0,0,LOGY,0,0,0,1,0,0,0
+265,He cooked a delicious meal for dinner. Music has a way of bringing people together.,0,No,he,0,0,her.,0,0,0,1,0,0,0
+1329,"wr, a structured program that calculates the area of a circle using the formula area = r?, where J1=3.14",1,tbd,"wr,",0,0,3.14,0,0,1,0,1,0,0
+1446,or in EgyPt strate his power in he hey were in the desert (8 marks),1,tbd,or,0,0,rks),1,1,1,0,0,0,0
+152,LVII) Analyze the key concepts of History. (10 Marks),1,Yes,lvii),0,0,rks),1,1,0,1,1,1,0
+476,Quantum mechanics explores particles at the smallest scales mks,0,no,quantum,0,0, mks,0,0,0,1,0,0,0
+645,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+1791,30) Describe an important concept in Physical Education and its significance. (6 marks),1,yes,30),0,0,rks),1,1,0,0,1,1,0
+1702,"ST, MARKS KISERIAN MI 3a",0,tbd,"st,",0,0,I 3a,0,0,0,1,0,0,0
+554,Explain Mathematical proofs are crucial for verifying truths ks),0,no,explain,0,0, ks),1,1,0,1,1,1,0
+935,| how it differs from the Newton-Raphson (3 Marks),1,tbd,|,0,0,rks),1,1,0,0,1,1,0
+492,a) State four differences between traditional African prophets and the Old Testament prophets. (8 mks),1,yes,a),1,0,mks),1,1,1,0,0,0,0
+1639,b) What lessons can modern political leaders learn from king David. (8 mks),1,tbd,b),1,0,mks),1,1,1,0,1,1,0
+1179,XCVI) Compare the key concepts of Biology. (9 Marks),1,Yes,xcvi),0,0,rks),1,1,0,1,1,1,0
+148,Religious conflicts have shaped political landscapes historically rks,0,no,religious,0,0, rks,0,0,0,1,0,0,0
+1740,47. Describe the key concepts of Literature. (5 Marks),1,Yes,47.,1,0,rks),1,1,0,0,1,1,0
+406,They went for a long hike in the mountains. Technology is evolving at a rapid pace.,0,No,they,0,0,ace.,0,0,0,1,0,0,0
+961,The painting was a masterpiece of color and emotion. He cooked a delicious meal for dinner.,0,No,the,0,0,ner.,0,0,0,1,0,0,0
+1697,The painting was a masterpiece of color and emotion. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+664,The painting was a masterpiece of color and emotion. Music has a way of bringing people together.,0,No,the,0,0,her.,0,0,0,1,0,0,0
+1380,152. Outline the key concepts of History. (2 Marks),1,Yes,152.,1,0,rks),1,1,0,0,0,0,0
+467,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+1357,They went for a long hike in the mountains. It was a sunny day in Paris.,0,No,they,0,0,ris.,0,0,0,1,0,0,0
+189,It was a sunny day in Paris. It was a sunny day in Paris.,0,No,it,0,0,ris.,0,0,0,1,0,0,0
+1155,103. Compare the key concepts of Mathematics. (3 Marks),1,Yes,103.,1,0,rks),1,1,0,0,1,1,0
+1232,They went for a long hike in the mountains. The cat sat on the mat.,0,No,they,0,0,mat.,0,0,0,1,0,0,0
+613,(4 Marks),0,tbd,(4,0,0,rks),1,1,0,0,0,0,0
+145,"Critically assess the benefits and criticisms of regulatory frameworks for banks and insurance companies. Use contemporary examples to illustrate your points and focus on the effects of recent changes in regulatory expectations, such as the increased focus on individual accountability and documentation. (8 marks)",1,tbd,critically,0,0,rks),1,1,0,1,1,0,0
+758,m) Compare the key concepts of Physics. (4 Marks),1,Yes,m),1,0,rks),1,1,1,0,1,1,0
+1543,The speed of light is constant in vacuum mks),0,no,the,0,0,mks),1,1,0,1,0,0,0
+988,"""Risk identification forms the foundation of comprehensive risk management. Given the evolution of risks in the modern global context, including technological, environmental, and geopolitical risks, traditional risk identification methods may need to be supplemented or rethought.”",1,tbd,"""risk",0,0,ht.”,0,0,0,0,1,0,0
+200,S . a) List the fruits of the Holy Spirit as taught by St. Paul (7 mks),1,tbd,s,0,0,mks),1,1,0,1,0,0,0
+890,Energy conservation is ks) a fundamental concept in physics,0,no,energy,0,0,sics,0,1,0,1,0,0,0
+282,y) Outline the key concepts of Literature. (3 Marks),1,Yes,y),1,0,rks),1,1,1,0,0,0,0
+296,Technology is evolving at a rapid pace. The cat sat on the mat.,0,No,technology,0,0,mat.,0,0,0,1,0,0,0
+1650,They went for a long hike in the mountains. Technology is evolving at a rapid pace.,0,No,they,0,0,ace.,0,0,0,1,0,0,0
+404,Name Ibe event pthay marked the end of Second World Wars. (Imarks),1,tbd,name,0,0,rks),1,1,0,1,0,0,0
+124,"Examine the importance of data quality in risk analytics, discuss the potential impact of incomplete or incorrect data on risk prediction models, and propose strategies for mitigating these issues. (4 marks)",1,tbd,examine,0,0,rks),1,1,0,1,1,0,0
+1215,Explain Mathematical proofs are crucial for verifying truths ks),0,no,explain,0,0, ks),1,1,0,1,1,1,0
+205,The Roman Empire influenced modern governmental structures rks),0,no,the,0,0,rks),1,1,0,1,0,0,0
+1470,Technology is evolving at a rapid pace. It was a sunny day in Paris.,0,No,technology,0,0,ris.,0,0,0,1,0,0,0
+842,(b) Describe any FIVE malaria prevention and control strategies [10Mks],1,tbd,(b),1,0,Mks],1,1,0,0,1,1,0
+249,He cooked a delicious meal for dinner. They went for a long hike in the mountains.,0,No,he,0,0,ins.,0,0,0,1,0,0,0
+1447,90) Describe an important concept in Physics and its significance. (10 marks),1,yes,90),0,0,rks),1,1,0,0,1,1,0
+1716,It was a sunny day in Paris. He cooked a delicious meal for dinner.,0,No,it,0,0,ner.,0,0,0,1,0,0,0
+1700,Strathmore,0,tbd,strathmore,0,0,more,0,0,0,1,0,0,1
+1161,Viruses are not considered living organisms by all rks,0,no,viruses,0,0, rks,0,0,0,1,0,0,0
+1434,Gravity affects the motion of objects on Earth ks,0,no,gravity,0,0,h ks,0,0,0,1,0,0,0
+388,She enjoys reading books in her free time. Music has a way of bringing people together.,0,No,she,0,0,her.,0,0,0,1,0,0,0
+1592,3. Discuss the key concepts of Biology. (2 Marks),1,Yes,3.,1,0,rks),1,1,0,0,1,1,0
+861,The cat sat on the mat. They went for a long hike in the mountains.,0,No,the,0,0,ins.,0,0,0,1,0,0,0
+222,Faith practices can vary significantly across denominations rks,0,no,faith,0,0, rks,0,0,0,1,0,0,0
+646,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+1,The cat sat on the mat. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+114,The cat sat on the mat. She enjoys reading books in her free time.,0,No,the,0,0,ime.,0,0,0,1,0,0,0
+704,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+1727,". Analyze the 2 limitations of different machine learning algorithms (such as decision trees, neural networks, and support vector machines) in predicting credit default risk (4 marks)",1,Yes,.,0,0,rks),1,1,0,0,1,1,0
+958,Statistics helps in making decisions based on data rks),0,no,statistics,0,0,rks),1,1,0,1,0,0,0
+1585,7 le value of the root of the function f(x) =,1,tbd,7,0,0,x) =,0,0,0,0,0,0,0
+1418,The cat sat on the mat. He cooked a delicious meal for dinner.,0,No,the,0,0,ner.,0,0,0,1,0,0,0
+1417,99) Describe an important concept in Mathematics and its significance. (7 marks),1,yes,99),0,0,rks),1,1,0,0,1,1,0
+1542,The speed of light is constant in vacuum ks),0,no,the,0,0, ks),1,1,0,1,0,0,0
+1299,He cooked a delicious meal for dinner. The painting was a masterpiece of color and emotion.,0,No,he,0,0,ion.,0,0,0,1,0,0,0
+1636,They went for a long hike in the mountains. Technology is evolving at a rapid pace.,0,No,they,0,0,ace.,0,0,0,1,0,0,0
+445,(i) State FOUR importance of personal hygiene [4Mks],1,tbd,(i),1,0,Mks],1,1,0,0,0,0,0
+1529,"[in programming, giving an illustration using a flowchart for each. ia (6 Marks)",1,tbd,[in,0,0,rks),1,1,0,0,0,0,0
+1143,43) Describe an important concept in Astronomy and its significance. (8 marks),1,yes,43),0,0,rks),1,1,0,0,1,1,0
+1264,Photosynthesis converts solar energy mks into chemical energy,0,no,photosynthesis,0,0,ergy,0,0,0,1,0,0,0
+1685,LXXXV) Analyze the key concepts of Science. (9 Marks),1,Yes,lxxxv),0,0,rks),1,1,0,1,1,1,0
+1405,88. Define the key concepts of Mathematics. (6 Marks),1,Yes,88.,1,0,rks),1,1,0,0,1,1,0
+668,They went for a long hike in the mountains. The cat sat on the mat.,0,No,they,0,0,mat.,0,0,0,1,0,0,0
+1660,Ecosystems depend on balancing competing ks) species interactions,0,no,ecosystems,0,0,ions,0,1,0,1,0,0,0
+1265,Page 1 of 3,0,tbd,page,0,0,of 3,0,0,0,1,0,0,0
+1619,k) Discuss the key concepts of Literature. (9 Marks),1,Yes,k),1,0,rks),1,1,1,0,1,1,0
+320,(a) State and explain any TEN factors that affect malaria transmission [10Mks],1,tbd,(a),1,0,Mks],1,1,0,0,1,0,0
+653,She enjoys reading books in her free time. He cooked a delicious meal for dinner.,0,No,she,0,0,ner.,0,0,0,1,0,0,0
+1442,34. Outline the key concepts of Science. (8 Marks),1,Yes,34.,1,0,rks),1,1,0,0,0,0,0
+1487,They went for a long hike in the mountains. The painting was a masterpiece of color and emotion.,0,No,they,0,0,ion.,0,0,0,1,0,0,0
+716,188. Summarize the key concepts of Geography. (4 Marks),1,Yes,188.,1,0,rks),1,1,0,0,0,0,0
+1390,STRATHMORE INSTITUTE OF MATHEMATICAL SCIENCES,0,No,strathmore,0,0,NCES,0,0,0,1,0,0,0
+1290,Music has a way of bringing people together. Technology is evolving at a rapid pace.,0,No,music,0,0,ace.,0,0,0,1,0,0,0
+979,82. Explain the key concepts of Science. (4 Marks),1,Yes,82.,1,0,rks),1,1,0,0,1,1,0
+632,Industrial Revolution sparked major urban demographic shifts rks,0,no,industrial,0,0, rks,0,0,0,1,0,0,0
+637,", PO, Hoa B47 UZ06,",0,tbd,",",0,0,"Z06,",0,0,0,0,0,0,0
+1314,Technology is evolving at a rapid pace. It was a sunny day in Paris.,0,No,technology,0,0,ris.,0,0,0,1,0,0,0
+1408,c) Describe the key concepts of Geography. (3 Marks),1,Yes,c),1,0,rks),1,1,1,0,1,1,0
+1416,39. Summarize the key concepts of Science. (6 Marks),1,Yes,39.,1,0,rks),1,1,0,0,0,0,0
+1256,Genetic diversity stems mks from mutations during reproduction,0,no,genetic,0,0,tion,0,0,0,1,0,0,0
+1762,VII) Define the key concepts of Mathematics. (9 Marks),1,Yes,vii),0,0,rks),1,1,0,1,1,1,0
+1262,XLIX) Explain the key concepts of Geography. (3 Marks),1,Yes,xlix),0,0,rks),1,1,0,1,1,1,0
+1505,b) State the lessons that Christians learn from the annunciation of the birth of John the,1,tbd,b),1,0, the,0,0,1,0,0,0,0
+1379,"OLOOL dj MID AEPES SEC SCHOOL [7 sil FORN: mane EXAM 2024 loLoontes ey Vc 5 i 3 TER PES seco,",0,tbd,olool,0,0,"eco,",0,0,0,1,0,0,0
+1538,The rks Silk Road was a critical commerce network,0,no,the,0,0,work,0,0,0,1,0,0,0
+1362,(iv) Can Kisumu produce 60 million bushels of wheat and 50 million yards of cloth?,1,tbd,(iv),1,0,oth?,0,0,0,0,0,0,0
+1737,It was a sunny day in Paris. The cat sat on the mat.,0,No,it,0,0,mat.,0,0,0,1,0,0,0
+1715,They went for a long hike in the mountains. He cooked a delicious meal for dinner.,0,No,they,0,0,ner.,0,0,0,1,0,0,0
+1672,"(a) For each of the following scenarios, use a supply and demand diagram to illustrate the effect of a given shock on the equilibrium price and quantity u in the specified competitive market. Explain whether there is a shift in the demand curve, the supply, or neither i) An unexpected temporary heat wave hits the South Coast. Show the effect in the ice cream market in Mombasa. (3 Marks)",1,tbd,(a),1,0,rks),1,1,0,0,1,0,0
+802,Question 5,0,tbd,question,0,1,on 5,0,0,0,1,0,0,0
+650,He cooked a delicious meal for dinner. Music has a way of bringing people together.,0,No,he,0,0,her.,0,0,0,1,0,0,0
+1019,Describe Photosynthesis converts solar energy into chemical energy rks,0,no,describe,0,0, rks,0,0,0,1,1,1,0
+1663,It was a sunny day in Paris. The painting was a masterpiece of color and emotion.,0,No,it,0,0,ion.,0,0,0,1,0,0,0
+560,2 Susceue iiae the government may limit one's freedom of movement in Kenya. (1 mark),1,tbd,2,0,0,ark),0,0,0,0,1,0,0
+687,(a) Describe FIVE Goals of Antiretroviral therapy in HIV/AIDS treatments [10Mks],1,tbd,(a),1,0,Mks],1,1,0,0,1,1,0
+582,"b) Write a program in C programming language that allows a user to input a whole number of X in main program and uses two user defined functions name, square() to compute the square of the number X and cube() to compute the cube of X, then veer the X, result of the square and cube in the main program. Use if() to select each subprogram at a time to execute. ; (10 Marks)",1,tbd,b),1,0,rks),1,1,1,0,1,1,0
+1116,STRATHMORE UNIVERSITY,0,tbd,strathmore,0,0,SITY,0,0,0,1,0,0,0
+1274,XXXIX) Summarize the key concepts of History. (3 Marks),1,Yes,xxxix),0,0,rks),1,1,0,1,0,0,0
+1191,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+528,"(iii) If you paid KES180 per share, what is the most money you could lose over the year? {2 marks} [15 marks]",1,tbd,(iii),1,0,rks],1,1,0,0,1,0,0
+1066,198. Discuss the key concepts of History. (6 Marks),1,Yes,198.,1,0,rks),1,1,0,0,1,1,0
+544,"(d) In the context of financial markets, distinguish betwee informational efficiency. (4 Marks)",1,tbd,(d),1,0,rks),1,1,0,0,0,0,0
+1202,(c) Briefly explain why a supply shock leads to stagflation. (3 Marks),1,tbd,(c),1,0,rks),1,1,0,0,1,0,0
+755,(i) State FOUR importance of personal hygiene [4Mks],1,tbd,(i),1,0,Mks],1,1,0,0,0,0,0
+1675,He cooked a delicious meal for dinner. The painting was a masterpiece of color and emotion.,0,No,he,0,0,ion.,0,0,0,1,0,0,0
+1438,"Besides its involvement in stress testing, analyze three other ways that the risk committee is able to influence risk culture and capabilities in an organization. Provide examples of recent corporate governance scenarios where the risk committee has played a pivotal role in fostering an effective risk culture. (6 Marks)",1,Yes,besides,0,0,rks),1,1,0,1,1,0,0
+488,ii) The government introduces a tax on ice cream which is paid by producers. What is the effect in the ice cream market? (3 Marks),1,tbd,ii),1,0,rks),1,1,1,0,1,0,0
+97,QUESTION ONE a. State and explain THREE indirect modes of transmission of communicable diseases [3Mks] _ Highlight THREE levels of prevention of communicable diseases [3Mks],1,tbd,question,0,1,Mks],1,1,0,1,1,0,0
+1027,It was a sunny day in Paris. It was a sunny day in Paris.,0,No,it,0,0,ris.,0,0,0,1,0,0,0
+568,167. Compare the key concepts of Science. (7 Marks),1,Yes,167.,1,0,rks),1,1,0,0,1,1,0
+1272,"Examine the importance of data quality in risk analytics, discuss the potential impact of incomplete or incorrect data on risk prediction models, and propose strategies for mitigating these issues. (4 marks)",1,Yes,examine,0,0,rks),1,1,0,1,1,0,0
+749,LXIV) Analyze the key concepts of Science. (3 Marks),1,Yes,lxiv),0,0,rks),1,1,0,1,1,1,0
+870,"2) Analyze the 2 limitations of different machine learning algorithms (such as decision trees, neural networks, and support vector machines) in predicting credit default risk (4 marks)",1,yes,2),0,0,rks),1,1,0,0,1,1,0
+1607,k) Discuss the key concepts of Mathematics. (6 Marks),1,Yes,k),1,0,rks),1,1,1,0,1,1,0
+1492,Infection [10Mks],1,tbd,infection,0,0,Mks],1,1,0,1,0,0,0
+898,Quantum mechanics explores particles at rks the smallest scales,0,no,quantum,0,0,ales,0,0,0,1,0,0,0
+1586,She enjoys reading books in her free time. It was a sunny day in Paris.,0,No,she,0,0,ris.,0,0,0,1,0,0,0
+1045,k) Outline the key concepts of Economics. (5 Marks),1,Yes,k),1,0,rks),1,1,1,0,0,0,0
+209,It was a sunny day in Paris. Music has a way of bringing people together.,0,No,it,0,0,her.,0,0,0,1,0,0,0
+396,Information related to Physics that does not ask for a response.,0,no,information,0,0,nse.,0,0,0,1,1,0,0
+801,11. Outline the key concepts of Mathematics. (9 Marks),1,Yes,11.,1,0,rks),1,1,0,0,0,0,0
+877,p) Discuss the key concepts of Physics. (7 Marks),1,Yes,p),1,0,rks),1,1,1,0,1,1,0
+401,) Explain five factors that have influenced industrial,1,tbd,),0,0,rial,0,0,0,0,1,1,0
+773,109. Define the key concepts of Biology. (6 Marks),1,Yes,109.,1,0,rks),1,1,0,0,1,1,0
+1665,[15 marks],0,tbd,[15,0,0,rks],1,1,0,0,0,0,0
+1249,149. Summarize the key concepts of History. (8 Marks),1,Yes,149.,1,0,rks),1,1,0,0,0,0,0
+1035,a) List eight places used for worship in Traditional African communities. (8 mks),1,yes,a),1,0,mks),1,1,1,0,0,0,0
+647,They went for a long hike in the mountains. She enjoys reading books in her free time.,0,No,they,0,0,ime.,0,0,0,1,0,0,0
+1707,Ecosystems ks) depend on balancing competing species interactions,0,no,ecosystems,0,0,ions,0,1,0,1,0,0,0
+617,"TERM 1, MID TERM EXAM",0,tbd,term,0,0,EXAM,0,0,0,1,0,0,0
+967,They went for a long hike in the mountains. The painting was a masterpiece of color and emotion.,0,No,they,0,0,ion.,0,0,0,1,0,0,0
+1579,45. Explain the key concepts of Science. (9 Marks),1,Yes,45.,1,0,rks),1,1,0,0,1,1,0
+732,140. Compare the key concepts of Physics. (10 Marks),1,Yes,140.,1,0,rks),1,1,0,0,1,1,0
+689,The painting was a masterpiece of color and emotion. Music has a way of bringing people together.,0,No,the,0,0,her.,0,0,0,1,0,0,0
+100,Time: 2.5 Hours,0,tbd,time:,0,0,ours,0,0,0,1,0,0,0
+811,"five ways in which the Holy spirit manifested himself on the day of Pentecost. [are the reasons why some Christians live in Christianity today, (8mks)",1,tbd,five,0,0,mks),1,1,1,0,1,0,0
+1606,"(a) Suppose that you have the following investment plans 1) You deposit KES10, 000 every end of the year for next 10 years",1,tbd,(a),1,0,ears,0,0,0,0,0,0,0
+410,HYeqjeme AH Abell. | \,0,tbd,hyeqjeme,0,0, | \,0,0,0,1,0,0,0
+506,"DATE: 17"" July 2022",0,tbd,date:,0,0,2022,0,0,0,1,0,0,0
+1078,144. Compare the key concepts of Economics. (6 Marks),1,Yes,144.,1,0,rks),1,1,0,0,1,1,0
+1063,3a) Explain how the unity of believers is expressed in the symbol of the body of Christ. (7 Marks),1,tbd,3a),0,0,rks),1,1,0,0,1,1,0
+936,How much cloth will Kisumu then be able to produce? {2 mark},1,tbd,how,0,0,ark},0,0,0,1,1,1,0
+786,". Analyze the 2 limitations of different machine learning algorithms (such as decision trees, neural networks, and support vector machines) in predicting credit default risk (4 marks)",1,tbd,.,0,0,rks),1,1,0,0,1,1,0
+203,VIII) Analyze the key concepts of Physics. (7 Marks),1,Yes,viii),0,0,rks),1,1,0,1,1,1,0
+136,The cat sat on the mat. The painting was a masterpiece of color and emotion.,0,No,the,0,0,ion.,0,0,0,1,0,0,0
+1058,(5 Marks),0,tbd,(5,0,0,rks),1,1,0,0,0,0,0
+41,DSA 8304 Risk Management Analytics,0,No,dsa,0,0,tics,0,0,0,1,0,0,0
+1024,MASTER OF SCIENCE IN DATA SCIENCE AND ANALYTICS,0,tbd,master,0,0,TICS,0,0,0,1,0,0,0
+233,n economic efficiency and,0,tbd,n,0,0, and,0,0,1,0,0,0,0
+1522,"wr, a structured program that calculates the area of a circle using the formula area = r?, where J1=3.14",1,tbd,"wr,",0,0,3.14,0,0,1,0,1,0,0
+382,Quantum mechanics explores particles at the ks) smallest scales,0,no,quantum,0,0,ales,0,1,0,1,0,0,0
+291,Music has a way of bringing people together. He cooked a delicious meal for dinner.,0,No,music,0,0,ner.,0,0,0,1,0,0,0
+422,Cells are the basic building blocks of all mks organisms,0,no,cells,0,0,isms,0,0,0,1,0,0,0
+395,"Critically assess the benefits and criticisms of regulatory frameworks for banks and insurance companies. Use contemporary examples to illustrate your points and focus on the effects of recent changes in regulatory expectations, such as the increased focus on individual accountability and documentation. (8 marks)",1,tbd,critically,0,0,rks),1,1,0,1,1,0,0
+597,a) Outline the role of John the Baptist. (7 mks),1,tbd,a),1,0,mks),1,1,1,0,0,0,0
+1531,Statistics helps in making decisions based on data rks),0,no,statistics,0,0,rks),1,1,0,1,0,0,0
+1170,Algebra is essential for solving equations and inequalities rks,0,no,algebra,0,0, rks,0,0,0,1,0,0,0
+1093,Calculus allows the calculation of change and motion rks,0,no,calculus,0,0, rks,0,0,0,1,0,0,0
+1504,g) Describe the key concepts of Geography. (9 Marks),1,Yes,g),1,0,rks),1,1,1,0,1,1,0
+652,LXXV) Outline the key concepts of History. (1 Marks),1,Yes,lxxv),0,0,rks),1,1,0,1,0,0,0
+1160,The painting was a masterpiece of color and emotion. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+1375,Identify one chartered company that was used by the Europeans to acquire colonies in,1,tbd,identify,0,0,s in,0,0,0,1,0,0,0
+524,"(a) For each of the following scenarios, use a supply and demand diagram to illustrate the effect of a given shock on the equilibrium price and quantity u in the specified competitive market. Explain whether there is a shift in the demand curve, the supply, or neither i) An unexpected temporary heat wave hits the South Coast. Show the effect in the ice cream market in Mombasa. (3 Marks)",1,tbd,(a),1,0,rks),1,1,0,0,1,0,0
+66,The painting was a masterpiece of color and emotion. Music has a way of bringing people together.,0,No,the,0,0,her.,0,0,0,1,0,0,0
+14,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+1188,(4 Marks),0,tbd,(4,0,0,rks),1,1,0,0,0,0,0
+1071,LIV) Summarize the key concepts of History. (8 Marks),1,Yes,liv),0,0,rks),1,1,0,1,0,0,0
+496,n) Explain the key concepts of Mathematics. (2 Marks),1,Yes,n),1,0,rks),1,1,1,0,1,1,0
+383,10) Describe an important concept in Philosophy and its significance. (7 marks),1,yes,10),0,0,rks),1,1,0,0,1,1,0
+190,"Besides its involvement in stress testing, analyze three other ways that the risk committee is able to influence risk culture and capabilities in an organization. Provide examples of recent corporate governance scenarios where the risk committee has played a pivotal role in fostering an effective risk culture. (6 Marks)",1,tbd,besides,0,0,rks),1,1,0,1,1,0,0
+770,They went for a long hike in the mountains. She enjoys reading books in her free time.,0,No,they,0,0,ime.,0,0,0,1,0,0,0
+219,1p,0,tbd,1p,0,0,1p,0,0,0,0,0,0,1
+798,The Roman Empire influenced modern governmental structures mks,0,no,the,0,0, mks,0,0,0,1,0,0,0
+1083,They went for a long hike in the mountains. It was a sunny day in Paris.,0,No,they,0,0,ris.,0,0,0,1,0,0,0
+885,187. Define the key concepts of Economics. (6 Marks),1,Yes,187.,1,0,rks),1,1,0,0,1,1,0
+340,ECSE 1206 / ECIE 1206: Principles of Database Management Systems,0,tbd,ecse,0,0,tems,0,0,0,1,0,0,0
+726,Music has a way of bringing people together. They went for a long hike in the mountains.,0,No,music,0,0,ins.,0,0,0,1,0,0,0
+298,Energy conservation is a fundamental concept in mks physics,0,no,energy,0,0,sics,0,0,0,1,0,0,0
+1023,Moral codes from religions influence societal laws rks,0,no,moral,0,0, rks,0,0,0,1,0,0,0
+1283,XCIII) Explain the key concepts of Geography. (4 Marks),1,Yes,xciii),0,0,rks),1,1,0,1,1,1,0
+1493,DSA 8105: FUNDAMENTAL ¢ ONCEPTS IN FINANCE AND ECONOMICS,0,tbd,dsa,0,0,MICS,0,0,0,1,0,0,0
+459,The painting was a masterpiece of color and emotion. They went for a long hike in the mountains.,0,No,the,0,0,ins.,0,0,0,1,0,0,0
+1805,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+822,The cat sat on the mat. It was a sunny day in Paris.,0,No,the,0,0,ris.,0,0,0,1,0,0,0
+272,He cooked a delicious meal for dinner. They went for a long hike in the mountains.,0,No,he,0,0,ins.,0,0,0,1,0,0,0
+1002,QUESTION FOUR £,1,tbd,question,0,1,UR £,0,0,0,1,0,0,0
+204,The speed of light is constant in vacuum mks),0,no,the,0,0,mks),1,1,0,1,0,0,0
+163,(9 Marks),0,tbd,(9,0,0,rks),1,1,0,0,0,0,0
+1588,The cat sat on the mat. Technology is evolving at a rapid pace.,0,No,the,0,0,ace.,0,0,0,1,0,0,0
+736,END OF SEMESTER EXAMINATION,0,tbd,end,0,0,TION,0,0,0,1,0,0,0
+405,The Roman Empire influenced modern governmental structures rks),0,no,the,0,0,rks),1,1,0,1,0,0,0
+708,27) Describe an important concept in Political Science and its significance. (5 marks),1,yes,27),0,0,rks),1,1,0,0,1,1,0
+1509,Bi 80: million yards of cloth if it uses all of iagram to illustrate your answers to the 1] 1 be ae to produce? ie mark} yet heat i in Kisumu? (2 eS),1,tbd,bi,0,0, eS),0,0,0,1,0,0,0
+1136,ks) Ecosystems depend on balancing competing species interactions,0,no,ks),0,0,ions,0,1,1,0,0,0,0
+570,Technology is evolving at a rapid pace. The cat sat on the mat.,0,No,technology,0,0,mat.,0,0,0,1,0,0,0
+1421,Music has a way of bringing people together. The cat sat on the mat.,0,No,music,0,0,mat.,0,0,0,1,0,0,0
+1028,Faith practices can vary significantly across denominations ks,0,no,faith,0,0,s ks,0,0,0,1,0,0,0
+1032,State one way how the Cold War was witnessed in Africa. (Imark),1,tbd,state,0,0,ark),0,0,0,1,1,0,0
+1419,Technology is evolving at a rapid pace. Technology is evolving at a rapid pace.,0,No,technology,0,0,ace.,0,0,0,1,0,0,0
+1594,9. Define the key concepts of Biology. (8 Marks),1,Yes,9.,1,0,rks),1,1,0,0,1,1,0
+1111,c) List eight moral values that Christians can acquire from the life of prophet Jeremiah. (8 mks),1,tbd,c),1,0,mks),1,1,1,0,0,0,0
+208,This examination consists of FIVE questions.,0,No,this,0,0,ons.,0,0,0,1,0,0,0
+34,He cooked a delicious meal for dinner. She enjoys reading books in her free time.,0,No,he,0,0,ime.,0,0,0,1,0,0,0
+782,161. Discuss the key concepts of Geography. (6 Marks),1,Yes,161.,1,0,rks),1,1,0,0,1,1,0
+512,The speed of light mks is constant in vacuum,0,no,the,0,0,cuum,0,0,0,1,0,0,0
+1459,for crude oil in country H has been estimated to be -0.06,0,tbd,for,0,0,0.06,0,0,1,0,0,0,0
+1486,LX) Summarize the key concepts of Biology. (5 Marks),1,Yes,lx),0,0,rks),1,1,0,1,0,0,0
+1779,QUESTION TWO,0,tbd,question,0,1, TWO,0,0,0,1,0,0,0
+1398,STRATHMORE INSTITUTE OF MATHEMATICAL SCIENCES,0,tbd,strathmore,0,0,NCES,0,0,0,1,0,0,0
+93,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+1371,Technology is evolving at a rapid pace. They went for a long hike in the mountains.,0,No,technology,0,0,ins.,0,0,0,1,0,0,0
+904,The cat sat on the mat. The cat sat on the mat.,0,No,the,0,0,mat.,0,0,0,1,0,0,0
+569,(4 Marks),0,tbd,(4,0,0,rks),1,1,0,0,0,0,0
+1377,(6 Marks),0,tbd,(6,0,0,rks),1,1,0,0,0,0,0
+783,"Critically assess the benefits and criticisms of regulatory frameworks for banks and insurance companies. Use contemporary examples to illustrate your points and focus on the effects of recent changes in regulatory expectations, such as the increased focus on individual accountability and documentation. (8 marks)",1,tbd,critically,0,0,rks),1,1,0,1,1,0,0
+244,“Answer Any three questions in this Section. ofthe Luo from their original homeland into Kenya. (5 marks),1,tbd,“answer,0,0,rks),1,1,0,0,0,0,0
+13,"| Beside unity, name the other pillar of Nyayoism. (1 mark)",1,tbd,|,0,0,ark),0,0,0,0,0,0,0
+318,b) State six causes of sin from y. «) Wdentify ways in which Christian (7 marks),1,tbd,b),1,0,rks),1,1,1,0,0,0,0
+605,85. Outline the key concepts of Physics. (10 Marks),1,Yes,85.,1,0,rks),1,1,0,0,0,0,0
+391,State two importance’s of the radio as a form of communication. (2marks),1,tbd,state,0,0,rks),1,1,0,1,0,0,0
+1305,67) Describe an important concept in Business Studies and its significance. (4 marks),1,yes,67),0,0,rks),1,1,0,0,1,1,0
+168,"QUESTION 1 [30 MARKS] COMPULSORY a) Explain the two types of functions used in C program, giving an example of each. (4 Marks)",1,tbd,question,0,1,rks),1,1,0,1,1,0,0
+847,b) Outline the key concepts of Geography. (3 Marks),1,Yes,b),1,0,rks),1,1,1,0,0,0,0
+20,She enjoys reading books in her free time. The cat sat on the mat.,0,No,she,0,0,mat.,0,0,0,1,0,0,0
+651,(6mks),0,tbd,(6mks),0,0,mks),1,1,0,0,0,0,1
+1517,"(were the reactions of the people who witnessed Jesus crucification, (7mks)",1,tbd,(were,0,0,mks),1,1,0,0,0,0,0
+1162,Technology is evolving at a rapid pace. They went for a long hike in the mountains.,0,No,technology,0,0,ins.,0,0,0,1,0,0,0
+1537,Genetic diversity stems ks) from mutations during reproduction,0,no,genetic,0,0,tion,0,1,0,1,0,0,0
+838,ify areas of conflicts between Jesus and the Jewish leaders which eventually led fo (6mks),1,tbd,ify,0,0,mks),1,1,1,0,0,0,0
+1275,Answer Question ONE (COMPULSORY) and any other TWO questions.,0,tbd,answer,0,0,ons.,0,0,0,1,0,0,0
+1599,(b) State and eexplain FIVE ways by which alcohol decreases resistance to HIV,1,tbd,(b),1,0, HIV,0,0,0,0,1,0,0
+567,"Me thematically) how you would generate f£O) = @exp — (Oy), and further numbers from this distribution. / 7 (8 Marks)",1,tbd,me,0,0,rks),1,1,0,1,1,0,0
+1761,28. Explain the key concepts of History. (2 Marks),1,Yes,28.,1,0,rks),1,1,0,0,1,1,0
+692,DATE: 6% September 2021,0,tbd,date:,0,0,2021,0,0,0,1,0,0,0
+964,LXXVII) Compare the key concepts of Geography. (8 Marks),1,Yes,lxxvii),0,0,rks),1,1,0,1,1,1,0
+192,"; name, idumber, and course and then (8 Marks)",1,tbd,;,0,0,rks),1,1,0,0,0,0,0
+982,The Roman Empire influenced modern governmental structures rks),0,no,the,0,0,rks),1,1,0,1,0,0,0
+705,Music has a way of bringing people together. Technology is evolving at a rapid pace.,0,No,music,0,0,ace.,0,0,0,1,0,0,0
+1508,Cc). Differentiate between pseudo code and a flowchart. (2 Marks),1,tbd,cc).,0,0,rks),1,1,0,1,1,0,0
+1714,x) Define the key concepts of History. (4 Marks),1,Yes,x),1,0,rks),1,1,1,0,1,1,0
+514,Black holes are regions of space ks) with strong gravity,0,no,black,0,0,vity,0,1,0,1,0,0,0
+1089,Question 1 (30 Marks),0,tbd,question,0,1,rks),1,1,0,1,0,0,0
+478,The painting was a masterpiece of color and emotion. Technology is evolving at a rapid pace.,0,No,the,0,0,ace.,0,0,0,1,0,0,0
+1593,The cat sat on the mat. Music has a way of bringing people together.,0,No,the,0,0,her.,0,0,0,1,0,0,0
+863,(c) Briefly explain why a supply shock leads to stagflation. (3 Marks),1,tbd,(c),1,0,rks),1,1,0,0,1,0,0
+754,100) Describe an important concept in Psychology and its significance. (7 marks),1,yes,100),0,0,rks),1,1,0,0,1,1,0
+255,81) Describe an important concept in Health Education and its significance. (5 marks),1,yes,81),0,0,rks),1,1,0,0,1,1,0
+21,"a) With reference to the teaching of prophet Jeremiah on judgement, State six ways in which God would punish the people of Judah. (6 mks)",1,yes,a),1,0,mks),1,1,1,0,0,0,0
+1345,73. Summarize the key concepts of Literature. (8 Marks),1,Yes,73.,1,0,rks),1,1,0,0,0,0,0
+463,Black holes are regions of rks space with strong gravity,0,no,black,0,0,vity,0,0,0,1,0,0,0
+1192,QUESTION 2 [20 MARKS] a) Explain the three concepts used in structured programming. (9 Marks),1,tbd,question,0,1,rks),1,1,0,1,1,0,0
+279,"Re, a) With reference to the teaching of prophet Jeremiah on judgement , State six ways in which God would punish the people of Judah. (6 mks)",1,tbd,"re,",0,0,mks),1,1,0,1,0,0,0
+962,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+1223,The painting was a masterpiece of color and emotion. The painting was a masterpiece of color and emotion.,0,No,the,0,0,ion.,0,0,0,1,0,0,0
+389,"Geometry rks involves studying shapes, sizes, and their properties",0,no,geometry,0,0,ties,0,0,0,1,0,0,0
+812,4) Describe an important concept in Music and its significance. (8 marks),1,yes,4),0,0,rks),1,1,0,0,1,1,0
+1445,It was a sunny day in Paris. The painting was a masterpiece of color and emotion.,0,No,it,0,0,ion.,0,0,0,1,0,0,0
+1524,She enjoys reading books in her free time. She enjoys reading books in her free time.,0,No,she,0,0,ime.,0,0,0,1,0,0,0
+346,She enjoys reading books in her free time. She enjoys reading books in her free time.,0,No,she,0,0,ime.,0,0,0,1,0,0,0
+776,It was a sunny day in Paris. Technology is evolving at a rapid pace.,0,No,it,0,0,ace.,0,0,0,1,0,0,0
+1340,They went for a long hike in the mountains. The cat sat on the mat.,0,No,they,0,0,mat.,0,0,0,1,0,0,0
+1694,D andris rads. (6 Marks f). Differentiate between structured programming and modular programming. (4 Marks),1,tbd,d,0,0,rks),1,1,0,1,0,0,0
+132,e reasons why disciples are called today. (Smks),1,tbd,e,0,0,mks),1,1,1,0,1,0,0
+1696,c) In what ways is the church in Kenya promoting justice in society? (6 mks),1,yes,c),1,0,mks),1,1,1,0,1,0,0
+878,b). Explain the following System development life cycle stages in program development. (6 Marks),1,tbd,b).,0,0,rks),1,1,1,0,1,1,0
+1130,An interesting fact about Psychology without a request for further explanation.,0,no,an,0,0,ion.,0,0,0,1,0,0,0
+1404,Biblical prophets conveyed messages from God to people ks),0,no,biblical,0,0, ks),1,1,0,1,0,0,0
+89,General statement about Astronomy with no specific question or query.,0,no,general,0,0,ery.,0,0,0,1,0,0,0
+1490,h) Summarize the key concepts of Science. (9 Marks),1,Yes,h),1,0,rks),1,1,1,0,0,0,0
+333,Music has a way of bringing people together. The painting was a masterpiece of color and emotion.,0,No,music,0,0,ion.,0,0,0,1,0,0,0
+1246,for crude oil in country H has been estimated to be -0.06,0,tbd,for,0,0,0.06,0,0,1,0,0,0,0
+470,An additional general statement without a query.,0,no,an,0,0,ery.,0,0,0,1,0,0,0
+123,¢) How do Christians in Kenya demonstrate their faith in God? (7 mks),1,tbd,¢),0,0,mks),1,1,0,0,1,1,0
+1647,Sion By ain this scenario using five reasons? [10Mks],0,tbd,sion,0,0,Mks],1,1,0,1,0,0,0
+1051,39) Describe an important concept in Geography and its significance. (6 marks),1,yes,39),0,0,rks),1,1,0,0,1,1,0
+1733,14. Describe the key concepts of Economics. (1 Marks),1,Yes,14.,1,0,rks),1,1,0,0,1,1,0
+1102,162. Describe the key concepts of Physics. (6 Marks),1,Yes,162.,1,0,rks),1,1,0,0,1,1,0
+1137,156. Define the key concepts of Biology. (6 Marks),1,Yes,156.,1,0,rks),1,1,0,0,1,1,0
+1302,It was a sunny day in Paris. She enjoys reading books in her free time.,0,No,it,0,0,ime.,0,0,0,1,0,0,0
+867,"(a) Giving examples for each, classify the SEX known addictive drugs and their mode of intake [10Mks]",1,tbd,(a),1,0,Mks],1,1,0,0,0,0,0
+1467,UNIVERSITY,0,tbd,university,0,0,SITY,0,0,0,1,0,0,1
+1133,Ancient Egyptians developed one ks) of the first writing systems,0,no,ancient,0,0,tems,0,1,0,1,0,0,0
