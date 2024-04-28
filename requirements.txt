@@ -19,3 +19,5 @@ streamlit-pandas-profiling
 ipywidgets
 ipython
 
+
+
