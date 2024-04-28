@@ -15,13 +15,13 @@ from scipy.sparse import hstack
 import cv2
 from PIL import Image
 import io
-import sweetviz
-from ydata_profiling import ProfileReport
-from streamlit_pandas_profiling import st_profile_report
+import sweetviz as sv
 import base64
 import os
 import tempfile
 import webbrowser
+import pandas_profiling
+from streamlit_pandas_profiling import st_profile_report
 
 # Define the navigation structure
 # pages = {
@@ -66,8 +66,12 @@ def load_page(page_name):
         st.title('Train-test Data Analysis Report')
         df = pd.read_csv('downloads/data.csv')
 
+        # Display DataFrame in Streamlit
         st.dataframe(df)
-        pr = ProfileReport(df, title="Report")
+
+        # Generate the report
+        df = pd.read_csv('downloads/data.csv')
+        pr = df.profile_report()
 
         st_profile_report(pr)
 
@@ -79,6 +83,7 @@ def load_page(page_name):
         # st.write("Use this page to perform text extraction tasks.")
         st.title('Exam Question Extraction with BERT')
         st.sidebar.button("Refresh Program",on_click=clear_cache)
+        # st.write(ydata_profiling.__version__)
     elif page_name == "Downloads":
         # Streamlit page setup
         st.title('Downloads Page')
