@@ -12,6 +12,7 @@ scipy
 scikit-learn
 regex
 pytesseract
+opencv-python
 sweetviz
 phik==0.12.2
 streamlit-pandas-profiling
