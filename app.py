@@ -15,7 +15,6 @@ from scipy.sparse import hstack
 import cv2
 from PIL import Image
 import io
-import sweetviz as sv
 import base64
 import os
 import tempfile
