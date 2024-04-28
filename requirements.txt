@@ -15,7 +15,6 @@ pytesseract
 sweetviz
 phik==0.12.2
 streamlit-pandas-profiling
-ydata-profiling
 ipywidgets
 ipython
 
