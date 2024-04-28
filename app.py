@@ -16,11 +16,12 @@ import cv2
 from PIL import Image
 import io
 import sweetviz
-import pandas_profiling
+from ydata_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
 import base64
 import os
-
+import tempfile
+import webbrowser
 
 # Define the navigation structure
 # pages = {
@@ -65,12 +66,11 @@ def load_page(page_name):
         st.title('Train-test Data Analysis Report')
         df = pd.read_csv('downloads/data.csv')
 
-        # Generate the profiling report
-        profile = df.profile_report()
+        st.dataframe(df)
+        pr = ProfileReport(df, title="Report")
 
-        # Use Streamlit's function to display the report
-        st_profile_report(profile)
-        
+        st_profile_report(pr)
+
         # df.dropna(inplace=True)
         # my_report = sweetviz.analyze([df,"Train"],target_feat='is_question')
         # my_report.show_html()

@@ -16,8 +16,8 @@ opencv-python-headless
 sweetviz
 phik==0.12.2
 pydantic==1.*
-pandas_profiling
-streamlit-pandas-profiling
+ydata_profiling
+streamlit_pandas_profiling
 ipywidgets
 ipython
 
