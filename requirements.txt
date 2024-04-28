@@ -11,8 +11,6 @@ nltk
 scipy
 scikit-learn
 regex
-tesseract-ocr
-tesseract-ocr-por
 pytesseract
 sweetviz
 pandas_profiling
