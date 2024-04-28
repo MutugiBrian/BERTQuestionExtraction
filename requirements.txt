@@ -13,8 +13,9 @@ scikit-learn
 regex
 pytesseract
 sweetviz
-streamlit-pandas-profiling==0.1.3
-ydata-profiling==4.6.5
+phik==0.12.2
+streamlit-pandas-profiling
+ydata-profiling
 ipywidgets
 ipython
 
