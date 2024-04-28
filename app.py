@@ -101,7 +101,7 @@ if current_selection == "Extract":
     # Set the default figure size
     plt.rcParams['figure.figsize'] = [6, 3]
     # Configure Pytesseract path
-    pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+    # pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
     nltk.download('punkt')
 
 
@@ -313,7 +313,9 @@ if current_selection == "Extract":
                 
                 with st.spinner(f'Extracting text from {uploaded_file.name}...'):
                     # Extract text using Pytesseract
-                    new_text = pytesseract.image_to_string(gray)
+                    # new_text = pytesseract.image_to_string(gray)
+                    custom_oem_psm_config = r"--oem 3 --psm 6"
+                    new_text = pytesseract.image_to_string(gray, config=custom_oem_psm_config)
                     results.append((uploaded_file.name, image, new_text))
 
             for filename, img, extracted_text in results:
