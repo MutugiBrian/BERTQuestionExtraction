@@ -15,6 +15,7 @@ pytesseract
 opencv-python-headless
 sweetviz
 phik==0.12.2
+pydantic==1.*
 streamlit_pandas_profiling
 ipywidgets
 ipython
