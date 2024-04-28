@@ -19,7 +19,7 @@ import base64
 import os
 import tempfile
 import webbrowser
-import pandas_profiling
+from pandas_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
 
 # Define the navigation structure
@@ -70,9 +70,11 @@ def load_page(page_name):
 
         # Generate the report
         df = pd.read_csv('downloads/data.csv')
-        pr = df.profile_report()
+        # Generate the profile report
+        profile = ProfileReport(df, explorative=True)
 
-        st_profile_report(pr)
+        # Render the report within the Streamlit app
+        st_profile_report(profile)
 
         # df.dropna(inplace=True)
         # my_report = sweetviz.analyze([df,"Train"],target_feat='is_question')
