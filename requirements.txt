@@ -13,7 +13,6 @@ scikit-learn
 regex
 pytesseract
 sweetviz
-pandas_profiling
 ydata-profiling
 ipywidgets
 ipython
