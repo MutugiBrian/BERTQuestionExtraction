@@ -16,6 +16,7 @@ import cv2
 from PIL import Image
 import io
 import sweetviz
+import pandas_profiling
 from streamlit_pandas_profiling import st_profile_report
 import base64
 import os
@@ -63,9 +64,13 @@ def load_page(page_name):
     if page_name == "EDA":
         st.title('Train-test Data Analysis Report')
         df = pd.read_csv('downloads/data.csv')
-        pr = df.profile_report()
 
-        st_profile_report(pr)
+        # Generate the profiling report
+        profile = df.profile_report()
+
+        # Use Streamlit's function to display the report
+        st_profile_report(profile)
+        
         # df.dropna(inplace=True)
         # my_report = sweetviz.analyze([df,"Train"],target_feat='is_question')
         # my_report.show_html()
