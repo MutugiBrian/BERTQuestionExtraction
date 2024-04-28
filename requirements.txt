@@ -14,7 +14,7 @@ regex
 pytesseract
 sweetviz
 pandas-profiling==3.2.0
-ydata-profiling==4.6.5
+ydata-profiling==4.6.2
 ipywidgets
 ipython
 streamlit-pandas-profiling==0.1.3
