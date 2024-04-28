@@ -15,6 +15,7 @@ pytesseract
 opencv-python-headless
 sweetviz
 phik==0.12.2
+visions==0.7.5
 ydata_profiling
 streamlit_pandas_profiling
 ipywidgets
