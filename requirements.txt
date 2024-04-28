@@ -13,7 +13,7 @@ scikit-learn
 regex
 pytesseract
 opencv-python-headless
-pydantic>=1.4.0,<2
+pydantic==1.10.11
 streamlit_pandas_profiling
 ipywidgets
 ipython
