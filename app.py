@@ -16,10 +16,8 @@ import cv2
 from PIL import Image
 import io
 import sweetviz
-from ydata_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
 import base64
-from zipfile import ZipFile
 import os
 
 
@@ -55,14 +53,6 @@ def get_file_content_as_base64(path):
         return base64.b64encode(file.read()).decode()
 
 def create_download_link(file_path, download_name):
-    if os.path.isdir(file_path):
-        # Handle directory by zipping it first
-        zip_path = f"{file_path}.zip"
-        with ZipFile(zip_path, 'w') as zipf:
-            for root, dirs, files in os.walk(file_path):
-                for file in files:
-                    zipf.write(os.path.join(root, file), os.path.relpath(os.path.join(root, file), os.path.join(file_path, '..')))
-        file_path = zip_path
     b64 = get_file_content_as_base64(file_path)
     href = f'<li><a href="data:file/zip;base64,{b64}" download="{download_name}">Download {download_name}</a></li>'
     return href
@@ -73,7 +63,8 @@ def load_page(page_name):
     if page_name == "EDA":
         st.title('Train-test Data Analysis Report')
         df = pd.read_csv('downloads/data.csv')
-        pr = ProfileReport(df,explorative=True)
+        pr = df.profile_report()
+
         st_profile_report(pr)
         # df.dropna(inplace=True)
         # my_report = sweetviz.analyze([df,"Train"],target_feat='is_question')
