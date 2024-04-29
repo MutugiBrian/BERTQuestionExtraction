@@ -382,7 +382,7 @@ if current_selection == "Extract":
                         results.append({'text': line, 'label': prediction_label, 'confidence': confidence})
 
                         # Add to all_questions if it's predicted as a question with high confidence
-                        if prediction == 1 and confidence > 0.5:
+                        if prediction == 1 and confidence > 0.8:
                             all_questions.append(line)
 
                         prediction = "Question" if prediction==1 else "Not Question"
