@@ -53,9 +53,9 @@ def get_file_content_as_base64(path):
     with open(path, "rb") as file:
         return base64.b64encode(file.read()).decode()
 
-def create_download_link(file_path, download_name):
+def create_download_link(file_path, download_name,download_text):
     b64 = get_file_content_as_base64(file_path)
-    href = f'<li><a href="data:file/zip;base64,{b64}" download="{download_name}">Download {download_name}</a></li>'
+    href = f'<li><a href="data:file/zip;base64,{b64}" download="{download_name}">Download {download_text}</a></li>'
     return href
 
 
@@ -95,10 +95,22 @@ def load_page(page_name):
         <ul>
             {0}
             {1}
+            {2}
+            {3}
+            {4}
+            {5}
+            {6}
+            {7}
         </ul>
         """.format(
-            create_download_link('downloads/data.csv', 'data.csv'),
-            create_download_link('downloads/exam_question_extraction.ipynb', 'question_extraction.ipyn'),
+            create_download_link('downloads/data.csv', 'data.csv','the train-test dataset'),
+            create_download_link('downloads/exam_question_extraction.ipynb', 'question_extraction.ipyn','the Jupyter Notebook'),
+            create_download_link('downloads/exam_question_extraction.pdf', 'question_extraction.pdf','the Jupyter Notebook as PDF'),
+            create_download_link('downloads/DL.pb', 'DL.pb','the Deep Learning Model'),
+            create_download_link('downloads/SVMModel.pkl', 'SVMModel.pkl','the SVM Model'),
+            create_download_link('downloads/XGBModel.pkl', 'XGBModel.pkl','the XGBModel Model'),
+            create_download_link('downloads/LRModel.pkl', 'LRModel.pkl','the Linear Regression Model'),
+            create_download_link('downloads/DTModel.pkl', 'DTModel.pkl','the Decision Trees Model'),
             # create_download_link('../models/BERT', 'BERT_Model.zip')
         )
 
@@ -399,3 +411,16 @@ if current_selection == "Extract":
     #                 # Use pytesseract to extract text
     #                 new_text = pytesseract.image_to_string(gray)
     #                 ocr_text += new_text + '\n'
+
+
+st.sidebar.markdown(f"\n")
+st.sidebar.markdown(f"\n")
+st.sidebar.markdown(f"\n")
+st.sidebar.markdown(f"\n")
+st.sidebar.markdown(f"\n")
+st.sidebar.markdown(f"\n")
+st.sidebar.markdown(f"\n")
+st.sidebar.markdown(f"\n")
+st.sidebar.markdown(f"By:")
+st.sidebar.write(f"Brian Mutugi - 151174")
+st.sidebar.write(f"MSc DSA, Strathmore University")
