@@ -9,7 +9,7 @@ from sklearn.utils import shuffle
 from sklearn.feature_extraction.text import TfidfVectorizer
 import matplotlib.pyplot as plt
 import seaborn as sns
-import nltk
+# import nltk
 import numpy as np
 from scipy.sparse import hstack
 import cv2
@@ -125,7 +125,7 @@ if current_selection == "Extract":
     plt.rcParams['figure.figsize'] = [6, 3]
     # Configure Pytesseract path
     # pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
-    nltk.download('punkt')
+    # nltk.download('punkt')
 
 
     # Set the default figure size
