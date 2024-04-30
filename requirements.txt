@@ -7,7 +7,6 @@ pandas
 scikit-learn
 matplotlib
 seaborn
-nltk
 scipy
 scikit-learn
 regex
